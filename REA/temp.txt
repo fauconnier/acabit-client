@@ -1,0 +1,26 @@
+6 1 1 3 cheminée volcanique 1 * cheminée volcanique 
+20 1 1 2 chlorure hydrogène 2 * chlorure de hydrogène 
+10 1 2 1 présence magma 2 * présence de un magma 
+23 1 2 1 présence fumerolle 2 * présence de fumerolle 
+8 1 2 1 caractère explosif 1 * caractère explosif 
+7 1 2 1 caractère violent 1 * caractère violent 
+9 1 1 1 éruption présence 2 * éruption en présence 
+4 1 2 1 phénomène déterminant 1 * phénomène déterminant 
+3 1 2 1 phénomène déclenchement 2 * phénomène le déclenchement 
+19 1 1 2 monoxyde carbone 2 * monoxyde de carbone 
+11 1 2 1 magma visqueux.Les 1 * magma visqueux.Les 
+22 1 2 1 magma profondeur 2 * magma en profondeur 
+12 1 1 1 vapeur eau 2 * vapeur de eau 
+21 1 1 2 sulfure hydrogène 2 * sulfure de hydrogène 
+13 1 1 3 eau teneur 2 * eau à teneur 
+24 1 1 1 fumerolle autour 2 * fumerolle autour 
+18 1 1 1 élément volatil 1 * élément volatil 
+17 1 1 3 soufre teneur 2 * soufre à teneur 
+5 1 1 1 type éruptif 1 * type éruptif 
+2 2 4 3 gaz volcanique 1 * gaz volcanique 
+0 1 4 1 gaz volcaniquesLes 1 * gaz volcaniquesLes 
+1 1 4 1 gaz dissoudre 1 * gaz dissoudre 
+15 1 1 3 carbone teneur 2 * carbone à teneur 
+16 1 2 1 dioxyde soufre 2 * dioxyde de soufre 
+14 1 2 2 dioxyde carbone 2 * dioxyde de carbone 
+26

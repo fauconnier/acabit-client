@@ -1,0 +1,52 @@
+2 1018.835 2 4 3
+	gaz volcanique (2) * gaz volcanique  
+5 1012.594 1 1 1
+	type éruptif (1) * type éruptif  
+12 1012.594 1 1 1
+	vapeur eau (1) * vapeur de eau  
+9 1012.594 1 1 1
+	éruption présence (1) * éruption en présence  
+24 1012.594 1 1 1
+	fumerolle autour (1) * fumerolle autour  
+18 1012.594 1 1 1
+	élément volatil (1) * élément volatil  
+3 1011.207 1 2 1
+	phénomène déclenchement (1) * phénomène le déclenchement  
+22 1011.207 1 2 1
+	magma profondeur (1) * magma en profondeur  
+23 1011.207 1 2 1
+	présence fumerolle (1) * présence de fumerolle  
+20 1011.207 1 1 2
+	chlorure hydrogène (1) * chlorure de hydrogène  
+10 1011.207 1 2 1
+	présence magma (1) * présence de un magma  
+7 1011.207 1 2 1
+	caractère violent (1) * caractère violent  
+21 1011.207 1 1 2
+	sulfure hydrogène (1) * sulfure de hydrogène  
+4 1011.207 1 2 1
+	phénomène déterminant (1) * phénomène déterminant  
+11 1011.207 1 2 1
+	magma visqueux.Les (1) * magma visqueux.Les  
+19 1011.207 1 1 2
+	monoxyde carbone (1) * monoxyde de carbone  
+8 1011.207 1 2 1
+	caractère explosif (1) * caractère explosif  
+16 1011.207 1 2 1
+	dioxyde soufre (1) * dioxyde de soufre  
+17 1010.684 1 1 3
+	soufre teneur (1) * soufre à teneur  
+6 1010.684 1 1 3
+	cheminée volcanique (1) * cheminée volcanique  
+13 1010.684 1 1 3
+	eau teneur (1) * eau à teneur  
+15 1010.684 1 1 3
+	carbone teneur (1) * carbone à teneur  
+0 1010.344 1 4 1
+	gaz volcaniquesLes (1) * gaz volcaniquesLes  
+1 1010.344 1 4 1
+	gaz dissoudre (1) * gaz dissoudre  
+14 1009.867 1 2 2
+	dioxyde carbone (1) * dioxyde de carbone  
+
+Frequence totale : 26

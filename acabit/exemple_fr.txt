@@ -1,0 +1,416 @@
+<record>
+<AN>
+92/CAR/92 -/- 0014602/CAR/0014602 
+</AN>
+<AB>
+<ph_nb=1>On/PRV:3p:_:s:n/on examine/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/examiner:1g les/DTN:_:p/le alternatives/SBC:_:p/alternative d'/PREP/d' une/DTN:m:s/un production/SBC:_:s/production économique/ADJ:_:s/économique de/PREP/de vapeur/SBC:_:s/vapeur et/COO/et de/PREP/de courant/SBC:_:s/courant pour/PREP/pour la/DTN:f:s/le sucrerie/SBC:_:_/sucrerie ./. </ph>
+<ph_nb=2>On/PRV:3p:_:s:n/on énumère/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/énumérer:1g et/COO/et on/PRV:3p:_:s:n/on évalue/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/évaluer:1g les/DTN:_:p/le possibilités/SBC:_:p/possibilité d'/PREP/d' optimisation/SBC:_:s/optimisation en/PREP/en vue/SBC:f:s/vue d'/PREP/d' une/DTN:m:s/un réduction/SBC:_:s/réduction des/DTC:_:p/du besoins/SBC:_:p/besoin spécifiques/ADJ:_:p/spécifique en/PREP/en vapeur/SBC:_:s/vapeur pour/PREP/pour la/DTN:f:s/le production/SBC:_:s/production du/DTC:m:s/du courant/ADJ:m:s/courant </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0014603/CAR/0014603 
+</AN>
+<AB>
+<ph_nb=1>Lors/PUL/lors de/PREP/de la/DTN:f:s/le modernisation/SBC:_:s/modernisation et/COO/et de/PREP/de l'/DTN:_:s/le extension/SBC:_:s/extension d'/PREP/d' une/DTN:m:s/un sucrerie/SBC:_:_/sucrerie importante/ADJ:f:s/important ,/, on/PRV:3p:_:s:n/on se/PRV:3p:_:_:{a|d}/lui trouvait/VCJ:3p:s:impft:ind/trouver:1g placé/ADJ2PAR:m:s/placer devant/PREP/devant la/DTN:f:s/le nécessité/SBC:_:s/nécessité d'/PREP/d' adapter/VNCFF/adapter l'/DTN:_:s/le ensemble/SBC:_:s/ensemble de/PREP/de l'/DTN:_:s/le installation/SBC:_:s/installation électrique/ADJ:_:s/électrique aux/DTC:_:p/au nouvelles/SBC:_:p/nouvelle contraintes/ADJ2PAR:f:p/contraindre ./. </ph>
+<ph_nb=2>Il/PRV:3p:m:s:n/lui fallait/VCJ:3p:s:impft:ind/falloir:3g non_seulement/COO/non_seulement trouver/VNCFF/trouver la/DTN:f:s/le place/SBC:_:s/place nécessaire/ADJ:_:s/nécessaire mais/COO/mais l'/DTN:_:s/le installation/SBC:_:s/installation devait/VCJ:3p:s:impft:ind/devoir:3g également/ADV/également convenir/VNCFF/convenir quant/PUL/quant aux/DTC:_:p/au puissances/SBC:_:p/puissance et/COO/et aux/DTC:_:p/au normes/SBC:_:p/norme de/PREP/de distribution/SBC:_:s/distribution </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0014604/CAR/0014604 
+</AN>
+<AB>
+<ph_nb=1>Les/DTN:_:p/le progrès/SBC:_:_/progrès réalisés/ADJ2PAR:m:p/réaliser dans/PREP/dans la/DTN:f:s/le chimie/SBC:_:_/chimie analytique/ADJ:_:s/analytique permettent/VCJ:3p:p:pst:{ind|subj}/permettre:3g d'/PREP/d' établir/VNCFF/établir des/DTC:_:p/du balances/SBC:_:p/balance pour/PREP/pour les/DTN:_:p/le cations/SBC:_:p/cation et/COO/et anions/SBC:_:p/anion au/DTC:m:s/au moyen/SBC:_:s/moyen d'/PREP/d' analyses/SBC:_:p/analyse rapides/ADJ:_:p/rapide et/COO/et plutôt/ADV/plutôt simples/ADJ:_:p/simple ./. </ph>
+<ph_nb=2>Des/DTN:_:p/un cations/SBC:_:p/cation tels/ADJ:m:p/tel que/SUB$/que le/DTN:m:s/le sodium/SBC:_:s/sodium ,/, le/DTN:m:s/le potassium/SBC:_:s/potassium ,/, le/DTN:m:s/le calcium/SBC:_:s/calcium et/COO/et le/DTN:m:s/le magnésium/SBC:_:s/magnésium peuvent/VCJ:3p:p:pst:ind/pouvoir:3g ,/, être/ENCFF/être dosés/ADJ1PAR:m:p/doser par/PREP/par des/DTC:_:p/du méthodes/SBC:_:p/méthode de/PREP/de routine/SBC:_:s/routine ./. </ph>
+<ph_nb=3>Cet/DTN:m:s/ce articles/SBC:_:p/article passe/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/passer:1g en/PREP/en revue/SBC:f:s/revue les/DTN:_:p/le travaux/SBC:m:p/travail effectués/ADJ2PAR:m:p/effectuer dans/PREP/dans ce/DTN:m:s/ce domaine/SBC:_:s/domaine par/PREP/par la/DTN:f:s/le CSM/SBP?/cSM et/COO/et on/PRV:3p:_:s:n/on fait/VCJ:3p:s:ps:ind/faire:3g une/DTN:m:s/un mise/SBC:_:s/mise à/PREP/à jour/SBC:_:s/jour du/DTC:m:s/du sujet/SBC:_:s/sujet ,/, tout/ADV/tout en/PREP/en se/PRV:3p:_:_:{a|d}/lui basant/VNCNT:m:s/baser:1g sur/PREP/sur quelques/DTN:_:p/quelque applications/SBC:_:p/application pratiques/ADJ:_:p/pratique </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0019599/CAR/0019599 
+</AN>
+<AB>
+<ph_nb=1>Présentation/SBC:_:s/présentation d'/PREP/d' une/DTN:m:s/un nouvelle/ADJ:f:s/nouveau technologie/SBC:_:_/technologie de/PREP/de collage/SBC:_:s/collage en/PREP/en milieu/SBC:_:s/milieu basique/ADJ:_:s/basique du/DTC:m:s/du carton/SBC:_:s/carton pour/PREP/pour emballage/SBC:_:s/emballage de/PREP/de liquides/SBC:_:p/liquide alimentaires/ADJ:_:p/alimentaire ./. </ph>
+<ph_nb=2>Ce/DTN:m:s/ce système/SBC:_:s/système combine/SBC:_:s/combine un/DTN:m:s/un dimère/SBC:_:s/dimère d'/PREP/d' alkylcétène/VNCFF/alkylcétène ,/, de/PREP/de la/DTN:f:s/le colophane/SBC:_:s/colophane cationique/ADJ:_:s/cationique et/COO/et un/DTN:m:s/un fixateur/ADJ:m:s/fixateur (/( alun/SBC:_:s/alun )/) ./. </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0020263/CAR/0020263 
+</AN>
+<TI>
+<ph_nb=1>Le/DTN:m:s/le chrome/SBC:_:s/chrome des/DTC:_:p/du produits/SBC:_:p/produit alimentaires/ADJ:_:p/alimentaire :/: origine/SBC:_:s/origine et/COO/et teneurs/SBC:_:p/teneur </ph>
+</TI>
+<AB>
+<ph_nb=1>L'/DTN:_:s/le origine/SBC:_:s/origine du/DTC:m:s/du chrome/SBC:_:s/chrome dans/PREP/dans les/DTN:_:p/le aliments/SBC:_:p/aliment est/VCJ:3p:s:pst:ind/être:3g double/ADJ:_:s/double :/: une/DTN:m:s/un fraction/SBC:_:s/fraction provient/VCJ:3p:s:pst:ind/provenir:3g de/PREP/de la/DTN:f:s/le solubilisation/SBC:_:s/solubilisation des/DTC:_:p/du formes/SBC:_:p/forme minérales/ADJ:f:p/minéral du/DTC:m:s/du sol/SBC:_:s/sol ,/, une/DTN:m:s/un autre/PRO:_p:_:s:_/autre résulte/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/résulter:1g des/DTC:_:p/du opérations/SBC:_:p/opération technologiques/ADJ:_:p/technologique ./. </ph>
+<ph_nb=2>Les/DTN:_:p/le denrées/SBC:_:p/denrée d'/PREP/d' origine/SBC:_:s/origine végétale/ADJ:f:s/végétal fournissent/VCJ:3p:p:pst:{ind|subj}/fournir:2g la/DTN:f:s/le majorité/SBC:_:s/majorité du/DTC:m:s/du chrome/SBC:_:s/chrome alimentaire/ADJ:_:s/alimentaire ./. </ph>
+<ph_nb=3>Le/DTN:m:s/le site/SBC:_:s/site de/PREP/de pêche/SBC:_:s/pêche est/VCJ:3p:s:pst:ind/être:3g déterminant/ADJ:m:s/déterminant dans/PREP/dans la/DTN:f:s/le teneur/SBC:_:s/teneur en/PREP/en chrome/SBC:_:s/chrome des/DTC:_:p/du produits/SBC:_:p/produit aquatiques/ADJ:_:p/aquatique ./. </ph>
+<ph_nb=4>L'/DTN:_:s/le évolution/SBC:_:s/évolution de/PREP/de la/DTN:f:s/le teneur/SBC:_:s/teneur en/PREP/en chrome/SBC:_:s/chrome est/VCJ:3p:s:pst:ind/être:3g également/ADV/également déterminée/ADJ1PAR:f:s/déterminer dans/PREP/dans la/DTN:f:s/le viande/SBC:_:s/viande et/COO/et les/DTN:_:p/le produits/SBC:_:p/produit carnés/ADJ:m:p/carné ,/, les/DTN:_:p/le boissons/SBC:_:p/boisson fermentées/ADJ2PAR:f:p/fermenter ,/, le/DTN:m:s/le sucre/SBC:_:s/sucre raffiné/ADJ2PAR:m:s/raffiner et/COO/et les/DTN:_:p/le produits/SBC:_:p/produit appertisés./ABR/appertisés. </ph>
+</AB>
+</record>
+
+<record>
+<AN>
+92/CAR/92 -/- 0020264/CAR/0020264 
+</AN>
+<TI>
+<ph_nb=1>Évolution/SBC:_:s/Évolution des/DTC:_:p/du polysaccharides/SBC:_:p/polysaccharide pariétaux/ADJ:m:p/pariétal de/PREP/de la/DTN:f:s/le prune/SBC:_:s/prune de/PREP/de cythère/VNCFF/cythère (/( Spondias_cytherea/SBC:_:s/spondias_cytherea )/) au_cours_de/PREP/au_cours_de l'/DTN:_:s/le extraction/SBC:_:s/extraction et/COO/et de/PREP/de la/DTN:f:s/le clarification/SBC:_:s/clarification du/DTC:m:s/du jus/SBC:m:_/jus </ph>
+</TI>
+<AB>
+<ph_nb=1>Les/DTN:_:p/le polyosides/SBC:_:p/polyoside de/PREP/de Spondis/SBP?/spondis cytherea/VCJ:3p:s:ps:ind/cythereer:1g sont/VCJ:3p:p:pst:ind/être:3g analysés/ADJ1PAR:m:p/analyser au_cours_de/PREP/au_cours_de l'/DTN:_:s/le obtention/SBC:_:s/obtention du/DTC:m:s/du jus/SBC:m:_/jus limpide/ADJ:_:s/limpide destiné/ADJ2PAR:m:s/destiner à/PREP/à l'/DTN:_:s/le élaboration/SBC:_:s/élaboration de/PREP/de boissons/SBC:_:p/boisson ./. </ph>
+<ph_nb=2>Les/DTN:_:p/le pectines/SBC:_:p/pectine et/COO/et les/DTN:_:p/le hémicelluloses/SBC:_:p/hémicellulose représentent/VCJ:3p:p:pst:{ind|subj}/représenter:1g respectivement/ADV/respectivement 4,1/CAR/4,1 et/COO/et 3,6/CAR/3,6 %/SYM/% de/PREP/de la/DTN:f:s/le pulpe/SBC:_:s/pulpe sèche/ADJ:f:s/sec ./. </ph>
+<ph_nb=3>Les/DTN:_:p/le fractions/SBC:_:p/fraction pectiques/ADJ:_:p/pectique de/PREP/de la/DTN:f:s/le pulpe/SBC:_:s/pulpe contiennent/VCJ:3p:p:pst:{ind|subj}/contenir:3g de/PREP/de fortes/ADJ:_:p/forte proportions/SBC:_:p/proportion d'/PREP/d' acides/SBC:_:p/acide galacturoniques/ADJ:_:p/galacturonique hautement/ADV/hautement estérifiés/ADJ2PAR:m:p/estérifier ;/; </ph>
+<ph_nb=4>les/DTN:_:p/le chaînes/SBC:_:p/chaîne latérales/ADJ:f:p/latéral pectiques/ADJ:_:p/pectique sont/VCJ:3p:p:pst:ind/être:3g des/DTC:_:p/du arabinanes/SBC:_:p/arabinane </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0020265/CAR/0020265 
+</AN>
+<AB>
+<ph_nb=1>L'/DTN:_:s/le effet/SBC:_:s/effet de/PREP/de l'/DTN:_:s/le addition/SBC:_:s/addition d'/PREP/d' enzyme/SBC:_:s/enzyme pectolytique/ADJ:_:s/pectolytique au/DTC:m:s/au moût/SBC:_:s/moût sur/PREP/sur l'/DTN:_:s/le évolution/SBC:_:s/évolution de/PREP/de la/DTN:f:s/le fermentation/SBC:_:s/fermentation ainsi_que/SUB/ainsi_que sur/PREP/sur la/DTN:f:s/le composition/SBC:_:s/composition et/COO/et la/DTN:f:s/le qualité/SBC:_:s/qualité du/DTC:m:s/du cidre/SBC:_:s/cidre a/VCJ:3p:s:pst:ind/avoir:3g été/EPAR:m:s/être étudié/ADJ1PAR:m:s/étudier ./. </ph>
+<ph_nb=2>La/DTN:f:s/le clarification/SBC:_:s/clarification enzymatique/ADJ:_:s/enzymatique améliore/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/améliorer:1g la/DTN:f:s/le couleur/SBC:_:s/couleur du/DTC:m:s/du cidre/SBC:_:s/cidre et/COO/et les/DTN:_:p/le qualités/SBC:_:p/qualité sensorielles/ADJ:f:p/sensoriel du/DTC:m:s/du cidre./ABR/cidre. </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0020266/CAR/0020266 
+</AN>
+<TI>
+<ph_nb=1>Quelques/DTN:_:p/quelque données/SBC:_:p/donnée sur/PREP/sur le/DTN:m:s/le séchage/SBC:_:s/séchage de/PREP/de l'/DTN:_:s/le abricot/SBC:_:s/abricot :/: cinétique/ADJ:_:s/cinétique de/PREP/de séchage/SBC:_:s/séchage et/COO/et qualité/SBC:_:s/qualité du/DTC:m:s/du produit/SBC:_:s/produit séché/ADJ2PAR:m:s/sécher </ph>
+</TI>
+<AB>
+<ph_nb=1>A/PREP/a l'/DTN:_:s/le aide/SBC:_:s/aide d'/PREP/d' un/DTN:m:s/un séchoir/SBC:_:s/séchoir expérimental/ADJ:m:s/expérimental de/PREP/de laboratoire/SBC:_:s/laboratoire ,/, les/DTN:_:p/le cinétiques/SBC:_:p/cinétique de/PREP/de séchage/SBC:_:s/séchage d'/PREP/d' oreillons/SBC:_:p/oreillon d'/PREP/d' abricots/SBC:_:p/abricot (/( variété/SBC:_:s/variété canico/ADJ:m:s/canico )/) ont/VCJ:3p:p:pst:ind/avoir:3g été/EPAR:m:s/être déterminées/ADJ1PAR:f:p/déterminer ,/, en/PREP/en fonction/SBC:_:s/fonction de/PREP/de cinq/CAR/cinq variables/ADJ:_:p/variable :/: la/DTN:f:s/le température/SBC:_:s/température et/COO/et la/DTN:f:s/le vitesse/SBC:_:s/vitesse de/PREP/de l'/DTN:_:s/le air/SBC:_:s/air de/PREP/de séchage/SBC:_:s/séchage ,/, la/DTN:f:s/le durée/SBC:_:s/durée du/DTC:m:s/du trempage/SBC:_:s/trempage des/DTC:_:p/du abricots/SBC:_:p/abricot dans/PREP/dans une/DTN:m:s/un solution/SBC:_:s/solution de/PREP/de soude/SBC:_:s/soude ,/, la/DTN:f:s/le durée/SBC:_:s/durée du/DTC:m:s/du blanchiment/SBC:_:s/blanchiment à/PREP/à la/DTN:f:s/le vapeur/SBC:_:s/vapeur d'/PREP/d' eau/SBC:_:s/eau et/COO/et le/DTN:m:s/le taux/SBC:m:_/taux de/PREP/de sufitation./ABR/sufitation. </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0020267/CAR/0020267 
+</AN>
+<AB>
+<ph_nb=1>Les/DTN:_:p/le courbes/SBC:_:p/courbe représentatives/ADJ:f:p/représentatif du/DTC:m:s/du temps/SBC:_:_/temps de/PREP/de relaxation/SBC:_:s/relaxation longitudinale/ADJ:f:s/longitudinal (/( T/SBP?/t <sub>1/CAR/1 </sub>)/) et/COO/et du/DTC:m:s/du temps/SBC:_:_/temps de/PREP/de relaxation/SBC:_:s/relaxation transversal/ADJ:m:s/transversal (/( T/SBP?/t <sub>2/CAR/2 </sub>)/) en/PREP/en fonction/SBC:_:s/fonction de/PREP/de l'/PRV:3p:_:s:a/le a/VCJ:3p:s:pst:ind/avoir:3g <sub>w/NN/w </sub>,/, de_même/ADV/de_même que/SUB$/que l'/DTN:_:s/le amplitude/SBC:_:s/amplitude du/DTC:m:s/du signal/SBC:_:s/signal par/PREP/par gramme/SBC:_:s/gramme d'/PREP/d' échantillon/SBC:_:s/échantillon ,/, ne/ADV/ne sont/VCJ:3p:p:pst:ind/être:3g par/PREP/par superposables/ADJ:_:p/superposable d'/PREP/d' un/DTN:m:s/un lot/SBC:_:s/lot de/PREP/de carotte/SBC:_:s/carotte à/PREP/à un/DTN:m:s/un autre/PRO:_p:_:s:_/autre ./. </ph>
+<ph_nb=2>Les/DTN:_:p/le résultats/SBC:_:p/résultat permettent/VCJ:3p:p:pst:{ind|subj}/permettre:3g d'/PREP/d' envisager/VNCFF/envisager l'/DTN:_:s/le élaboration/SBC:_:s/élaboration d'/PREP/d' une/DTN:m:s/un méthode/SBC:_:s/méthode rapide/ADJ:_:s/rapide pour/PREP/pour suivre/VNCFF/suivre le/DTN:m:s/le séchage/SBC:_:s/séchage industriel/ADJ:m:s/industriel des/DTC:_:p/du de/PREP/de produits/SBC:_:p/produit végétaux./ABR/végétaux. </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0020268/CAR/0020268 
+</AN>
+<TI>
+<ph_nb=1>Etude/SBC:_:s/etude de/PREP/de la/DTN:f:s/le flore/SBC:_:s/flore lactique/ADJ:_:s/lactique de/PREP/de levains/SBC:_:p/levain naturels/ADJ:m:p/naturel de/PREP/de panification/SBC:_:s/panification provenant/VNCNT:m:s/provenir:3g de/PREP/de différentes/ADJ:f:p/différent régions/SBC:_:p/région françaises/ADJ:f:p/français </ph>
+</TI>
+<AB>
+<ph_nb=1>Les/DTN:_:p/le flores/SBC:_:p/flore lactiques/ADJ:_:p/lactique de/PREP/de 12/CAR/12 levains/SBC:_:p/levain naturels/ADJ:m:p/naturel de/PREP/de panification/SBC:_:s/panification ont/VCJ:3p:p:pst:ind/avoir:3g été/EPAR:m:s/être étudiées./ABR/étudiées. 357/CAR/357 souches/SBC:_:p/souche de/PREP/de bactéries/SBC:_:p/bactérie lactiques/ADJ:_:p/lactique ont/VCJ:3p:p:pst:ind/avoir:3g été/EPAR:m:s/être identifiées/ADJ1PAR:f:p/identifier ./. </ph>
+<ph_nb=2>Elles/PRV:3p:f:p:{n|d|o}/lui appartiennent/VCJ:3p:p:pst:{ind|subj}/appartenir:3g aux/DTC:_:p/au genres/SBC:_:p/genre Lactobacillus/SBC:m:_/lactobacillus ,/, Leuconostoc/SBC:_:s/leuconostoc et/COO/et Pédiococcus/SBP?/pédiococcus ./. </ph>
+<ph_nb=3>La/DTN:f:s/le plupart/SBC:_:s/plupart des/DTC:_:p/du espèces/SBC:_:p/espèce identifiées/ADJ2PAR:f:p/identifier sont/VCJ:3p:p:pst:ind/être:3g fréquemment/ADV/fréquemment rencontrées/ADJ1PAR:f:p/rencontrer dans/PREP/dans les/DTN:_:p/le produits/SBC:_:p/produit céréaliers/SBC:_:p/céréalier ./. </ph>
+<ph_nb=4>L'/DTN:_:s/le importance/SBC:_:s/importance de/PREP/de la/DTN:f:s/le flore/SBC:_:s/flore lactique/ADJ:_:s/lactique totale/ADJ:f:s/total ainsi_que/SUB/ainsi_que la/DTN:f:s/le répartition/SBC:_:s/répartition des/DTC:_:p/du genres/SBC:_:p/genre ,/, espèces/SBC:_:p/espèce et/COO/et types/SBC:_:p/type fermentaires/ADJ2PAR:f:p/ir sont/VCJ:3p:p:pst:ind/être:3g très/ADV/très variables/ADJ:_:p/variable d'/PREP/d' un/DTN:m:s/un levain/SBC:_:s/levain à/PREP/à l'/DTN:_:s/le autre./ABR/autre. </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0020269/CAR/0020269 
+</AN>
+<TI>
+<ph_nb=1>Dosage/SBC:_:s/dosage de/PREP/de l'/DTN:_:s/le hydroxyméthylfurfural/ADJ1PAR:m:s/hydroxyméthylfurfir dans/PREP/dans les/DTN:_:p/le miels/SBC:_:p/miel par/PREP/par chromatographie/SBC:_:_/chromatographie liquide/ADJ:_:s/liquide et/COO/et spectrophotométrie/SBC:_:_/spectrophotométrie UV/SBP?/uV </ph>
+</TI>
+<AB>
+<ph_nb=1>La/DTN:f:s/le réglementation/SBC:_:s/réglementation actuelle/ADJ:f:s/actuel de/PREP/de la/DTN:f:s/le CEE/SBP/cEE limite/SBC:_:s/limite le/DTN:m:s/le contenu/SBC:m:s/contenu des/DTC:_:p/du miels/SBC:_:p/miel en/PREP/en hydroxyméthylfurfural/ADJ1PAR:m:s/hydroxyméthylfurfir à/PREP/à 15/CAR/15 mg/SBC:_:s/mg /// kg/NN/kg et/COO/et 40/CAR/40 mg/SBC:_:s/mg /// kg/NN/kg ./. </ph>
+<ph_nb=2>Ce/PRV:3p:_:_:n/ce composé/ADJ2PAR:m:s/composer provient/VCJ:3p:s:pst:ind/provenir:3g principalement/ADV/principalement du/DTC:m:s/du chauffage/SBC:_:s/chauffage et/COO/et du/DTC:m:s/du vieillissement/SBC:_:s/vieillissement du/DTC:m:s/du miel/SBC:_:s/miel ./. </ph>
+<ph_nb=3>La/DTN:f:s/le chromatographie/SBC:_:_/chromatographie liquide/ADJ:_:s/liquide est/VCJ:3p:s:pst:ind/être:3g utilisée/ADJ1PAR:f:s/utiliser pour/PREP/pour améliorer/VNCFF/améliorer l'/DTN:_:s/le identification/SBC:_:s/identification et/COO/et la/DTN:f:s/le quantification/SBC:_:s/quantification de/PREP/de l'/DTN:_:s/le HMF/SBP?/hMF et/COO/et distinguer/VNCFF/distinguer les/DTN:_:p/le miels/SBC:_:p/miel chauffés/ADJ2PAR:m:p/chauffer de/PREP/de ceux/PRO:3p:m:p:_/celui non/ADV/non chauffés/ADJ2PAR:m:p/chauffer et/COO/et vieillis./ABR/vieillis. </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0075503/CAR/0075503 
+</AN>
+<TI>
+<ph_nb=1>Caractérisation/SBC:_:s/caractérisation sensorielle/ADJ:f:s/sensoriel des/DTC:_:p/du aliments/SBC:_:p/aliment par/PREP/par analyse/SBC:_:s/analyse factorielle/SBC:_:s/factorielle discriminante/ADJ:f:s/discriminant :/: l'/DTN:_:s/le apport/SBC:_:s/apport du/DTC:m:s/du centrage/SBC:_:s/centrage et/COO/et de/PREP/de la/DTN:f:s/le réduction/SBC:_:s/réduction des/DTC:_:p/du données/SBC:_:p/donnée </ph>
+</TI>
+<AB>
+<ph_nb=1>Cette/DTN:f:s/ce transformation/SBC:_:s/transformation classique/ADJ:_:s/classique ,/, souvent/ADV/souvent oubliée/ADJ2PAR:f:s/oublier ,/, lors_de/PREP/lors_de l'/DTN:_:s/le utilisation/SBC:_:s/utilisation des/DTC:_:p/du données/SBC:_:p/donnée peut/VCJ:3p:s:pst:ind/pouvoir:3g cependant/ADV/cependant s'/PRV:3p:_:_:{a|d}/lui avérer/VNCFF/avérer très/ADV/très performante/ADJ:f:s/performant lorsque/SUB/lorsque l'/DTN:_:s/le on/PRV:3p:_:s:n/on désire/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/désirer:1g caractériser/VNCFF/caractériser ou/COO/ou comparer/VNCFF/comparer plusieurs/DTN:_:p/plusieurs produits/SBC:_:p/produit ./. </ph>
+<ph_nb=2>Dans/PREP/dans l'/DTN:_:s/le exemple/SBC:_:s/exemple choisi/ADJ2PAR:m:s/choisir ,/, il/PRV:3p:m:s:n/lui apparait/VCJ:3p:s:impft:ind/apparer:1g clairement/ADV/clairement que/SUB$/que le/DTN:m:s/le centrage/SBC:_:s/centrage des/DTC:_:p/du données/SBC:_:p/donnée facilite/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/faciliter:1g la/DTN:f:s/le distinction/SBC:_:s/distinction des/DTC:_:p/du juges/SBC:_:p/juge qui/REL:_:_/qui utilisent/VCJ:3p:p:pst:{ind|subj}/utiliser:1g en/PREP/en totalité/SBC:_:s/totalité ou/COO/ou en_partie/ADV/en_partie l'/DTN:_:s/le échelle/SBC:_:s/échelle de/PREP/de notation/SBC:_:s/notation </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0076348/CAR/0076348 
+</AN>
+<AB>
+<ph_nb=1>Un/DTN:m:s/un système/SBC:_:s/système d'/PREP/d' analyse/SBC:_:s/analyse d'/PREP/d' image/SBC:_:s/image permettant/VNCNT:m:s/permettre:3g de/PREP/de travailler/VNCFF/travailler à/PREP/à différentes/ADJ:f:p/différent longueurs/SBC:_:p/longueur d'/PREP/d' onde/SBC:_:s/onde dans/PREP/dans le/DTN:m:s/le proche/ADJ:_:s/proche infra-rouge/SBC:_:s/infra-rouge a/VCJ:3p:s:pst:ind/avoir:3g été/EPAR:m:s/être conçu/ADJ1PAR:m:s/concevoir et/COO/et testé/ADJ2PAR:m:s/tester ./. </ph>
+<ph_nb=2>Ce/DTN:m:s/ce système/SBC:_:s/système ,/, permet/VCJ:3p:s:pst:ind/permettre:3g d'/PREP/d' enregistrer/VNCFF/enregistrer des/DTC:_:p/du images/SBC:_:p/image entre/PREP/entre 900/CAR/900 et/COO/et 1900/CAR/1900 nm/SBC:_:s/nm tous/DTN:m:p/tout les/DTN:_:p/le 50/CAR/50 nm/SBC:_:s/nm ./. </ph>
+<ph_nb=3>Au/DTC:m:s/au {cours/SBC:f:p/cour|cours/SBC:m:_/cours} de/PREP/de ce/DTN:m:s/ce travail/SBC:_:s/travail ,/, le/DTN:m:s/le bruit/SBC:_:s/bruit et/COO/et la/DTN:f:s/le sensibilité/SBC:_:s/sensibilité du/DTC:m:s/du système/SBC:_:s/système ont/VCJ:3p:p:pst:ind/avoir:3g été/EPAR:m:s/être étudiés/ADJ1PAR:m:p/étudier ./. </ph>
+<ph_nb=4>Par/PREP/par ailleurs/ADV/ailleurs ,/, une/DTN:m:s/un identification/SBC:_:s/identification de/PREP/de deux/CAR/deux constituants/SBC:_:p/constituant biochimiques/ADJ:_:p/biochimique (/( cellulose/SBC:_:s/cellulose et/COO/et caséine/SBC:_:s/caséine )/) a/VCJ:3p:s:pst:ind/avoir:3g été/EPAR:m:s/être tentée/ADJ1PAR:f:s/tenter ./. </ph>
+<ph_nb=5>Une/DTN:m:s/un étude/SBC:_:s/étude du/DTC:m:s/du bruit/SBC:_:s/bruit en/PREP/en fonction/SBC:_:s/fonction du/DTC:m:s/du nombre/SBC:_:s/nombre de/PREP/de scrutations/SBC:_:p/scrutation a/VCJ:3p:s:pst:ind/avoir:3g été/EPAR:m:s/être réalisée/ADJ1PAR:f:s/réaliser ./. </ph>
+<ph_nb=6>Les/DTN:_:p/le résultats/SBC:_:p/résultat obtenus/ADJ2PAR:m:p/obtenir indiquent/VCJ:3p:p:pst:{ind|subj}/indiquer:1g que/SUB$/que la/DTN:f:s/le spectrométrie/SBC:_:_/spectrométrie d'/PREP/d' image/SBC:_:s/image pourrait/VCJ:3p:s:pst:cond/pouvoir:3g être/ENCFF/être utilisée/ADJ1PAR:f:s/utiliser pour/PREP/pour le/DTN:m:s/le contrôle/SBC:_:s/contrôle de/PREP/de la/DTN:f:s/le qualité/SBC:_:s/qualité des/DTC:_:p/du produits/SBC:_:p/produit alimentaires/ADJ:_:p/alimentaire </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0076349/CAR/0076349 
+</AN>
+<TI>
+<ph_nb=1>Chimiométrie/SBP?/chimiométrie et/COO/et modélisation/SBC:_:s/modélisation du/DTC:m:s/du contrôle/SBC:_:s/contrôle de/PREP/de qualité/SBC:_:s/qualité ./. </ph>
+<ph_nb=2>I/CAR/i :/: Définitions/SBP?/définitions des/DTC:_:p/du valeurs/SBC:_:p/valeur de/PREP/de référence/SBC:_:s/référence pour/PREP/pour l'/DTN:_:s/le industrie/SBC:_:_/industrie sucrière/ADJ:f:s/sucrier </ph>
+</TI>
+<AB>
+<ph_nb=1>Le/DTN:m:s/le non-sucre/SBC:_:s/non-sucre contient/VCJ:3p:s:pst:ind/contenir:3g les/DTN:_:p/le impuretés/SBC:_:p/impureté qui/REL:_:_/qui sont/VCJ:3p:p:pst:ind/être:3g à/PREP/à la/DTN:f:s/le base/SBC:_:s/base de/PREP/de leur/DTN:_:s/leur dépréciation/SBC:_:s/dépréciation économique/ADJ:_:s/économique et/COO/et technologique/ADJ:_:s/technologique ./. </ph>
+<ph_nb=2>Dans/PREP/dans ce/DTN:m:s/ce but/SBC:_:s/but de/PREP/de nouvelles/ADJ:f:p/nouveau méthodes/SBC:_:p/méthode d'/PREP/d' analyse/SBC:_:s/analyse ont/VCJ:3p:p:pst:ind/avoir:3g été/EPAR:m:s/être développées/ADJ1PAR:f:p/développer pour/PREP/pour permettre/VNCFF/permettre la/DTN:f:s/le détermination/SBC:_:s/détermination d'/PREP/d' un/DTN:m:s/un ensemble/SBC:_:s/ensemble de/PREP/de 15/CAR/15 micro-constituants/ADJ:m:p/micro-constituant minéraux/SBC:m:p/minéral et/COO/et organiques/ADJ:_:p/organique ./. </ph>
+<ph_nb=3>Un/DTN:m:s/un plan/SBC:_:s/plan d'/PREP/d' échantillonnage/SBC:_:s/échantillonnage très/ADV/très complet/ADJ:m:s/complet comportant/VNCNT:m:s/comporter:1g 35/CAR/35 produits/SBC:_:p/produit et/COO/et sous-produits/SBC:_:p/sous-produit ,/, appliqué/ADJ2PAR:m:s/appliquer sur/PREP/sur deux/CAR/deux campagnes/SBC:_:p/campagne ,/, a/VCJ:3p:s:pst:ind/avoir:3g permis/VPAR:m:_/permettre la/DTN:f:s/le collection/SBC:_:s/collection de/PREP/de plus/ADV/plus de/PREP/de 10/CAR/10 000/CAR/000 mesures/SBC:_:p/mesure qui/REL:_:_/qui ont/VCJ:3p:p:pst:ind/avoir:3g été/EPAR:m:s/être organisées/ADJ1PAR:f:p/organiser en/PREP/en une/DTN:m:s/un banque/SBC:_:s/banque de/PREP/de données/ADJ2PAR:f:p/donner </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0076350/CAR/0076350 
+</AN>
+<TI>
+<ph_nb=1>Chimiométrie/SBP?/chimiométrie et/COO/et modélisation/SBC:_:s/modélisation du/DTC:m:s/du contrôle/SBC:_:s/contrôle de/PREP/de qualité/SBC:_:s/qualité ./. </ph>
+<ph_nb=2>II/CAR/iI :/: Elaboration/SBP?/elaboration des/DTC:_:p/du modèles/SBC:_:p/modèle de/PREP/de qualité/SBC:_:s/qualité </ph>
+</TI>
+<AB>
+<ph_nb=1>La/DTN:f:s/le définition/SBC:_:s/définition raisonnée/ADJ2PAR:f:s/raisonner d'/PREP/d' un/DTN:m:s/un plan/SBC:_:s/plan de/PREP/de contrôle/SBC:_:s/contrôle en/PREP/en vue/SBC:f:s/vue d'/PREP/d' assurer/VNCFF/assurer la/DTN:f:s/le qualité/SBC:_:s/qualité des/DTC:_:p/du produits/SBC:_:p/produit de/PREP/de sucrerie/SBC:_:_/sucrerie ne/ADV/ne peut/VCJ:3p:s:pst:ind/pouvoir:3g se/PRV:3p:_:_:{a|d}/lui faire/VNCFF/faire par/PREP/par une/DTN:m:s/un simple/ADJ:_:s/simple approche/SBC:_:s/approche mono-dimensionnelle/ADJ:f:s/mono-dimensionnel ./. </ph>
+<ph_nb=2>L'/DTN:_:s/le utilisation/SBC:_:s/utilisation d'/PREP/d' une/DTN:m:s/un méthode/SBC:_:s/méthode statistique/ADJ:_:s/statistique non/ADV/non paramétrique/ADJ:_:s/paramétrique permet/VCJ:3p:s:pst:ind/permettre:3g de/PREP/de parfaire/VNCFF/parfaire les/DTN:_:p/le conclusions/SBC:_:p/conclusion de/PREP/de la/DTN:f:s/le première/ADJ:f:s/premier partie/SBC:f:s/partie de/PREP/de l'/DTN:_:s/le étude/SBC:_:s/étude en/PREP/en vue/SBC:f:s/vue de/PREP/de comprendre/VNCFF/comprendre les/DTN:_:p/le évolutions/SBC:_:p/évolution en/PREP/en {cours/SBC:f:p/cour|cours/SBC:m:_/cours} de/PREP/de process/SBC:_:p/proces ./. </ph>
+<ph_nb=3>Par_contre/ADV/par_contre ,/, seules/ADJ:f:p/seul les/DTN:_:p/le méthodes/SBC:_:p/méthode statistiques/ADJ:_:p/statistique à/PREP/à variables/SBC:_:p/variable multiples/ADJ:_:p/multiple peuvent/VCJ:3p:p:pst:ind/pouvoir:3g servir/VNCFF/servir à/PREP/à élaborer/VNCFF/élaborer un/DTN:m:s/un plan/SBC:_:s/plan d'/PREP/d' échantillonnage/SBC:_:s/échantillonnage et/COO/et un/DTN:m:s/un cahier/SBC:_:s/cahier des/DTC:_:p/du charges/SBC:_:p/charge analytiques/ADJ:_:p/analytique cohérent/ADJ:m:s/cohérent </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0076351/CAR/0076351 
+</AN>
+<TI>
+<ph_nb=1>De/PREP/de l'/DTN:_:s/le hétérogénéité/SBC:_:s/hétérogénéité des/DTC:_:p/du fruits/SBC:_:p/fruit </ph>
+</TI>
+<AB>
+<ph_nb=1>Des/DTN:_:p/un techniques/SBC:_:p/technique de/PREP/de pénétrométrie/VNCFF/pénétrométrie et/COO/et d'/PREP/d' analyse/SBC:_:s/analyse d'/PREP/d' images/SBC:_:p/image sont/VCJ:3p:p:pst:ind/être:3g appliquées/ADJ1PAR:f:p/appliquer à/PREP/à l'/DTN:_:s/le étude/SBC:_:s/étude de/PREP/de l'/DTN:_:s/le hétérogénéité/SBC:_:s/hétérogénéité du/DTC:m:s/du parenchyme/SBC:_:s/parenchyme de/PREP/de fruits/SBC:_:p/fruit ./. </ph>
+<ph_nb=2>Des/DTN:_:p/un gradients/SBC:_:p/gradient radiaux/ADJ:m:p/radial et/COO/et tangentiels/ADJ:m:p/tangentiel sont/VCJ:3p:p:pst:ind/être:3g mis/ADJ1PAR:m:_/mettre en/PREP/en évidence/SBC:_:s/évidence pour/PREP/pour un/DTN:m:s/un critère/SBC:_:s/critère de/PREP/de fermeté/SBC:_:s/fermeté et/COO/et certains/DTN:m:p/certain paramètres/SBC:_:p/paramètre biochimiques/ADJ:_:p/biochimique de/PREP/de l'/DTN:_:s/le avocat/SBC:_:s/avocat ,/, du/DTC:m:s/du melon/SBC:_:s/melon ou/COO/ou de/PREP/de la/DTN:f:s/le pomme/SBC:_:s/pomme ./. </ph>
+<ph_nb=3>L'/DTN:_:s/le ordre/SBC:_:s/ordre de/PREP/de grandeur/SBC:_:s/grandeur de/PREP/de l'/DTN:_:s/le erreur/SBC:_:s/erreur due/ADJ2PAR:f:s/devoir à/PREP/à l'/DTN:_:s/le assimilation/SBC:_:s/assimilation du/DTC:m:s/du résultat/SBC:_:s/résultat d'/PREP/d' une/DTN:m:s/un mesure/SBC:_:s/mesure ponctuelle/ADJ:f:s/ponctuel à/PREP/à la/DTN:f:s/le valeur/SBC:_:s/valeur moyenne/ADJ:f:s/moyen du/DTC:m:s/du fruit/SBC:_:s/fruit entier/ADJ:m:s/entier est/VCJ:3p:s:pst:ind/être:3g estimée/ADJ1PAR:f:s/estimer </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0076352/CAR/0076352 
+</AN>
+<TI>
+<ph_nb=1>Evoluton/SBP?/evoluton des/DTC:_:p/du polysasccharides/SBC:_:p/polysasccharide pariétaux/ADJ:m:p/pariétal de/PREP/de carottes/SBC:_:p/carotte râpées/ADJ2PAR:f:p/râper prêtes/ADJ:f:p/prêt à/PREP/à l'/DTN:_:s/le emploi/SBC:m:s/emploi soumises/ADJ2PAR:f:p/soumettre à/PREP/à des/DTC:_:p/du traitements/SBC:_:p/traitement ionisants/ADJ:m:p/ionisant et/COO/et /// ou/COO/ou calciques/ADJ:_:p/calcique </ph>
+</TI>
+<AB>
+<ph_nb=1>Les/DTN:_:p/le polysaccharides/SBC:_:p/polysaccharide pariétaux/ADJ:m:p/pariétal de/PREP/de carottes/SBC:_:p/carotte râpées/ADJ2PAR:f:p/râper sont/VCJ:3p:p:pst:ind/être:3g extraits/ADJ1PAR:m:p/extraire ,/, 2/CAR/2 ,/, 7/CAR/7 et/COO/et 13/CAR/13 jours/SBC:_:p/jour après/PREP/après râpage/SBC:_:s/râpage ,/, à_partir_de/PREP/à_partir_de quatre/CAR/quatre lots/SBC:_:p/lot :/: témoin/SBC:_:s/témoin (/( sans/PREP/sans traitement/SBC:_:s/traitement )/) ,/, ionisé/ADJ2PAR:m:s/ioniser (/( 1,5/CAR/1,5 kGy/SBP?/kGy )/) ,/, trempé/ADJ2PAR:m:s/tremper dans/PREP/dans du/DTC:m:s/du chlorure/SBC:_:s/chlorure de/PREP/de calcium/SBC:_:s/calcium ,/, trempé/ADJ2PAR:m:s/tremper dans/PREP/dans du/DTC:m:s/du chlorure/SBC:_:s/chlorure de/PREP/de calcium/SBC:_:s/calcium puis/ADV/puis ionisé/ADJ2PAR:m:s/ioniser ./. </ph>
+<ph_nb=2>Dans/PREP/dans le/DTN:m:s/le lot/SBC:_:s/lot témoin/SBC:_:s/témoin ,/, une/DTN:m:s/un fraction/SBC:_:s/fraction pectique/ADJ:_:s/pectique insoluble/ADJ:_:s/insoluble ,/, riche/ADJ:_:s/riche en/PREP/en acide/SBC:_:s/acide galacturonique/VNCNT:f:s/er:1g ,/, est/VCJ:3p:s:pst:ind/être:3g synthétisée/ADJ1PAR:f:s/synthétiser au/DTC:m:s/au {cours/SBC:f:p/cour|cours/SBC:m:_/cours} du/DTC:m:s/du temps/SBC:_:_/temps ./. </ph>
+<ph_nb=3>L'/DTN:_:s/le ionisation/SBC:_:s/ionisation provoque/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/provoquer:1g une/DTN:m:s/un hydrolyse/SBC:_:s/hydrolyse partielle/ADJ:f:s/partiel de/PREP/de la/DTN:f:s/le protopectine/SBC:_:s/protopectine au/DTC:m:s/au profit/SBC:_:s/profit des/DTC:_:p/du pectines/SBC:_:p/pectine solubles/ADJ:_:p/soluble ./. </ph>
+<ph_nb=4>Le/DTN:m:s/le calcium/SBC:_:s/calcium ne/ADV/ne modifie/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/modifier:1g ni/COO/ni la/DTN:f:s/le répartition/SBC:_:s/répartition des/DTC:_:p/du fractions/SBC:_:p/fraction polysaccharidiques/ADJ:_:p/polysaccharidique ni/COO/ni l'/DTN:_:s/le effet/SBC:_:s/effet de/PREP/de l'/DTN:_:s/le ionisation/SBC:_:s/ionisation </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0076353/CAR/0076353 
+</AN>
+<TI>
+<ph_nb=1>Conservation/SBC:_:s/conservation par/PREP/par congélation/SBC:_:s/congélation de/PREP/de levures/SBC:_:p/levure et/COO/et de/PREP/de moisissures/SBC:_:p/moisissure d'/PREP/d' origine/SBC:_:s/origine fromagère/ADJ:f:s/fromager </ph>
+</TI>
+<AB>
+<ph_nb=1>Une/DTN:m:s/un étude/SBC:_:s/étude bibliographique/ADJ:_:s/bibliographique portant/VNCNT:m:s/porter:1g sur/PREP/sur les/DTN:_:p/le différentes/ADJ:f:p/différent techniques/ADJ:_:p/technique de/PREP/de conservation/SBC:_:s/conservation de/PREP/de levures/SBC:_:p/levure et/COO/et de/PREP/de moisissures/SBC:_:p/moisissure a/VCJ:3p:s:pst:ind/avoir:3g montré/VPAR:m:s/montrer que/SUB$/que le/DTN:m:s/le processus/SBC:m:_/processus de/PREP/de congélation/SBC:_:s/congélation présentait/VCJ:3p:s:impft:ind/présenter:1g les/DTN:_:p/le meilleures/ADJ:f:p/meilleur garanties/SBC:_:p/garantie ./. </ph>
+<ph_nb=2>Un/DTN:m:s/un travail/SBC:_:s/travail liminaire/ADJ:_:s/liminaire effectué/ADJ2PAR:m:s/effectuer sur/PREP/sur quelques/DTN:_:p/quelque souches/SBC:_:p/souche représentatives/ADJ:f:p/représentatif de/PREP/de la/DTN:f:s/le flore/SBC:_:s/flore fongique/ADJ:_:s/fongique des/DTC:_:p/du fromages/SBC:_:p/fromage a/VCJ:3p:s:pst:ind/avoir:3g permis/VPAR:m:_/permettre de/PREP/de définir/VNCFF/définir les/DTN:_:p/le modalités/SBC:_:p/modalité d'/PREP/d' une/DTN:m:s/un conservation/SBC:_:s/conservation selon/PREP/selon cette/DTN:f:s/ce technique./ABR/technique. 57/CAR/57 souches/SBC:_:p/souche de/PREP/de levures/SBC:_:p/levure appartenant/VNCNT:m:s/appartenir:3g aux/DTC:_:p/au genres/SBC:_:p/genre et/COO/et espèces/SBC:_:p/espèce les/DTN:_:p/le plus/ADV/plus fréquemment/ADV/fréquemment rencontrés/ADJ2PAR:m:p/rencontrer ont/VCJ:3p:p:pst:ind/avoir:3g été/EPAR:m:s/être éprouvés/ADJ1PAR:m:p/éprouver </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0076354/CAR/0076354 
+</AN>
+<TI>
+<ph_nb=1>Etude/SBC:_:s/etude comparative/ADJ:f:s/comparatif de/PREP/de la/DTN:f:s/le rhéologie/SBC:_:_/rhéologie de/PREP/de quatre/CAR/quatre produits/SBC:_:p/produit alimentaires/ADJ:_:p/alimentaire semi-solides/SBC:_:p/semi-solide </ph>
+</TI>
+<AB>
+<ph_nb=1>Le/DTN:m:s/le comportement/SBC:_:s/comportement rhéologique/ADJ:_:s/rhéologique du/DTC:m:s/du ketchup/SBC:_:s/ketchup ,/, de/PREP/de la/DTN:f:s/le moutarde/SBC:_:s/moutarde ,/, du/DTC:m:s/du concentré/SBC:_:s/concentré de/PREP/de tomate/SBC:_:s/tomate et/COO/et de/PREP/de la/DTN:f:s/le harissa/SBC:_:s/harissa a/VCJ:3p:s:pst:ind/avoir:3g été/EPAR:m:s/être étudié/ADJ1PAR:m:s/étudier en/PREP/en utilisant/VNCNT:m:s/utiliser:1g un/DTN:m:s/un viscomètre/SBC:_:s/viscomètre à/PREP/à cylindres/SBC:_:p/cylindre coaxiaux/ADJ:m:p/coaxial à/PREP/à des/DTC:_:p/du vitesses/SBC:_:p/vitesse de/PREP/de cisaillement/SBC:_:s/cisaillement allant/VNCNT:m:s/aller:3g de/PREP/de 5,59/CAR/5,59 à/PREP/à 352/CAR/352 s/SBC:_:_/s <sup>-1/PRV:_p:m:s:_/-1 </sup>./. </ph>
+<ph_nb=2>La/DTN:f:s/le validité/SBC:_:s/validité de/PREP/de certains/DTN:m:p/certain modèles/SBC:_:p/modèle rhéologiques/ADJ:_:p/rhéologique tels/ADJ:m:p/tel que/SUB$/que ceux/PRO:3p:m:p:_/celui de/PREP/de Herschel-Bulkley/SBP?/herschel-Bulkley ,/, Casson/SBP?/casson et/COO/et la/DTN:f:s/le loi/SBC:m:s/loi en/PREP/en puissance/SBC:_:s/puissance a/VCJ:3p:s:pst:ind/avoir:3g été/EPAR:m:s/être testée/ADJ1PAR:f:s/tester en/PREP/en se/PRV:3p:_:_:{a|d}/lui basant/VNCNT:m:s/baser:1g sur/PREP/sur le/DTN:m:s/le coefficient/SBC:_:s/coefficient de/PREP/de corrélation/SBC:_:s/corrélation R/SBP?/r <sup>2/CAR/2 </sup>./. </ph>
+<ph_nb=3>Un/DTN:m:s/un modèle/SBC:_:s/modèle rhéologlque/ADJ:_:s/rhéologlque a/VCJ:3p:s:pst:ind/avoir:3g été/EPAR:m:s/être choisi/ADJ1PAR:m:s/choisir pour/PREP/pour chaque/DTN:_:s/chaque produit/SBC:_:s/produit ,/, permettant/VNCNT:m:s/permettre:3g ainsi/ADV/ainsi l'/DTN:_:s/le estimation/SBC:_:s/estimation des/DTC:_:p/du divers/ADJ:m:p/divers paramètres/SBC:_:p/paramètre tels/ADJ:m:p/tel que/SUB$/que :/: le/DTN:m:s/le seuil/SBC:_:s/seuil d'/PREP/d' écoulement/SBC:_:s/écoulement «/« &tau;/VCJ:XXX/&tau; <sub>0/CAR/0 </sub>»/» ,/, le/DTN:m:s/le coefficient/SBC:_:s/coefficient de/PREP/de consistance/SBC:_:s/consistance «/« K/SBP?/k »/» et/COO/et l'/DTN:_:s/le indice/SBC:_:s/indice d'/PREP/d' écoulement/SBC:_:s/écoulement «/« n/NN/n »/» </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0076355/CAR/0076355 
+</AN>
+<TI>
+<ph_nb=1>Composition/SBC:_:s/composition nutritionnelle/ADJ:f:s/nutritionnel du/DTC:m:s/du crambé/ADJ1PAR:m:s/cramber maritime/ADJ:_:s/maritime (/( Crambe_maritima/SBC:_:s/crambe_maritima L/SBP?/l ./. </ph>
+<ph_nb=2>)/) </ph>
+</TI>
+<AB>
+<ph_nb=1>Dans/PREP/dans le/DTN:m:s/le but/SBC:_:s/but d'/PREP/d' apporter/VNCFF/apporter des/DTC:_:p/du informations/SBC:_:p/information plus/ADV/plus complètes/ADJ:f:p/complet sur/PREP/sur la/DTN:f:s/le caractérisation/SBC:_:s/caractérisation alimentaire/ADJ:_:s/alimentaire du/DTC:m:s/du crambé/ADJ1PAR:m:s/cramber maritime/ADJ:_:s/maritime (/( Crambe_maritima/SBC:_:s/crambe_maritima L./SBP?/l. ,/, Cruciferae/SBC:_:s/cruciferae )/) en/PREP/en vue/SBC:f:s/vue de/PREP/de la/DTN:f:s/le réémergence/SBC:_:s/réémergence de/PREP/de sa/DTN:f:s/son culture/SBC:_:s/culture sur/PREP/sur le/DTN:m:s/le modèle/SBC:_:s/modèle de/PREP/de la/DTN:f:s/le chicorée/SBC:_:s/chicorée de/PREP/de Bruxelles/SBP/bruxelles ,/, une/DTN:m:s/un analyse/SBC:_:s/analyse de/PREP/de la/DTN:f:s/le composition/SBC:_:s/composition nutritionnelle/ADJ:f:s/nutritionnel des/DTC:_:p/du pousses/SBC:_:p/pousse étiolées/ADJ2PAR:f:p/étioler ,/, crues/ADJ2PAR:f:p/croire ou/COO/ou blanchies/ADJ2PAR:f:p/blanchir pendant/PREP/pendant 4/CAR/4 minutes/SBC:_:p/minute ,/, a/VCJ:3p:s:pst:ind/avoir:3g été/EPAR:m:s/être réalisée/ADJ1PAR:f:s/réaliser ./. </ph>
+<ph_nb=2>Une/DTN:m:s/un comparaison/SBC:_:s/comparaison avec/PREP/avec le/DTN:m:s/le chou/SBC:_:s/chou cabus/SBC:m:_/cabus ,/, le/DTN:m:s/le chou/SBC:_:s/chou chinois/ADJ:m:_/chinois ,/, l'/DTN:_:s/le asperge/SBC:_:s/asperge et/COO/et la/DTN:f:s/le chicorée/SBC:_:s/chicorée de/PREP/de Bruxelles/SBP/bruxelles est/VCJ:3p:s:pst:ind/être:3g rapportée/ADJ1PAR:f:s/rapporter </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0078537/CAR/0078537 
+</AN>
+<AB>
+<ph_nb=1>La/DTN:f:s/le &beta;-lactoglobuline/SBC:_:s/&beta;-lactoglobuline ,/, la/DTN:f:s/le caséine/SBC:_:s/caséine &beta;/ADJ:m:s/&beta; et/COO/et la/DTN:f:s/le sérum/SBC:_:s/sérum albumine/SBC:_:s/albumine bovines/ADJ:f:p/bovin ont/VCJ:3p:p:pst:ind/avoir:3g été/EPAR:m:s/être estérifiées/ADJ1PAR:f:p/estérifier en/PREP/en milieu/SBC:_:s/milieu acide/ADJ:_:s/acide ./. </ph>
+<ph_nb=2>Le/DTN:m:s/le taux/SBC:m:_/taux d'/PREP/d' estérification/SBC:_:s/estérification a/VCJ:3p:s:pst:ind/avoir:3g été/EPAR:m:s/être déterminé/ADJ1PAR:m:s/déterminer par/PREP/par le/DTN:m:s/le procédé/SBC:_:s/procédé suivant/PREP/suivant :/: les/DTN:_:p/le protéines/SBC:_:p/protéine estérifiées/ADJ2PAR:f:p/estérifier ont/VCJ:3p:p:pst:ind/avoir:3g subi/VPAR:m:s/subir un/DTN:m:s/un traitement/SBC:_:s/traitement à/PREP/à l'/DTN:_:s/le hydroxylamine/SBC:_:s/hydroxylamine en/PREP/en milieu/SBC:_:s/milieu alcalin/ADJ:m:s/alcalin ./. </ph>
+<ph_nb=3>Puis/ADV/puis ,/, en/PREP/en milieu/SBC:_:s/milieu acide/ADJ:_:s/acide ,/, l'/DTN:_:s/le ion/SBC:_:s/ion ferrique/ADJ:_:s/ferrique a/VCJ:3p:s:pst:ind/avoir:3g été/EPAR:m:s/être ajouté/ADJ1PAR:m:s/ajouter pour/PREP/pour former/VNCFF/former un/DTN:m:s/un complexe/SBC:_:s/complexe avec/PREP/avec les/DTN:_:p/le groupements/SBC:_:p/groupement d'/PREP/d' acide/SBC:_:s/acide hydroxamique/ADJ:_:s/hydroxamique greffés/ADJ2PAR:m:p/greffer sur/PREP/sur les/DTN:_:p/le sites/SBC:_:p/site d'/PREP/d' éstérification/VNCFF/éstérification ./. </ph>
+<ph_nb=4>Ce/DTN:m:s/ce complexe/ADJ:_:s/complexe développait/VCJ:3p:s:impft:ind/développer:1g une/DTN:m:s/un couleur/SBC:_:s/couleur rouge-pourpre/ADJ:_:s/rouge-pourpre dont/REL:m:s/dont l'/DTN:_:s/le absorption/SBC:_:s/absorption pouvait/VCJ:3p:s:impft:ind/pouvoir:3g être/ENCFF/être directement/ADV/directement reliée/ADJ1PAR:f:s/relier au/DTC:m:s/au nombre/SBC:_:s/nombre de/PREP/de résidus/SBC:_:p/résidu estérifiés/ADJ2PAR:m:p/estérifier </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0105413/CAR/0105413 
+</AN>
+<AB>
+<ph_nb=1>La/DTN:f:s/le concentration/SBC:_:s/concentration des/DTC:_:p/du entreprises/SBC:_:p/entreprise ,/, a/VCJ:3p:s:pst:ind/avoir:3g fortement/ADV/fortement augmentée/VPAR:f:s/augmenter en/PREP/en Europe/SBP/europe occidentale/ADJ:f:s/occidental au_cours_de/PREP/au_cours_de la/DTN:f:s/le dernière/ADJ:f:s/dernier décennie/SBC:_:_/décennie ./. </ph>
+<ph_nb=2>Il/PRV:3p:m:s:n/lui en/PRV:_p:_:_:{a|o}/en résulte/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/résulter:1g que/SUB$/que les/DTN:_:p/le quantités/SBC:_:p/quantité de/PREP/de sucre/SBC:_:s/sucre produites/ADJ2PAR:f:p/produire par/PREP/par les/DTN:_:p/le sept/CAR/sept plus/ADV/plus grosses/ADJ:f:p/gros sociétés/SBC:_:p/société représentent/VCJ:3p:p:pst:{ind|subj}/représenter:1g déjà/ADV/déjà les/DTN:_:p/le deux/CAR/deux tiers/SBC:_:_/tiers de/PREP/de la/DTN:f:s/le production/SBC:_:s/production de/PREP/de la/DTN:f:s/le CEE/SBP/cEE ./. </ph>
+<ph_nb=3>On/PRV:3p:_:s:n/on passe/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/passer:1g en/PREP/en revue/SBC:f:s/revue la/DTN:f:s/le diversification/SBC:_:s/diversification verticale/ADJ:f:s/vertical ,/, horizontale/ADJ:f:s/horizontal et/COO/et latérale/ADJ:f:s/latéral en/PREP/en fonction/SBC:_:s/fonction des/DTC:_:p/du pays/SBC:m:_/pays et/COO/et de/PREP/de l'/DTN:_:s/le importance/SBC:_:s/importance des/DTC:_:p/du sociétés/SBC:_:p/société ou/COO/ou des/DTC:_:p/du coopératives/SBC:_:p/coopérative agricoles/ADJ:_:p/agricole </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0142332/CAR/0142332 
+</AN>
+<AB>
+<ph_nb=1>Analyse/SBC:_:s/analyse de/PREP/de la/DTN:f:s/le consommation/SBC:_:s/consommation d'/PREP/d' énergie/SBC:_:_/énergie dans/PREP/dans une/DTN:m:s/un cimenterie,une/ADJ:XXX/cimenterie:gcimenterie,une usine/SBC:_:s/usine textile/ADJ:_:s/textile et/COO/et une/DTN:m:s/un usine/SBC:_:s/usine agro-alimentaire.L'/SBP?/agro-alimentaire.L' utilisation/SBC:_:s/utilisation d'/PREP/d' un/DTN:m:s/un modèle/SBC:_:s/modèle empirique/ADJ:_:s/empirique pour/PREP/pour les/DTN:_:p/le deux/CAR/deux premières/ADJ:f:p/premier usines/SBC:_:p/usine a/VCJ:3p:s:pst:ind/avoir:3g permis/VPAR:m:_/permettre de/PREP/de déterminer/VNCFF/déterminer la/DTN:f:s/le consommation/SBC:_:s/consommation spécifique,les/ADJ:XXX/spécifique:gspécifique,les pertes/SBC:_:p/perte d'/PREP/d' énergie/SBC:_:_/énergie et/COO/et de/PREP/de souligner/VNCFF/souligner les/DTN:_:p/le possibilités/SBC:_:p/possibilité de/PREP/de maîtrise/SBC:_:s/maîtrise de/PREP/de l'/DTN:_:s/le énergie./ABR/énergie. </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0151727/CAR/0151727 
+</AN>
+<AB>
+<ph_nb=1>Etude/SBC:_:s/etude comparative/ADJ:f:s/comparatif par/PREP/par simulation/SBC:_:s/simulation numérique/ADJ:_:s/numérique des/DTC:_:p/du performances/SBC:_:p/performance d'/PREP/d' installations/SBC:_:p/installation frigorifiques/ADJ:_:p/frigorifique à/PREP/à absorption/SBC:_:s/absorption utilisant/VNCNT:m:s/utiliser:1g les/DTN:_:p/le mélanges/SBC:_:p/mélange suivants/ADJ:m:p/suivant :/: R21-DMF/SBP?/r21-DMF ,/, R21-DMETEG/SBP?/r21-DMETEG ,/, R22-DMF/SBP?/r22-DMF et/COO/et R22-DMETEG/SBP?/r22-DMETEG </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0162460/CAR/0162460 
+</AN>
+<AB>
+<ph_nb=1>Leuconostoc/SBC:_:s/leuconostoc mesenteroides/SBC:_:p/mesenteroide NRRL/SBP?/nRRL B-1355/SBP?/b-1355 produit/SBC:_:s/produit une/DTN:m:s/un glucosyltransférase/ADV/glucosyltransférase spécifique/ADJ:_:s/spécifique ,/, l'/DTN:_:s/le alternanesaccharase/SBC:_:s/alternanesaccharase (/( EC/SBP?/eC 2.4.1.140/CAR/2.4.1.140 )/) qui/REL:_:_/qui catalyse/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/catalyser:1g la/DTN:f:s/le synthèse/SBC:_:s/synthèse de/PREP/de l'/DTN:_:s/le alternane/SBC:_:s/alternane :/: résidus/SBC:_:p/résidu &alpha;-D-glucopyranosyl/SBP?/&alpha;-D-glucopyranosyl liés/ADJ2PAR:m:p/lier par/PREP/par des/DTC:_:p/du liaisons/SBC:_:p/liaison osidiques/ADJ:_:p/osidique &alpha;/NN/&alpha; (/( 1/CAR/1 -/- 6/CAR/6 )/) et/COO/et &alpha;/NN/&alpha; (/( 1/CAR/1 -/- 3/CAR/3 )/) alternées/ADJ2PAR:f:p/alterner ./. </ph>
+<ph_nb=2>La/DTN:f:s/le synthèse/SBC:_:s/synthèse d'/PREP/d' oligoalternanes/SBC:_:p/oligoalternane est/VCJ:3p:s:pst:ind/être:3g réalisée/ADJ1PAR:f:s/réaliser en/PREP/en présence/SBC:_:s/présence de/PREP/de trois/CAR/trois accepteurs/SBC:_:p/accepteur :/: maltose/SBC:_:s/maltose ,/, méthyl-&alpha;-D-glucoside/SBP?/méthyl-&alpha;-D-glucoside et/COO/et isomaltose/SBC:_:s/isomaltose ./. </ph>
+<ph_nb=3>Les/DTN:_:p/le oligoalternanes/ADJ:f:p/oligoalternan produits/SBC:_:p/produit sont/VCJ:3p:p:pst:ind/être:3g purifiés/ADJ1PAR:m:p/purifier par/PREP/par chromatographie./ABR/chromatographie. </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0171078/CAR/0171078 
+</AN>
+<TI>
+<ph_nb=1>Purification/SBC:_:s/purification et/COO/et propriétés/SBC:_:p/propriété des/DTC:_:p/du pectineméthylestérases/SBC:_:p/pectineméthylestérase de/PREP/de mandarine/SBC:_:s/mandarine (/( Citrus/SBC:m:_/citrus nobilis/SBC:_:_/nobilis lour/SBC:_:s/lour ./. </ph>
+<ph_nb=2>)/) </ph>
+</TI>
+<AB>
+<ph_nb=1>La/DTN:f:s/le pectineméthylestérase/SBC:_:s/pectineméthylestérase (/( PME/SBC:_:s/pME )/) de/PREP/de mandarine/SBC:_:s/mandarine est/VCJ:3p:s:pst:ind/être:3g extraite/ADJ1PAR:f:s/extraire par/PREP/par du/DTC:m:s/du tampon/SBC:_:s/tampon borate/SBC:_:s/borate ,/, purifiée/ADJ2PAR:f:s/purifier par/PREP/par précipitation/SBC:_:s/précipitation fractionnée/ADJ2PAR:f:s/fractionner au/DTC:m:s/au sulfate/SBC:_:s/sulfate d'/PREP/d' ammonium/SBC:_:s/ammonium et/COO/et par/PREP/par chromatographie/SBC:_:_/chromatographie sur/PREP/sur colonne/SBC:_:s/colonne de/PREP/de pectate/VNCFF/pectate réticulé/ADJ:m:s/réticulé ./. </ph>
+<ph_nb=2>Deux/CAR/deux PME/SBC:_:s/pME sont/VCJ:3p:p:pst:ind/être:3g séparées/ADJ1PAR:f:p/séparer ./. </ph>
+<ph_nb=3>Elles/PRV:3p:f:p:{n|d|o}/lui ne/ADV/ne donnent/VCJ:3p:p:pst:{ind|subj}/donner:1g ,/, en/PREP/en isoélectrofocalisation/VNCFF/isoélectrofocalisation ,/, qu'/SUB$/qu' une/DTN:m:s/un seule/ADJ:f:s/seul bande/SBC:_:s/bande à/PREP/à un/DTN:m:s/un point/SBC:_:s/point isoélectrique/ADJ:_:s/isoélectrique &gt;/VCJ:XXX/&gt; 9,3/CAR/9,3 ./. </ph>
+<ph_nb=4>La/DTN:f:s/le PME/SBC:_:s/pME I/CAR/i se/PRV:3p:_:_:{a|d}/lui résout/VCJ:3p:s:pst:ind/résoudre:3g également/ADV/également en/PREP/en une/DTN:m:s/un seule/ADJ:f:s/seul bande/SBC:_:s/bande de/PREP/de masse/SBC:_:s/masse moléculaire/ADJ:_:s/moléculaire 34500/CAR/34500 par/PREP/par électrophorèse/SBC:_:s/électrophorèse sur/PREP/sur gel/SBC:_:s/gel de/PREP/de polyacrylamide/VNCFF/polyacrylamide en/PREP/en présence/SBC:_:s/présence de/PREP/de dodécyle/VNCFF/dodécyle sulfate/SBC:_:s/sulfate de/PREP/de sodium/SBC:_:s/sodium ./. </ph>
+<ph_nb=5>Analyse/SBC:_:s/analyse de/PREP/de ses/DTN:_:p/son propriétés/SBC:_:p/propriété cinétiques/ADJ:_:p/cinétique (/( activité/SBC:_:s/activité spécifique/ADJ:_:s/spécifique ,/, énergie/SBC:_:_/énergie d'/PREP/d' activation/SBC:_:s/activation ,/, K/SBP?/k <sub>m/NN/m </sub>et/COO/et V/CAR/v <sub>m/SBC:_:s/m </sub>)/) </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0242709/CAR/0242709 
+</AN>
+<TI>
+<ph_nb=1>Le/DTN:m:s/le fumage/SBC:_:s/fumage du/DTC:m:s/du poisson/SBC:_:s/poisson </ph>
+</TI>
+<AB>
+<ph_nb=1>Description/SBC:_:s/description des/DTC:_:p/du phases/SBC:_:p/phase de/PREP/de fabrication/SBC:_:s/fabrication :/: éviscération/SBC:_:s/éviscération ,/, filetage/SBC:_:s/filetage ,/, salage/SBC:_:s/salage ,/, baudruchage/SBC:_:s/baudruchage ,/, fumage/SBC:_:s/fumage ,/, conditionnement/SBC:_:s/conditionnement et/COO/et distribution/SBC:_:s/distribution ./. </ph>
+<ph_nb=2>Différentes/ADJ:f:p/différent méthodes/SBC:_:p/méthode de/PREP/de préparation/SBC:_:s/préparation ,/, appareillages/SBC:_:p/appareillage (/( séchoirs/SBC:_:p/séchoir ,/, générateurs/ADJ:m:p/générateur de/PREP/de fumée/SBC:_:s/fumée .../.../... </ph>
+<ph_nb=3>)/) ./. Etude/SBC:_:s/etude d'/PREP/d' un/DTN:m:s/un atelier/SBC:_:s/atelier de/PREP/de fabrication/SBC:_:s/fabrication ./. </ph>
+<ph_nb=4>Procédés/SBC:_:p/procédé de/PREP/de transformation/SBC:_:s/transformation de/PREP/de quelques/DTN:_:p/quelque espèces/SBC:_:p/espèce :/: thon/SBC:_:s/thon ,/, espadon/SBC:_:s/espadon ,/, requins/SBC:_:p/requin ,/, maquereau/SBC:_:s/maquereau ,/, sardine/SBC:_:s/sardine ,/, chinchard/SBC:_:s/chinchard ,/, mulet/SBC:_:s/mulet ,/, flétan/SBC:_:s/flétan ,/, rogues/ADJ:_:p/rogue ,/, saumons/SBC:_:p/saumon ,/, truite/SBC:_:s/truite ,/, anguille/SBC:_:s/anguille ./. </ph>
+<ph_nb=5>Hygiène/SBC:_:s/hygiène </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0250027/CAR/0250027 
+</AN>
+<TI>
+<ph_nb=1>La/DTN:f:s/le démarche/SBC:_:s/démarche qualité/SBC:_:s/qualité dans/PREP/dans l'/DTN:_:s/le agro-alimentaire/PFX/agro-alimentaire ./. </ph>
+<ph_nb=2>Environnement/SBC:_:s/environnement ,/, concepts/SBC:_:p/concept ,/, discours/SBC:_:_/discours ,/, pratiques/ADJ:_:p/pratique </ph>
+</TI>
+<AB>
+<ph_nb=1>Plus/ADV/plus que/SUB$/que tout/DTN:m:s/tout au/DTC:m:s/au secteur/SBC:_:s/secteur ,/, l'/DTN:_:s/le agro-alimentaire/PFX/agro-alimentaire ,/, compte-tenu/SBC:m:s/compte-tenu des/DTC:_:p/du spécificités/SBC:_:p/spécificité de/PREP/de l'/DTN:_:s/le alimentation/SBC:_:s/alimentation ,/, mais_aussi/COO/mais_aussi des/DTC:_:p/du enjeux/SBC:m:p/enjeu européens/ADJ:m:p/européen ,/, est/VCJ:3p:s:pst:ind/être:3g soumis/ADJ1PAR:m:_/soumettre à/PREP/à l'/DTN:_:s/le impératif/SBC:_:s/impératif de/PREP/de la/DTN:f:s/le qualité/SBC:_:s/qualité ./. </ph>
+<ph_nb=2>Les/DTN:_:p/le Pouvoirs/SBP?/pouvoirs Publics/SBP?/publics essaient/VCJ:3p:p:pst:{ind|subj}/essayer:1g ,/, par/PREP/par le/DTN:m:s/le biais/SBC:_:_/biais de/PREP/de la/DTN:f:s/le réglementation/SBC:_:s/réglementation ,/, d'/PREP/d' offrir/VNCFF/offrir aux/DTC:_:p/au entreprises/SBC:_:p/entreprise un/DTN:m:s/un cadre/SBC:_:s/cadre d'/PREP/d' opportunités/SBC:_:p/opportunité qui/REL:_:_/qui peut/VCJ:3p:s:pst:ind/pouvoir:3g contrebalancer/VNCFF/contrebalancer les/DTN:_:p/le contraintes/SBC:_:p/contrainte nées/ADJ2PAR:f:p/naître de/PREP/de l'/DTN:_:s/le environnement/SBC:_:s/environnement ./. </ph>
+<ph_nb=3>Il/PRV:3p:m:s:n/lui n'/ADV/n' en/PREP/en demeure/SBC:_:s/demeure pas/ADV/pas moins/ADV/moins qu'/SUB$/qu' aux/DTC:_:p/au yeux/SBC:m:p/oeil des/DTC:_:p/du consommateurs/SBC:_:p/consommateur ,/, l'/DTN:_:s/le entreprise/SBC:_:s/entreprise agro-alimentaire/PFX/agro-alimentaire est/VCJ:3p:s:pst:ind/être:3g doublement/ADV/doublement au/DTC:m:s/au centre/SBC:_:s/centre du/DTC:m:s/du dispositif/SBC:_:s/dispositif :/: en_tant_que/PREP/en_tant_que lieu/SBC:_:s/lieu social/ADJ:m:s/social où/REL:_:_/où se/PRV:3p:_:_:{a|d}/lui cristallisent/VCJ:3p:p:pst:{ind|subj}/cristalliser:1g les/DTN:_:p/le attentes/SBC:_:p/attente des/DTC:_:p/du salariés-citoyens/SBC:_:p/salariés-citoyen ,/, mais_aussi/COO/mais_aussi en/PREP/en sa/DTN:f:s/son qualité/SBC:_:s/qualité de/PREP/de fabricant/SBC:_:s/fabricant et/COO/et fournisseur/SBC:_:s/fournisseur d'/PREP/d' alimentation/SBC:_:s/alimentation ./. </ph>
+<ph_nb=4>La/DTN:f:s/le démarche/SBC:_:s/démarche permettant/VNCNT:m:s/permettre:3g l'/DTN:_:s/le obtention/SBC:_:s/obtention ,/, la/DTN:f:s/le régularité/SBC:_:s/régularité et/COO/et l'/DTN:_:s/le amélioration/SBC:_:s/amélioration de/PREP/de la/DTN:f:s/le qualité/SBC:_:s/qualité des/DTC:_:p/du produits/SBC:_:p/produit doit/VCJ:3p:s:pst:ind/devoir:3g s'/PRV:3p:_:_:{a|d}/lui appuyer/VNCFF/appuyer sur/PREP/sur deux/CAR/deux éléments/SBC:_:p/élément indissociables/ADJ:_:p/indissociable :/: la/DTN:f:s/le mise/SBC:_:s/mise au/DTC:m:s/au point/SBC:_:s/point et/COO/et le/DTN:m:s/le respect/SBC:_:s/respect de/PREP/de procédures/SBC:_:p/procédure techniques/ADJ:_:p/technique ,/, mais_aussi/COO/mais_aussi (/( et/COO/et surtout/ADV/surtout ?/? )/) l'/DTN:_:s/le optimisation/SBC:_:s/optimisation de/PREP/de la/DTN:f:s/le Ressource/SBP?/ressource Humaine/SBP?/humaine de/PREP/de l'/DTN:_:s/le Entreprise/SBP?/entreprise ./. </ph>
+<ph_nb=5>L'/DTN:_:s/le observation/SBC:_:s/observation des/DTC:_:p/du pratiques/SBC:_:p/pratique dans/PREP/dans une/DTN:m:s/un douzaine/SBC:_:s/douzaine d'/PREP/d' entreprises/SBC:_:p/entreprise vendéennes/ADJ:f:p/vendéen fait/VCJ:3p:s:ps:ind/faire:3g ressortir/VNCFF/ressortir de/PREP/de notables/ADJ:_:p/notable différences/SBC:_:p/différence entre/PREP/entre le/DTN:m:s/le discours/SBC:_:_/discours et/COO/et la/DTN:f:s/le réalité/SBC:_:s/réalité ./. </ph>
+<ph_nb=6>Si/SUB/si le/DTN:m:s/le volet/SBC:_:s/volet technique/ADJ:_:s/technique de/PREP/de la/DTN:f:s/le démarche/SBC:_:s/démarche qualité/SBC:_:s/qualité est/VCJ:3p:s:pst:ind/être:3g de_mieux_en_mieux/ADV/de_mieux_en_mieux maîtrisé/ADJ1PAR:m:s/maîtriser ,/, la/DTN:f:s/le Ressource/SBP?/ressource Humaine/SBP?/humaine semble/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/sembler:1g insuffisamment/ADV/insuffisamment prise/ADJ2PAR:f:s/prendre en/PREP/en compte/SBC:_:s/compte pour/PREP/pour que/SUB/que les/DTN:_:p/le actions/SBC:_:p/action menées/ADJ2PAR:f:p/mener constituent/VCJ:3p:p:pst:{ind|subj}/constituer:1g une/DTN:m:s/un véritable/ADJ:_:s/véritable marche/SBC:_:s/marche en_avant/ADV/en_avant de/PREP/de la/DTN:f:s/le qualité/SBC:_:s/qualité </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0250087/CAR/0250087 
+</AN>
+<TI>
+<ph_nb=1>Etude/SBC:_:s/etude des/DTC:_:p/du potentialités/SBC:_:p/potentialité aromatisantes/ADJ:f:p/aromatisant de/PREP/de la/DTN:f:s/le souche/SBC:_:s/souche Saccharomyces_cerevisiae/SBC:_:s/saccharomyces_cerevisiae S/SBP?/s 47/CAR/47 ./. </ph>
+<ph_nb=2>Production/SBC:_:s/production d'/PREP/d' alcools/SBC:_:p/alcool supérieurs/ADJ:m:p/supérieur à_partir_de/PREP/à_partir_de composés/ADJ2PAR:m:p/composer organiques/ADJ:_:p/organique et/COO/et des/DTC:_:p/du précurseurs/SBC:_:p/précurseur de/PREP/de la/DTN:f:s/le farine/SBC:_:s/farine </ph>
+</TI>
+<AB>
+<ph_nb=1>Ce/DTN:m:s/ce travail/SBC:_:s/travail entre/PREP/entre dans/PREP/dans le/DTN:m:s/le cadre/SBC:_:s/cadre de/PREP/de recherches/SBC:_:p/recherche plus/ADV/plus générales/ADJ:f:p/général ,/, visant/VNCNT:m:s/viser:1g à/PREP/à préciser/VNCFF/préciser des/DTC:_:p/du potentialités/SBC:_:p/potentialité d'/PREP/d' aromatisation/SBC:_:s/aromatisation des/DTC:_:p/du produits/SBC:_:p/produit céréaliers/SBC:_:p/céréalier par/PREP/par voie/SBC:_:_/voie microbienne/ADJ:f:s/microbien ,/, et/COO/et dont/REL:m:s/dont le/DTN:m:s/le pain/SBC:_:s/pain peut/VCJ:3p:s:pst:ind/pouvoir:3g être/ENCFF/être considéré/ADJ1PAR:m:s/considérer comme/SUB/comme l'/DTN:_:s/le exemple/SBC:_:s/exemple type/SBC:_:s/type ./. </ph>
+<ph_nb=2>L'/DTN:_:s/le aptitude/SBC:_:s/aptitude de/PREP/de différentes/ADJ:f:p/différent souches/SBC:_:p/souche de/PREP/de levure/SBC:_:s/levure à/PREP/à produire/VNCFF/produire des/DTC:_:p/du constituants/SBC:_:p/constituant odorants/ADJ:m:p/odorant à_partir_de/PREP/à_partir_de composés/ADJ2PAR:m:p/composer organiques/ADJ:_:p/organique identifiés/ADJ2PAR:m:p/identifier à/PREP/à été/SBC:_:s/été déterminée/ADJ2PAR:f:s/déterminer dans/PREP/dans des/DTC:_:p/du milieux/SBC:m:p/milieu modélisés/ADJ2PAR:m:p/modéliser ./. </ph>
+<ph_nb=3>Il/PRV:3p:m:s:n/lui ressort/VCJ:3p:s:pst:ind/ressortir:3g de/PREP/de cette/DTN:f:s/ce étude/SBC:_:s/étude que/SUB$/que la/DTN:f:s/le levure/SBC:_:s/levure de/PREP/de boulangerie/SBC:_:_/boulangerie S./SBP?/s. cerevisiae/SBC:_:s/cerevisiae S/SBP?/s 47/CAR/47 présente/ADJ:f:s/présent des/DTC:_:p/du potentialités/SBC:_:p/potentialité effectives/ADJ:f:p/effectif à/PREP/à produire/VNCFF/produire des/DTC:_:p/du alcools/SBC:_:p/alcool supérieurs/ADJ:m:p/supérieur à_partir_de/PREP/à_partir_de la/DTN:f:s/le leucine/SBC:_:s/leucine ,/, de/PREP/de l'/DTN:_:s/le isoleucine/SBC:_:s/isoleucine ,/, de/PREP/de la/DTN:f:s/le valine/SBC:_:s/valine ,/, de/PREP/de la/DTN:f:s/le thréonine/SBC:_:s/thréonine ,/, et/COO/et de/PREP/de la/DTN:f:s/le phénylalanine/SBC:_:s/phénylalanine ,/, à/PREP/à des/DTC:_:p/du concentrations/SBC:_:p/concentration bien/ADV/bien supérieures/ADJ:f:p/supérieur à/PREP/à celles/PRO:3p:f:p:_/celui nécessaires/ADJ:_:p/nécessaire pour/PREP/pour l'/DTN:_:s/le obtention/SBC:_:s/obtention d'/PREP/d' une/DTN:m:s/un odeur/SBC:_:s/odeur caractéristique/ADJ:_:s/caractéristique et/COO/et sur/PREP/sur des/DTC:_:p/du temps/SBC:_:_/temps de/PREP/de fermentation/SBC:_:s/fermentation ne/ADV/ne dépassant/ADJ:m:s/dépassant pas/ADV/pas 5/CAR/5 heures/SBC:_:p/heure ./. </ph>
+<ph_nb=4>L'/DTN:_:s/le influence/SBC:_:s/influence de/PREP/de divers/ADJ:m:p/divers paramètres/SBC:_:p/paramètre sur/PREP/sur la/DTN:f:s/le biosynthèse/SBC:_:s/biosynthèse de/PREP/de ces/DTN:m:p/ce composés/SBC:_:p/composé aromatiques/ADJ:_:p/aromatique a/VCJ:3p:s:pst:ind/avoir:3g été/EPAR:m:s/être étudiée/ADJ1PAR:f:s/étudier sur/PREP/sur milieux/SBC:m:p/milieu modélisés/ADJ2PAR:m:p/modéliser ,/, puis/ADV/puis dans/PREP/dans des/DTC:_:p/du milieux/SBC:m:p/milieu de/PREP/de composition/SBC:_:s/composition plus/ADV/plus complexe/ADJ:_:s/complexe ,/, contenant/VNCNT:m:s/contenir:3g 40/CAR/40 %/SYM/% de/PREP/de farine/SBC:_:s/farine de/PREP/de blé/SBC:_:s/blé ./. </ph>
+<ph_nb=5>Les/DTN:_:p/le résultats/SBC:_:p/résultat obtenus/ADJ2PAR:m:p/obtenir ont/VCJ:3p:p:pst:ind/avoir:3g révélé/VPAR:m:s/révéler qu'/SUB$/qu' en/PREP/en conditions/SBC:_:p/condition de/PREP/de fermentation/SBC:_:s/fermentation anaérobies/ADJ:_:p/anaérobie ,/, la/DTN:f:s/le formation/SBC:_:s/formation des/DTC:_:p/du alcools/SBC:_:p/alcool supérieurs/ADJ:m:p/supérieur par/PREP/par la/DTN:f:s/le voie/SBC:_:_/voie anabolique/ADJ:_:s/anabolique ou/COO/ou catabolique/ADJ:_:s/catabolique (/( mécanisme/SBC:_:s/mécanisme d'/PREP/d' Ehrlich/SBP?/ehrlich )/) s'/PRV:3p:_:_:{a|d}/lui effectue/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/effectuer:1g parallèlement_à/PREP/parallèlement_à la/DTN:f:s/le fermentation/SBC:_:s/fermentation alcoolique/ADJ:_:s/alcoolique ,/, et/COO/et qu'/SUB$/qu' une/DTN:m:s/un aération/SBC:_:s/aération des/DTC:_:p/du milieux/SBC:m:p/milieu fermentés/ADJ2PAR:m:p/fermenter n'/ADV/n' affecte/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/affecter:1g pas/ADV/pas de/PREP/de façon/SBC:_:s/façon significative/ADJ:f:s/significatif la/DTN:f:s/le formation/SBC:_:s/formation de/PREP/de ces/DTN:m:p/ce constituants/SBC:_:p/constituant à/PREP/à partir/VNCFF/partir des/DTC:_:p/du précurseurs/SBC:_:p/précurseur de/PREP/de la/DTN:f:s/le farine/SBC:_:s/farine ./. </ph>
+<ph_nb=6>Quand/SUB/quand les/DTN:_:p/le acides/SBC:_:p/acide aminés/ADJ2PAR:m:p/aminer correspondants/ADJ:m:p/correspondant sont/VCJ:3p:p:pst:ind/être:3g ajoutés/ADJ1PAR:m:p/ajouter à/PREP/à ce/DTN:m:s/ce substrat/SBC:_:s/substrat ,/, les/DTN:_:p/le quantités/SBC:_:p/quantité d'/PREP/d' alcools/SBC:_:p/alcool supérieurs/ADJ:m:p/supérieur formées/ADJ2PAR:f:p/former ,/, par/PREP/par cellule/SBC:_:s/cellule de/PREP/de levure/SBC:_:s/levure ,/, sont/VCJ:3p:p:pst:ind/être:3g même/ADV/même plus/ADV/plus importantes/ADJ:f:p/important ./. </ph>
+<ph_nb=7>La/DTN:f:s/le dernière/ADJ:f:s/dernier partie/SBC:f:s/partie a/VCJ:3p:s:pst:ind/avoir:3g trait/VPAR:m:s/traire à/PREP/à l'/DTN:_:s/le étude/SBC:_:s/étude des/DTC:_:p/du constituants/SBC:_:p/constituant volatils/ADJ:m:p/volatil de/PREP/de mies/SBC:_:p/mie de/PREP/de pain/SBC:_:s/pain français/ADJ:m:_/français ,/, obtenues/ADJ2PAR:f:p/obtenir selon/PREP/selon différents/ADJ:m:p/différent procédés/SBC:_:p/procédé de/PREP/de panification/SBC:_:s/panification ./. </ph>
+<ph_nb=8>Les/DTN:_:p/le conclusions/SBC:_:p/conclusion portent/VCJ:3p:p:pst:{ind|subj}/porter:1g sur/PREP/sur la/DTN:f:s/le reproductibilité/SBC:_:s/reproductibilité de/PREP/de la/DTN:f:s/le méthodologie/SBC:_:_/méthodologie mise/SBC:_:s/mise en/PREP/en oeuvre/SBC:_:s/oeuvre et/COO/et sur/PREP/sur l'/DTN:_:s/le apport/SBC:_:s/apport effectif/ADJ:m:s/effectif de/PREP/de la/DTN:f:s/le fermentation/SBC:_:s/fermentation quant_à/PREP/quant_à la/DTN:f:s/le présence/SBC:_:s/présence des/DTC:_:p/du alcools/SBC:_:p/alcool supérieurs/ADJ:m:p/supérieur dans/PREP/dans la/DTN:f:s/le mie/SBC:_:_/mie de/PREP/de pain/SBC:_:s/pain </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0250141/CAR/0250141 
+</AN>
+<TI>
+<ph_nb=1>Contribution/SBC:_:s/contribution à/PREP/à l'/DTN:_:s/le étude/SBC:_:s/étude du/DTC:m:s/du séchage/SBC:_:s/séchage en/PREP/en discontinu/SBC:m:s/discontinu de/PREP/de sucre/SBC:_:s/sucre cristallisé/ADJ2PAR:m:s/cristalliser en/PREP/en lit/SBC:_:s/lit fluidisé/ADJ:m:s/fluidisé </ph>
+</TI>
+<AB>
+<ph_nb=1>Cette/DTN:f:s/ce étude/SBC:_:s/étude a/VCJ:3p:s:pst:ind/avoir:3g pour/PREP/pour objectif/SBC:_:s/objectif l'/DTN:_:s/le analyse/SBC:_:s/analyse du/DTC:m:s/du séchage/SBC:_:s/séchage de/PREP/de sucre/SBC:_:s/sucre cristallisé/ADJ2PAR:m:s/cristalliser dans/PREP/dans un/DTN:m:s/un lit/SBC:_:s/lit fluidisé/ADJ:m:s/fluidisé fonctionnant/VNCNT:m:s/fonctionner:1g en/PREP/en discontinu/ADJ:m:s/discontinu ./. </ph>
+<ph_nb=2>Ce/DTN:m:s/ce type/SBC:_:s/type de/PREP/de produit/SBC:_:s/produit se/PRV:3p:_:_:{a|d}/lui caractérise/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/caractériser:1g par/PREP/par sa/DTN:f:s/son faible/ADJ:_:s/faible porosité/SBC:_:s/porosité et/COO/et une/DTN:m:s/un grande/ADJ:f:s/grand solubilité/SBC:_:s/solubilité dans/PREP/dans l'/DTN:_:s/le humidité/SBC:_:s/humidité de/PREP/de sorte/SBC:_:s/sorte que/SUB$/que l'/DTN:_:s/le eau/SBC:_:s/eau est/VCJ:3p:s:pst:ind/être:3g en_réalité/ADV/en_réalité contenue/ADJ1PAR:f:s/contenir dans/PREP/dans un/DTN:m:s/un film/SBC:_:s/film de/PREP/de sirop/SBC:_:s/sirop {recouvrant/VNCNT:m:s/recouvrer:1g|recouvrant/VNCNT:m:s/recouvrir:3g} les/DTN:_:p/le cristaux/SBC:m:p/cristal de/PREP/de sucre/SBC:_:s/sucre ./. </ph>
+<ph_nb=3>Les/DTN:_:p/le propriétés/SBC:_:p/propriété physicochimiques/ADJ:_:p/physicochimique ,/, les/DTN:_:p/le isothermes/SBC:_:p/isotherme de/PREP/de sorption/VNCFF/sorption ,/, et/COO/et les/DTN:_:p/le caractéristiques/SBC:_:p/caractéristique hydrodynamiques/ADJ:_:p/hydrodynamique de/PREP/de la/DTN:f:s/le fluidisation/SBC:_:s/fluidisation du/DTC:m:s/du sucre/SBC:_:s/sucre ont/VCJ:3p:p:pst:ind/avoir:3g été/EPAR:m:s/être déterminées/ADJ1PAR:f:p/déterminer ./. </ph>
+<ph_nb=4>Les/DTN:_:p/le expériences/SBC:_:p/expérience de/PREP/de séchage/SBC:_:s/séchage ont/VCJ:3p:p:pst:ind/avoir:3g été/EPAR:m:s/être réalisées/ADJ1PAR:f:p/réaliser en/PREP/en introduisant/VNCNT:m:s/introduire:3g une/DTN:m:s/un faible/ADJ:_:s/faible masse/SBC:_:s/masse de/PREP/de particules/SBC:_:p/particule humides/ADJ:_:p/humide dans/PREP/dans un/DTN:m:s/un lit/SBC:_:s/lit fluidisé/SBC:_:s/fluidisé contenant/ADJ:m:s/contenant initialement/ADV/initialement des/DTC:_:p/du particules/SBC:_:p/particule inertes/ADJ:_:p/inerte chaudes/ADJ:f:p/chaud ./. </ph>
+<ph_nb=5>Afin/PUL/afin de/PREP/de simplifier/VNCFF/simplifier l'/DTN:_:s/le interprétation/SBC:_:s/interprétation des/DTC:_:p/du résultats/SBC:_:p/résultat ,/, le/DTN:m:s/le choix/SBC:_:_/choix du/DTC:m:s/du produit/SBC:_:s/produit inerte/ADJ:_:s/inerte s'/PRV:3p:_:_:{a|d}/lui est/VCJ:3p:s:pst:ind/être:3g porté/ADJ1PAR:m:s/porter sur/PREP/sur le/DTN:m:s/le sable/SBC:_:s/sable ./. </ph>
+<ph_nb=6>Les/DTN:_:p/le expériences/SBC:_:p/expérience ont/VCJ:3p:p:pst:ind/avoir:3g permis/SBC:_:_/permis de/PREP/de caractériser/VNCFF/caractériser l'/DTN:_:s/le influence/SBC:_:s/influence des/DTC:_:p/du conditions/SBC:_:p/condition opératoires/ADJ:_:p/opératoire :/: vitesse/SBC:_:s/vitesse de/PREP/de fluidisation/VNCFF/fluidisation ,/, température/SBC:_:s/température et/COO/et humidité/SBC:_:s/humidité initiale/ADJ:f:s/initial de/PREP/de l'/DTN:_:s/le air/SBC:_:s/air de/PREP/de séchage/SBC:_:s/séchage ,/, taille/SBC:_:s/taille des/DTC:_:p/du particules/SBC:_:p/particule et/COO/et masse/SBC:_:s/masse initiale/ADJ:f:s/initial du/DTC:m:s/du sucre/SBC:_:s/sucre ,/, sur/PREP/sur la/DTN:f:s/le cinétique/SBC:_:s/cinétique de/PREP/de séchage/SBC:_:s/séchage ./. </ph>
+<ph_nb=7>Les/DTN:_:p/le résultats/SBC:_:p/résultat ont/VCJ:3p:p:pst:ind/avoir:3g mis/VPAR:m:_/mettre en/PREP/en évidence/SBC:_:s/évidence que/SUB$/que la/DTN:f:s/le température/SBC:_:s/température et/COO/et l'/DTN:_:s/le humidité/SBC:_:s/humidité de/PREP/de l'/DTN:_:s/le air/SBC:_:s/air exercent/VCJ:3p:p:pst:{ind|subj}/exercer:1g une/DTN:m:s/un influence/SBC:_:s/influence prépondérante/ADJ:f:s/prépondérant ./. </ph>
+<ph_nb=8>Si/SUB/si les/DTN:_:p/le conditions/SBC:_:p/condition retenues/ADJ2PAR:f:p/retenir conduisent/VCJ:3p:p:pst:{ind|subj}/conduire:3g à/PREP/à une/DTN:m:s/un vitesse/SBC:_:s/vitesse initiale/ADJ:f:s/initial élevée/ADJ2PAR:f:s/élever d'/PREP/d' évaporation/SBC:_:s/évaporation ,/, une/DTN:m:s/un croûte/SBC:_:s/croûte se/PRV:3p:_:_:{a|d}/lui forme/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/former:1g à/PREP/à l'/DTN:_:s/le interface/SBC:_:s/interface entre/PREP/entre le/DTN:m:s/le sirop/SBC:_:s/sirop et/COO/et l'/DTN:_:s/le air/SBC:_:s/air ambiante/ADJ:f:s/ambiant empêchant/VNCNT:m:s/empêcher:1g une/DTN:m:s/un élimination/SBC:_:s/élimination complète/ADJ:f:s/complet de/PREP/de l'/DTN:_:s/le humidité/SBC:_:s/humidité ./. </ph>
+<ph_nb=9>Un/DTN:m:s/un modèle/SBC:_:s/modèle mathématique/SBC:_:s/mathématique reposant/ADJ:m:s/reposant sur/PREP/sur le/DTN:m:s/le couplage/SBC:_:s/couplage des/DTC:_:p/du transferts/SBC:_:p/transfert de/PREP/de chaleur/SBC:_:s/chaleur et/COO/et de/PREP/de matière/SBC:_:s/matière et/COO/et tenant/VNCNT:m:s/tenir:3g compte/SBC:_:s/compte du/DTC:m:s/du phénomène/SBC:_:s/phénomène de/PREP/de croûtage/VNCFF/croûtage a/VCJ:3p:s:pst:ind/avoir:3g été/EPAR:m:s/être développé/ADJ1PAR:m:s/développer ./. </ph>
+<ph_nb=10>Ce/DTN:m:s/ce modèle/SBC:_:s/modèle permet/VCJ:3p:s:pst:ind/permettre:3g de/PREP/de prédire/VNCFF/prédire correctement/ADV/correctement l'/DTN:_:s/le évolution/SBC:_:s/évolution de/PREP/de la/DTN:f:s/le teneur/SBC:_:s/teneur en/PREP/en eau/SBC:_:s/eau du/DTC:m:s/du sucre/SBC:_:s/sucre au/DTC:m:s/au {cours/SBC:f:p/cour|cours/SBC:m:_/cours} du/DTC:m:s/du séchage/SBC:_:s/séchage </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0250431/CAR/0250431 
+</AN>
+<TI>
+<ph_nb=1>Caractérisation/SBC:_:s/caractérisation de/PREP/de farines/SBC:_:p/farine de/PREP/de blé/SBC:_:s/blé tendre/ADJ:_:s/tendre turboséparées/ADJ2PAR:f:p/turboséparer ./. </ph>
+<ph_nb=2>Comparaison/SBC:_:s/comparaison du/DTC:m:s/du comportement/SBC:_:s/comportement de/PREP/de leurs/DTN:_:p/leur protéines/SBC:_:p/protéine dans/PREP/dans la/DTN:f:s/le pâte/SBC:_:s/pâte ,/, à/PREP/à celui/PRO:3p:m:s:_/celui des/DTC:_:p/du protéines/SBC:_:p/protéine du/DTC:m:s/du gluten/SBC:_:s/gluten et/COO/et de/PREP/de faines/SBC:_:p/faine de/PREP/de force/SBC:_:s/force </ph>
+</TI>
+<AB>
+<ph_nb=1>L'/DTN:_:s/le enrichissement/SBC:_:s/enrichissement en/PREP/en protéines/SBC:_:p/protéine d'/PREP/d' une/DTN:m:s/un farine/SBC:_:s/farine par/PREP/par voie/SBC:_:_/voie sèche/ADJ:f:s/sec (/( turboséparation/SBC:_:s/turboséparation )/) s'/PRV:3p:_:_:{a|d}/lui accompagne/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/accompagner:1g de/PREP/de diverses/ADJ:f:p/divers modifications/SBC:_:p/modification de/PREP/de celle-ci/PRO:3p:m:s:_/celui-ci :/: granulométrie/SBC:_:_/granulométrie ,/, teneur/SBC:_:s/teneur en/PREP/en lipides/SBC:_:p/lipide en/PREP/en amidon/SBC:_:s/amidon endommagé/ADJ2PAR:m:s/endommager ./. </ph>
+<ph_nb=2>L'/DTN:_:s/le amélioration/SBC:_:s/amélioration de/PREP/de la/DTN:f:s/le force/SBC:_:s/force boulangère/SBC:_:s/boulangère d'/PREP/d' une/DTN:m:s/un farine/SBC:_:s/farine par/PREP/par incorporation/SBC:_:s/incorporation de/PREP/de fraction/SBC:_:s/fraction surprotéinée/ADJ2PAR:f:s/surprotéiner (/( mesurée/ADJ2PAR:f:s/mesurer par/PREP/par le/DTN:m:s/le W/SBP?/w de/PREP/de l'/DTN:_:s/le alvéographe/SBC:_:s/alvéographe )/) est/VCJ:3p:s:pst:ind/être:3g relativement/ADV/relativement similaire/ADJ:_:s/similaire à/PREP/à celle/PRO:3p:f:s:_/celui obtenue/ADJ2PAR:f:s/obtenir par/PREP/par addition/SBC:_:s/addition soit/VCJ:3p:s:{pst|ps}:ind/être:3g de/PREP/de gluten/SBC:_:s/gluten ,/, soit/COO/soit de/PREP/de farine/SBC:_:s/farine de/PREP/de force/SBC:_:s/force ./. </ph>
+<ph_nb=3>Il/PRV:3p:m:s:n/lui apparaît/VCJ:3p:s:pst:ind/apparaître:3g cependant/ADV/cependant des/DTC:_:p/du différences/SBC:_:p/différence d'/PREP/d' extensibilité/SBC:_:s/extensibilité et/COO/et de/PREP/de tenacité/VNCFF/tenacité de/PREP/de la/DTN:f:s/le pâte/SBC:_:s/pâte provenant/VNCNT:m:s/provenir:3g de/PREP/de la/DTN:f:s/le nature/SBC:_:s/nature même/ADV/même de/PREP/de la/DTN:f:s/le fraction/SBC:_:s/fraction améliorante/ADJ:f:s/améliorant ./. </ph>
+<ph_nb=4>L'/DTN:_:s/le étude/SBC:_:s/étude de/PREP/de l'/DTN:_:s/le extractibilité/SBC:_:s/extractibilité des/DTC:_:p/du protéines/SBC:_:p/protéine dans/PREP/dans la/DTN:f:s/le pâte/SBC:_:s/pâte en/PREP/en présence/SBC:_:s/présence de/PREP/de divers/ADJ:m:p/divers composés/ADJ2PAR:m:p/composer actifs/ADJ:m:p/actif ,/, montre/SBC:_:s/montre que/SUB$/que selon/PREP/selon la/DTN:f:s/le farine/SBC:_:s/farine améliorée/ADJ2PAR:f:s/améliorer considérée/ADJ2PAR:f:s/considérer ,/, il/PRV:3p:m:s:n/lui existe/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/exister:1g certaines/DTN:f:p/certain différences/SBC:_:p/différence d'/PREP/d' extractibilité/VNCFF/extractibilité liées/ADJ2PAR:f:p/lier essentiellement/ADV/essentiellement à/PREP/à la/DTN:f:s/le nature/SBC:_:s/nature des/DTC:_:p/du interactions/SBC:_:p/interaction s'/PRV:3p:_:_:{a|d}/lui établissant/VNCNT:m:s/établir:2g entre/PREP/entre les/DTN:_:p/le protéines/SBC:_:p/protéine ./. </ph>
+<ph_nb=5>Nous/PRV:1p:_:p:_/lui ne/ADV/ne pouvons/VCJ:1p:p:pst:{ind|imper}/pouvoir:3g cependant/ADV/cependant pas/ADV/pas préciser/VNCFF/préciser qu'/SUB$/qu' elle/PRV:3p:m:s:{n|d|o}/lui est/VCJ:3p:s:pst:ind/être:3g l'/DTN:_:s/le influence/SBC:_:s/influence des/DTC:_:p/du protéines/SBC:_:p/protéine des/DTC:_:p/du fractions/SBC:_:p/fraction améliorantes/ADJ:f:p/améliorant par/PREP/par rapport/SBC:_:s/rapport aux/DTC:_:p/au protéines/SBC:_:p/protéine endogènes/ADJ:_:p/endogène de/PREP/de la/DTN:f:s/le farine/SBC:_:s/farine de/PREP/de base/SBC:_:s/base ,/, dans/PREP/dans l'/DTN:_:s/le établissement/SBC:_:s/établissement de/PREP/de ces/DTN:m:p/ce interactions/SBC:_:p/interaction ./. </ph>
+<ph_nb=6>L'/DTN:_:s/le enrichissement/SBC:_:s/enrichissement en/PREP/en protéines/SBC:_:p/protéine d'/PREP/d' une/DTN:m:s/un farine/SBC:_:s/farine par/PREP/par turboséparation/VNCFF/turboséparation ,/, confère/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/conférer:1g à/PREP/à cette/DTN:f:s/ce fraction/SBC:_:s/fraction surprotéinée/ADJ2PAR:f:s/surprotéiner ,/, de/PREP/de réelles/ADJ:f:p/réel capacités/SBC:_:p/capacité améliorantes/ADJ:f:p/améliorant ./. </ph>
+<ph_nb=7>Cependant/ADV/cependant ,/, ce/DTN:m:s/ce caractère/SBC:_:s/caractère améliorant/VNCNT:m:s/améliorer:1g reste/SBC:_:s/reste tout_à_fait/ADV/tout_à_fait dépendant/VNCNT:m:s/dépendre:3g de/PREP/de l'/DTN:_:s/le origine/SBC:_:s/origine génétique/ADJ:_:s/génétique de/PREP/de la/DTN:f:s/le farine/SBC:_:s/farine turboséparée/ADJ2PAR:f:s/turboséparer </ph>
+</AB>
+</record>
+<record>
+<AN>
+92/CAR/92 -/- 0250441/CAR/0250441 
+</AN>
+<TI>
+<ph_nb=1>Méthodes/SBC:_:p/méthode d'/PREP/d' évaluation/SBC:_:s/évaluation de/PREP/de deux/CAR/deux traitements/SBC:_:p/traitement de/PREP/de mise/SBC:_:s/mise en/PREP/en forme/SBC:_:s/forme des/DTC:_:p/du aliments/SBC:_:p/aliment des/DTC:_:p/du animaux/SBC:m:p/animal :/: cuisson-extrusion/SBC:_:s/cuisson-extrusion et/COO/et agglomération/SBC:_:s/agglomération ---/---/--- Application/SBP?/application à/PREP/à la/DTN:f:s/le graine/SBC:_:s/graine de/PREP/de féverole/SBC:_:s/féverole décortiquée/ADJ2PAR:f:s/décortiquer </ph>
+</TI>
+<AB>
+<ph_nb=1>Le/DTN:m:s/le but/SBC:_:s/but de/PREP/de ce/DTN:m:s/ce travail/SBC:_:s/travail est/VCJ:3p:s:pst:ind/être:3g d'/PREP/d' évaluer/VNCFF/évaluer deux/CAR/deux traitements/SBC:_:p/traitement hydrothermiques/ADJ:_:p/hydrothermique de/PREP/de mise/SBC:_:s/mise en/PREP/en forme/SBC:_:s/forme (/( cuisson-extrusion/SBC:_:s/cuisson-extrusion et/COO/et agglomération/SBC:_:s/agglomération )/) ./. </ph>
+<ph_nb=2>La/DTN:f:s/le première/ADJ:f:s/premier étape/SBC:_:s/étape consiste/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/consister:1g à/PREP/à établir/VNCFF/établir ,/, pour/PREP/pour chacun/PRO:_p:m:s:_/chacun ,/, une/DTN:m:s/un échelle/SBC:_:s/échelle d'/PREP/d' intensité/SBC:_:s/intensité à_partir_de/PREP/à_partir_de critères/SBC:_:p/critère propres/ADJ:_:p/propre à/PREP/à l'/DTN:_:s/le opération/SBC:_:s/opération et/COO/et au/DTC:m:s/au produit/SBC:_:s/produit (/( graines/SBC:_:p/graine de/PREP/de féverole/SBC:_:s/féverole décortiquée/ADJ2PAR:f:s/décortiquer Vicia_faba/SBC:_:s/vicia_faba L/SBP?/l ./. </ph>
+<ph_nb=3>)/) ./. Les/DTN:_:p/le conséquences/SBC:_:p/conséquence nutritionnelles/ADJ:f:p/nutritionnel chez/PREP/chez le/DTN:m:s/le poulet/SBC:_:s/poulet de/PREP/de chair/SBC:_:s/chair sont/VCJ:3p:p:pst:ind/être:3g également/ADV/également étudiées/ADJ1PAR:f:p/étudier ./. </ph>
+<ph_nb=4>La/DTN:f:s/le seconde/ADJ:f:s/second étape/SBC:_:s/étape consiste/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/consister:1g à/PREP/à étudier/VNCFF/étudier la/DTN:f:s/le possibilité/SBC:_:s/possibilité de/PREP/de prévoir/VNCFF/prévoir les/DTN:_:p/le transformations/SBC:_:p/transformation souhaitées/ADJ2PAR:f:p/souhaiter à_partir_de/PREP/à_partir_de commandes/SBC:_:p/commande de/PREP/de procédés/SBC:_:p/procédé et/COO/et de/PREP/de variables/ADJ:_:p/variable mesurées/ADJ2PAR:f:p/mesurer ./. </ph>
+<ph_nb=5>La/DTN:f:s/le cuisson-extrusion/SBC:_:s/cuisson-extrusion est/VCJ:3p:s:pst:ind/être:3g un/DTN:m:s/un traitement/SBC:_:s/traitement drastique/ADJ:_:s/drastique qui/REL:_:_/qui modifie/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/modifier:1g sévèrement/ADV/sévèrement la/DTN:f:s/le composition/SBC:_:s/composition chimique/ADJ:_:s/chimique de/PREP/de la/DTN:f:s/le féverole/SBC:_:s/féverole ./. </ph>
+<ph_nb=6>Les/DTN:_:p/le modifications/SBC:_:p/modification sont/VCJ:3p:p:pst:ind/être:3g dues/ADJ1PAR:f:p/devoir principalement/ADV/principalement à/PREP/à l'/DTN:_:s/le énergie/SBC:_:_/énergie mécanique/ADJ:_:s/mécanique fournie/ADJ2PAR:f:s/fournir par/PREP/par le/DTN:m:s/le moteur/SBC:_:s/moteur qui/REL:_:_/qui varie/VCJ:{{1|3}p:s:pst:{ind|subj}|2p:s:pst:imper}/varier:1g de/PREP/de 103/CAR/103 à/PREP/à 264/CAR/264 kWh.t-1/SBP?/kWh.t-1 ./. </ph>
+<ph_nb=7>Chez/PREP/chez le/DTN:m:s/le poulet/SBC:_:s/poulet de/PREP/de chair/SBC:_:s/chair et/COO/et par/PREP/par rapport/SBC:_:s/rapport à/PREP/à la/DTN:f:s/le féverole/SBC:_:s/féverole non/ADV/non traitée/ADJ2PAR:f:s/traiter ,/, l'/DTN:_:s/le énergie/SBC:_:_/énergie métabolisable/ADJ:_:s/métabolisable (/( EM/SBP?/eM )/) et/COO/et la/DTN:f:s/le digestibilité/SBC:_:s/digestibilité apparente/ADJ:f:s/apparent de/PREP/de l'/DTN:_:s/le azote/SBC:_:s/azote (/( CUDaN/SBP?/cUDaN )/) sont/VCJ:3p:p:pst:ind/être:3g accrues/ADJ1PAR:f:p/accroître lorsque/SUB/lorsque le/DTN:m:s/le traitement/SBC:_:s/traitement est/VCJ:3p:s:pst:ind/être:3g peu/ADV/peu sévère/ADJ:_:s/sévère et/COO/et proches/ADJ:_:p/proche de/PREP/de celles/PRO:3p:f:p:_/celui du/DTC:m:s/du témoin/SBC:_:s/témoin dans/PREP/dans le/DTN:m:s/le cas/SBC:_:_/cas contraire/ADJ:_:s/contraire ./. </ph>
+<ph_nb=8>L'/DTN:_:s/le agglomération/SBC:_:s/agglomération est/VCJ:3p:s:pst:ind/être:3g un/DTN:m:s/un traitement/SBC:_:s/traitement modéré/ADJ1PAR:m:s/modérer modifiant/VNCNT:m:s/modifier:1g peu/ADV/peu les/DTN:_:p/le composés/SBC:_:p/composé chimiques/ADJ:_:p/chimique de/PREP/de la/DTN:f:s/le graine/SBC:_:s/graine ./. </ph>
+<ph_nb=9>Les/DTN:_:p/le modifications/SBC:_:p/modification sont/VCJ:3p:p:pst:ind/être:3g liées/ADJ1PAR:f:p/lier à/PREP/à l'/DTN:_:s/le énergie/SBC:_:_/énergie thermique/ADJ:_:s/thermique apportée/ADJ2PAR:f:s/apporter par/PREP/par la/DTN:f:s/le vapeur/SBC:_:s/vapeur qui/REL:_:_/qui est/VCJ:3p:s:pst:ind/être:3g de/PREP/de 12,9/CAR/12,9 à/PREP/à 41,9/CAR/41,9 kWh.t-1/SBP?/kWh.t-1 ./. </ph>
+<ph_nb=10>L'/DTN:_:s/le EM/SBP?/eM chez/PREP/chez le/DTN:m:s/le poulet/SBC:_:s/poulet est/VCJ:3p:s:pst:ind/être:3g significativement/ADV/significativement accrue/ADJ1PAR:f:s/accroître de/PREP/de 12/CAR/12 à/PREP/à 17/CAR/17 %/SYM/% ,/, le/DTN:m:s/le CUDaN/SBP?/cUDaN et/COO/et les/DTN:_:p/le performances/SBC:_:p/performance d'/PREP/d' élevage/SBC:_:s/élevage sont/VCJ:3p:p:pst:ind/être:3g également/ADV/également améliorées/ADJ1PAR:f:p/améliorer ./. </ph>
+<ph_nb=11>La/DTN:f:s/le sévérité/SBC:_:s/sévérité de/PREP/de l'/DTN:_:s/le extrusion/SBC:_:s/extrusion et/COO/et de/PREP/de l'/DTN:_:s/le agglomération/SBC:_:s/agglomération peut/VCJ:3p:s:pst:ind/pouvoir:3g être/ENCFF/être définie/ADJ1PAR:f:s/définir par/PREP/par les/DTN:_:p/le relations/SBC:_:p/relation existant/ADJ:m:s/existant entre/PREP/entre les/DTN:_:p/le résultats/SBC:_:p/résultat de/PREP/de bilans/SBC:_:p/bilan énergétiques/ADJ:_:p/énergétique ,/, les/DTN:_:p/le modifications/SBC:_:p/modification physico-chimiques/ADJ:_:p/physico-chimique de/PREP/de féverole/SBC:_:s/féverole traitées/ADJ2PAR:f:p/traiter et/COO/et les/DTN:_:p/le paramètres/SBC:_:p/paramètre de/PREP/de commande/SBC:_:s/commande de/PREP/de procédés/SBC:_:p/procédé ./. </ph>
+<ph_nb=12>La/DTN:f:s/le modification/SBC:_:s/modification de/PREP/de l'/DTN:_:s/le état/SBC:_:s/état physicochimique/ADJ:_:s/physicochimique de/PREP/de l'/DTN:_:s/le amidon/SBC:_:s/amidon permet/VCJ:3p:s:pst:ind/permettre:3g d'/PREP/d' expliquer/VNCFF/expliquer en_partie/ADV/en_partie l'/DTN:_:s/le amélioration/SBC:_:s/amélioration de/PREP/de l'/DTN:_:s/le efficacité/SBC:_:s/efficacité alimentaire/ADJ:_:s/alimentaire et/COO/et l'/DTN:_:s/le EM/SBP?/eM de/PREP/de la/DTN:f:s/le féverole/SBC:_:s/féverole traitée/ADJ2PAR:f:s/traiter ./. </ph>
+<ph_nb=13>Par/PREP/par ailleurs/ADV/ailleurs ,/, il/PRV:3p:m:s:n/lui devrait/VCJ:3p:s:pst:cond/devoir:3g être/ENCFF/être possible/ADJ:_:s/possible de/PREP/de prévoir/VNCFF/prévoir la/DTN:f:s/le valeur/SBC:_:s/valeur nutritionnelle/ADJ:f:s/nutritionnel des/DTC:_:p/du échantillons/SBC:_:p/échantillon extrudés/ADJ2PAR:m:p/extruder à/PREP/à partir/VNCFF/partir des/DTC:_:p/du résultats/SBC:_:p/résultat physico-chimiques/ADJ:_:p/physico-chimique </ph>
+</AB>
+</record>
+<record>

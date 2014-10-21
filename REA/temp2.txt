@@ -1,0 +1,26 @@
+gaz volcaniquesLes 0 --- Gaz volcaniquesLes --- SBC ADJ --- gaz volcaniquesLes --- na --- BASE --- 92 --- 0014602 --- 1 --- 0
+gaz dissoudre 1 --- gaz volcaniques dissous --- SBC ADJ ADJ --- gaz volcanique dissoudre --- na --- MODIF --- 92 --- 0014602 --- 1 --- 0
+gaz volcanique 2 --- gaz volcaniques --- SBC ADJ --- gaz volcanique --- na --- BASE --- 92 --- 0014602 --- 1 --- 0
+phénomène déclenchement 3 --- phénomène déterminant dans le déclenchement --- SBC ADJ PREP DTN SBC --- phénomène déterminant dans le déclenchement --- npn --- MODIF --- 92 --- 0014602 --- 2 --- 0
+phénomène déterminant 4 --- phénomène déterminant --- SBC ADJ --- phénomène déterminant --- na --- BASE --- 92 --- 0014602 --- 2 --- 0
+type éruptif 5 --- type éruptif --- SBC ADJ --- type éruptif --- na --- BASE --- 92 --- 0014602 --- 2 --- 0
+cheminée volcanique 6 --- cheminée volcanique --- SBC ADJ --- cheminée volcanique --- na --- BASE --- 92 --- 0014602 --- 3 --- 0
+caractère violent 7 --- caractère explosif et violent --- SBC ADJ COO ADJ --- caractère explosif et violent --- na --- COORD --- 92 --- 0014602 --- 3 --- 0
+caractère explosif 8 --- caractère explosif --- SBC ADJ --- caractère explosif --- na --- BASE --- 92 --- 0014602 --- 3 --- 0
+éruption présence 9 --- éruption en présence --- SBC PREP SBC --- éruption en présence --- npn --- BASE --- 92 --- 0014602 --- 3 --- 0
+présence magma 10 --- présence d' un magma --- SBC PREP DTN SBC --- présence de un magma --- npn --- BASE --- 92 --- 0014602 --- 3 --- 0
+magma visqueux.Les 11 --- magma visqueux.Les --- SBC ADJ --- magma visqueux.Les --- na --- BASE --- 92 --- 0014602 --- 3 --- 0
+gaz volcanique 2 --- gaz volcaniques --- SBC ADJ --- gaz volcanique --- na --- BASE --- 92 --- 0014602 --- 3 --- 0
+vapeur eau 12 --- vapeur d' eau --- SBC PREP SBC --- vapeur de eau --- npn --- BASE --- 92 --- 0014602 --- 3 --- 0
+eau teneur 13 --- eau à teneur --- SBC PREP SBC --- eau à teneur --- npn --- BASE --- 92 --- 0014602 --- 3 --- 0
+dioxyde carbone 14 --- dioxyde de carbone --- SBC PREP SBC --- dioxyde de carbone --- npn --- BASE --- 92 --- 0014602 --- 3 --- 0
+carbone teneur 15 --- carbone à teneur --- SBC PREP SBC --- carbone à teneur --- npn --- BASE --- 92 --- 0014602 --- 3 --- 0
+dioxyde soufre 16 --- dioxyde de soufre --- SBC PREP SBC --- dioxyde de soufre --- npn --- BASE --- 92 --- 0014602 --- 3 --- 0
+soufre teneur 17 --- soufre à teneur --- SBC PREP SBC --- soufre à teneur --- npn --- BASE --- 92 --- 0014602 --- 3 --- 0
+élément volatil 18 --- éléments volatils --- SBC ADJ --- élément volatil --- na --- BASE --- 92 --- 0014602 --- 3 --- 0
+monoxyde carbone 19 --- monoxyde de carbone --- SBC PREP SBC --- monoxyde de carbone --- npn --- BASE --- 92 --- 0014602 --- 3 --- 0
+chlorure hydrogène 20 --- chlorure d' hydrogène --- SBC PREP SBC --- chlorure de hydrogène --- npn --- BASE --- 92 --- 0014602 --- 3 --- 0
+sulfure hydrogène 21 --- sulfure d' hydrogène --- SBC PREP SBC --- sulfure de hydrogène --- npn --- BASE --- 92 --- 0014602 --- 3 --- 0
+magma profondeur 22 --- magma en profondeur --- SBC PREP SBC --- magma en profondeur --- npn --- BASE --- 92 --- 0014602 --- 4 --- 0
+présence fumerolle 23 --- présence de fumerolles --- SBC PREP SBC --- présence de fumerolle --- npn --- BASE --- 92 --- 0014602 --- 4 --- 0
+fumerolle autour 24 --- fumerolles autour --- SBC SBC --- fumerolle autour --- npn --- BASE --- 92 --- 0014602 --- 4 --- 0

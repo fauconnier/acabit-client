@@ -1,0 +1,221 @@
+﻿VERSION ACABIT pour le Français du 3/11/2004
+---------------------------------------------
+
+Beatrice Daille
+daille@lina.univ-nantes.fr
+
+Utilisation
+-----------
+Version perl au minimum 5.8 
+Suite d'instructions à lancer :
+
+	cd nom_du_repertoire_acabit
+	perl -C fr_stat.pl nom_du_fichier_entree
+	perl -C fr_tri.pl [nom_du_fichier_sortie]
+
+Note: 
+1) Fichier de sortie par défault : out.xml
+2) Ne pas detruire les fichiers txt generes lors des etapes intermediaires
+3) Ne pas lancer deux processus simultanés
+
+
+LE FICHIER D'ENTREE DOIT ETRE CODE EN UTF-8
+pour convertir un fichier codé latin1 en utf8, utiliser la commande
+	iconv -f latin1 -t utf8 fichier_latin1 > fichier_utf8
+
+LES FICHIERS PERL SONT AUSSI CODES EN UTF8
+
+Format d'entrée
+---------------
+
+Corpus segmente, étiqueté et lemmatise.
+Programme d'etiquetage : étiqueteur de Brill pour le français
+Programme de lemmatisation : lemmatiseur FLEMM
+
+Le fichier d'entrée doit être balisé comme suit:
+
+<record>
+<AN> ...</AN>
+<TI> ... </TI>
+<AB> 
+<ph_nb=xxx> ... <ph>
+....
+<ph_nb=xxx> ... <ph>
+</AB>
+</record>
+<record>
+...
+</record>
+
+*Balise <record> : marquage des différents textes
+*Balise <AN>     : information concernant le texte
+*Balise <TI>     : titre
+*Balise <AB>     : corps du texte
+*Balise <ph_nb=xxx> : phrase numero xxx  
+
+Exemple de fichier entree  : exemple_fr.txt
+
+
+format special de la balise <AN> : <AN> nn/CAR/nn -/- mmmmmmm/XXX/mmmmmmm </AN>
+	  avec nn = année et mmmmmmm=identificateur du fichier 
+	
+Fichiers de sorties 
+-------------------
+
+out.xml
+
+REA/temp.txt
+REA/temp2.txt
+REA/temp3.txt
+REA/temp3_bis.txt 
+
+REA/ensemble.txt   
+REA/relationnel.txt  
+REA/tiret.txt
+REA/inversion.txt  
+REA/prefixe.txt      
+
+REA/res.txt
+REA/newindex.txt 
+REA/tri.txt
+
+out.xml
+-------
+
+Fichier de sortie au format XML.
+
+Contient la liste des candidats termes après regroupement
+morphologique classé selon le loglike.
+
+
+REA/relationnel.txt  
+-------------------
+
+Regroupement des termes après detection des adjectifs relationnels.
+
+
+REA/inversion.txt  
+-----------------
+
+Regroupement des termes après detection des inversions.
+
+REA/prefixe.txt      
+---------------
+
+Regroupement des termes après detection des prefixes.
+
+REA/ensemble.txt   
+----------------
+
+Regroupement des termes après detection des suffixes.
+
+REA/tiret.txt
+-------------
+
+Regroupement des termes après detection des tirets.
+
+REA/newindex.txt
+----------------
+
+Nouvel index des termes après le regroupement des
+variantes de termes.
+
+REA/temp.txt
+------------
+
+Liste de termes avec leurs statistiques
+
+Chaque ligne correspond à un couple (premier lemme/ dernier lemme). 
+Les informations pour chaque couple sont, dans l'ordre :
+- son identifiant unique
+- le nombre de termes commencant par ce premier lemme
+- le nombre de termes finissant par ce dernier lemme
+- le premier lemme
+- le dernier lemme
+- le type de structure
+- la suite de lemmes de chaque terme simplifie trouve 
+  comportant ce premier et ce dernier lemme 
+
+
+REA/temp2.txt
+-------------
+
+C'est le fichier ou  apparait chaque terme trouve  (autant de fois que
+d'occurences dans le texte) avec les informations suivantes et
+leur emplacement dans le texte
+
+Chaque ligne correspond à  un terme trouve, a ses caracteristiques et
+a ses references : 
+- le premier lemme
+- le dernier lemme
+- l'identifiant unique du couple (premier lemme/ dernier lemme)
+- la suite de flexions de chaque terme
+- la suite d'etiquettes de chaque terme
+- la suite de lemmes de chaque terme
+- la structure du terme (NA, NPN, ...)
+- le type du terme (BASE, MODIF, COORD, ...)
+- l'annee
+- le numero de texte
+- le numero de phrase
+- un booleen pour dire si le terme a ete trouve dans un titre (1) ou
+dans le corps du texte (0)
+
+REA/temp3.txt et REA/temp3_bis.txt
+----------------------------------
+
+Fichiers avec la liste des adjectifs relationnels
+
+Chaque ligne correspond à un adjectif detecte :
+- le lemme de l'adjectif
+- le numero de l'iteration à laquelle il a ete trouve. 
+  (1 = directement) c'est-a-dire lors de cette phase
+
+temp3.txt contient l'ensemble des adjectifs 
+avant la detection des adj dans les coordinations.
+
+temp3_bis.txt contient l'ensemble des adjectifs 
+après la detection des adj dans les coordinations.
+
+
+
+REA/res.txt
+-----------
+
+Fichier resultat des couples de termes listes dans temp.txt trouvé
+tries selon le loglike. 
+Il tient compte des regroupements morphologiques.
+
+
+REA/tri.txt
+-----------
+
+Fichier resultat des occurrences de termes listees dans temp2.txt
+regroupées (sans prise en compte des regroupements morphologiques) 
+
+Le fichier est compose d'une alternance de lignes de 2 formes differentes :
+-  "Mot Mot :" pour presenter les mots des termes
+- "* Infos sur le terme" qui fournit des renseignements sur les
+occurrences de ce terme 
+
+
+Chaque ligne correspondant aux renseignements sur les occurrences du
+terme à la forme suivante :
+- l'identifiant unique du couple (premier lemme/ dernier lemme)
+- le premier lemme
+- le dernier lemme
+- la suite de flexions de chaque terme
+- la suite d'etiquettes de chaque terme
+- la suite de lemmes de chaque terme
+- la structure du terme (NA, NPN, ...)
+- le type du terme (BASE, MODIF, COORD, ...)
+- une suite non nulle de references entre parentheses :
+  * l'annee
+  * le numero de texte
+  * le numero de phrase
+  * un booleen pour dire si le terme a ete trouve dans un titre (1) ou
+   dans un resume (0) 
+
+
+
+
+

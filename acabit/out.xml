@@ -1,0 +1,4954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LISTCAND>
+<SETCAND new_ident="356" loglike="1096.055" freq="5">
+	<CAND old_ident="358">
+	<NA freq="5">
+		<BASE> <TERM> alcool supérieur </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="80" loglike="1071.797" freq="4">
+	<CAND old_ident="81">
+	<NPN freq="4">
+		<BASE> <TERM> qualité du produit </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="412" loglike="1063.343" freq="3">
+	<CAND old_ident="415">
+	<NPN freq="3">
+		<BASE> <TERM> lit fluidisé </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="156" loglike="1058.051" freq="3">
+	<CAND old_ident="157">
+	<NPN freq="2">
+		<BASE> <TERM> contrôle de qualité </TERM>
+		</BASE>
+	</NPN>
+	<NPN freq="1">
+		<BASE> <TERM> contrôle de le qualité </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="112" loglike="1056.32" freq="3">
+	<CAND old_ident="113">
+	<NA freq="3">
+		<BASE> <TERM> flore lactique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="37" loglike="1052.501" freq="3">
+	<CAND old_ident="37">
+	<NA freq="3">
+		<BASE> <TERM> produit alimentaire </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="464" loglike="1052.373" freq="3">
+	<CAND old_ident="467">
+	<NPN freq="1">
+		<MODIF> <TERM> protéine endogène de le farine </TERM>
+		</MODIF>
+	</NPN>
+	<NPN freq="2">
+		<BASE> <TERM> protéine d' un farine </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="396" loglike="1043.054" freq="2">
+	<CAND old_ident="399">
+	<NPN freq="2">
+		<BASE> <TERM> mie de pain </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="509" loglike="1043.054" freq="2">
+	<CAND old_ident="512">
+	<NPN freq="2">
+		<BASE> <TERM> commande de procédé </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="204" loglike="1043.054" freq="2">
+	<CAND old_ident="205">
+	<NPN freq="2">
+		<BASE> <TERM> chlorure de calcium </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="507" loglike="1043.054" freq="2">
+	<CAND old_ident="510">
+	<NPN freq="2">
+		<BASE> <TERM> poulet de chair </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="23" loglike="1041.145" freq="2">
+	<CAND old_ident="23">
+	<NA freq="1">
+		<MODIF> <TERM> travail liminaire effectuer </TERM>
+		</MODIF>
+	</NA>
+	<NA freq="1">
+		<BASE> <TERM> travail effectuer </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="157" loglike="1041.145" freq="2">
+	<CAND old_ident="158">
+	<NPN freq="2">
+		<BASE> <TERM> modélisation du contrôle </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="201" loglike="1041.145" freq="2">
+	<CAND old_ident="202">
+	<NA freq="2">
+		<BASE> <TERM> carotte râper </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="164" loglike="1041.145" freq="2">
+	<CAND old_ident="165">
+	<NPN freq="2">
+		<BASE> <TERM> plan d' échantillonnage </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="49" loglike="1041.145" freq="2">
+	<CAND old_ident="50">
+	<NPN freq="2">
+		<BASE> <TERM> évolution de le teneur </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="100" loglike="1041.145" freq="2">
+	<CAND old_ident="101">
+	<NPN freq="2">
+		<BASE> <TERM> temps de relaxation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="252" loglike="1041.145" freq="2">
+	<CAND old_ident="254">
+	<NPN freq="2">
+		<BASE> <TERM> chicorée de bruxelles </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="114" loglike="1040.282" freq="2">
+	<CAND old_ident="115">
+	<NA freq="2">
+		<BASE> <TERM> levain naturel </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="499" loglike="1040.282" freq="2">
+	<CAND old_ident="502">
+	<NA freq="2">
+		<BASE> <TERM> féverole décortiquer </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="516" loglike="1040.282" freq="2">
+<LINK type="Neg" old_ident1="519" old_ident2="519_0"></LINK>
+	<CAND old_ident="519">
+	<NA freq="1">
+		<BASE> <TERM> féverole traiter </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+	<CAND old_ident="519_0">
+	<NA freq="1">
+		<MODIF> <TERM> féverole non traiter </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="498" loglike="1039.689" freq="2">
+	<CAND old_ident="501">
+	<NPN freq="2">
+		<BASE> <TERM> graine de féverole </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="411" loglike="1039.689" freq="2">
+	<CAND old_ident="414">
+	<NA freq="2">
+		<BASE> <TERM> sucre cristalliser </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="154" loglike="1039.689" freq="2">
+	<CAND old_ident="155">
+	<NA freq="2">
+		<BASE> <TERM> résultat obtenir </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="463" loglike="1039.689" freq="2">
+	<CAND old_ident="466">
+	<NPN freq="2">
+		<BASE> <TERM> enrichissement en protéine </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="127" loglike="1039.237" freq="2">
+	<CAND old_ident="128">
+	<NA freq="2">
+		<BASE> <TERM> chromatographie liquide </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="232" loglike="1038.867" freq="2">
+	<CAND old_ident="233">
+	<NA freq="2">
+		<BASE> <TERM> etude comparatif </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="85" loglike="1038.556" freq="2">
+	<CAND old_ident="86">
+	<NPN freq="2">
+		<BASE> <TERM> cinétique de séchage </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="380" loglike="1038.556" freq="2">
+	<CAND old_ident="382">
+	<NPN freq="2">
+		<BASE> <TERM> farine de blé </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="357" loglike="1038.556" freq="2">
+	<CAND old_ident="359">
+	<NPN freq="2">
+		<BASE> <TERM> précurseur de le farine </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="324" loglike="1038.556" freq="2">
+	<CAND old_ident="326">
+	<NPN freq="2">
+		<BASE> <TERM> démarche qualité </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="113" loglike="1038.376" freq="2">
+	<CAND old_ident="114">
+	<NPN freq="2">
+		<MODIF> <TERM> levain naturel de panification </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="47" loglike="1038.376" freq="2">
+	<CAND old_ident="48">
+	<NPN freq="2">
+		<BASE> <TERM> teneur en chrome </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="435" loglike="1038.376" freq="2">
+	<CAND old_ident="438">
+	<NPN freq="1">
+		<BASE> <TERM> humidité de le air </TERM>
+		</BASE>
+	</NPN>
+	<NPN freq="1">
+		<MODIF> <TERM> humidité initial de le air </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="54" loglike="1038.376" freq="2">
+	<CAND old_ident="55">
+	<NA freq="2">
+		<BASE> <TERM> polysaccharide pariétal </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="460" loglike="1038.287" freq="2">
+	<CAND old_ident="463">
+	<NPN freq="2">
+		<BASE> <TERM> protéine dans le pâte </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="368" loglike="1038.287" freq="2">
+	<CAND old_ident="370">
+	<NA freq="2">
+		<BASE> <TERM> milieu modéliser </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="174" loglike="1038.287" freq="2">
+	<CAND old_ident="175">
+	<NA freq="2">
+		<BASE> <TERM> méthode statistique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="120" loglike="1038.05" freq="2">
+	<CAND old_ident="121">
+	<NPN freq="2">
+		<BASE> <TERM> produit céréalier </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="474" loglike="1038.05" freq="2">
+	<CAND old_ident="477">
+	<NA freq="2">
+		<BASE> <TERM> fraction surprotéiner </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="410" loglike="1037.785" freq="2">
+	<CAND old_ident="413">
+	<NPN freq="1">
+		<MODIF> <TERM> sucre cristalliser en lit </TERM>
+		</MODIF>
+	</NPN>
+	<NPN freq="1">
+		<MODIF> <TERM> sucre cristalliser dans un lit </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="495" loglike="1037.785" freq="2">
+	<CAND old_ident="498">
+	<NPN freq="2">
+		<BASE> <TERM> mise en forme </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="494" loglike="1036.656" freq="2">
+	<CAND old_ident="497">
+	<NPN freq="1">
+		<BASE> <TERM> traitement de mise </TERM>
+		</BASE>
+	</NPN>
+	<NPN freq="1">
+		<MODIF> <TERM> traitement hydrothermique de mise </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="149" loglike="1036.656" freq="2">
+	<CAND old_ident="150">
+	<NPN freq="2">
+		<BASE> <TERM> analyse d' image </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="90" loglike="1036.656" freq="2">
+	<CAND old_ident="91">
+	<NPN freq="2">
+		<BASE> <TERM> air de séchage </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="248" loglike="1036.476" freq="2">
+	<CAND old_ident="249">
+	<NA freq="2">
+		<BASE> <TERM> composition nutritionnel </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="62" loglike="1036.154" freq="2">
+	<CAND old_ident="63">
+	<NA freq="2">
+		<BASE> <TERM> fraction pectique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="477" loglike="1036.154" freq="2">
+	<CAND old_ident="480">
+	<NA freq="2">
+		<BASE> <TERM> fraction améliorant </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="230" loglike="1035.89" freq="2">
+	<CAND old_ident="231">
+	<NPN freq="2">
+		<BASE> <TERM> souche de levure </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="382" loglike="1035.803" freq="2">
+<LINK type="INV" old_ident1="384" old_ident2="394"></LINK>
+	<CAND old_ident="394">
+	<NA freq="1">
+		<MODIF> <TERM> alcool supérieur former </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+	<CAND old_ident="384">
+	<NPN freq="1">
+		<BASE> <TERM> formation du alcool </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="261" loglike="1035.538" freq="2">
+	<CAND old_ident="263">
+	<NA freq="2">
+		<BASE> <TERM> milieu acide </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="36" loglike="1035.305" freq="2">
+	<CAND old_ident="36">
+	<NPN freq="2">
+		<BASE> <TERM> chrome du produit </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="39" loglike="1035.305" freq="2">
+	<CAND old_ident="39">
+	<NPN freq="1">
+		<BASE> <TERM> chrome dans le aliment </TERM>
+		</BASE>
+	</NPN>
+	<NA freq="1">
+		<BASE> <TERM> chrome alimentaire </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="134" loglike="1035.305" freq="2">
+	<CAND old_ident="135">
+	<NA freq="1">
+		<BASE> <TERM> caractérisation alimentaire </TERM>
+		</BASE>
+	</NA>
+	<NPN freq="1">
+		<MODIF> <TERM> caractérisation sensoriel du aliment </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="138" loglike="1022.228" freq="1">
+	<CAND old_ident="139">
+	<NA freq="1">
+		<BASE> <TERM> factorielle discriminant </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="418" loglike="1022.228" freq="1">
+	<CAND old_ident="421">
+	<NPN freq="1">
+		<BASE> <TERM> film de sirop </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="27" loglike="1022.228" freq="1">
+	<CAND old_ident="27">
+	<NPN freq="1">
+		<BASE> <TERM> technologie de collage </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="284" loglike="1022.228" freq="1">
+	<CAND old_ident="286">
+	<NA freq="1">
+		<BASE> <TERM> usine textile </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="470" loglike="1022.228" freq="1">
+	<CAND old_ident="473">
+	<NPN freq="1">
+		<BASE> <TERM> force boulangère </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="532" loglike="1022.228" freq="1">
+	<CAND old_ident="535">
+	<NA freq="1">
+		<BASE> <TERM> bilan énergétique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="82" loglike="1022.228" freq="1">
+	<CAND old_ident="83">
+	<NPN freq="1">
+		<BASE> <TERM> aide d' un séchoir </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="340" loglike="1022.228" freq="1">
+	<CAND old_ident="342">
+	<NA freq="1">
+		<BASE> <TERM> élément indissociable </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="69" loglike="1022.228" freq="1">
+	<CAND old_ident="70">
+	<NPN freq="1">
+		<BASE> <TERM> addition d' enzyme </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="9" loglike="1022.228" freq="1">
+	<CAND old_ident="9">
+	<NA freq="1">
+		<BASE> <TERM> sucrerie important </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="211" loglike="1022.228" freq="1">
+	<CAND old_ident="212">
+	<NPN freq="1">
+		<BASE> <TERM> profit du pectine </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="543" loglike="1022.228" freq="1">
+	<CAND old_ident="546">
+	<NA freq="1">
+		<BASE> <TERM> échantillon extruder </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="94" loglike="1022.228" freq="1">
+	<CAND old_ident="95">
+	<NPN freq="1">
+		<BASE> <TERM> solution de soude </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="72" loglike="1022.228" freq="1">
+	<CAND old_ident="73">
+	<NPN freq="1">
+		<BASE> <TERM> moût sur le évolution </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="146" loglike="1022.228" freq="1">
+	<CAND old_ident="147">
+	<NPN freq="1">
+		<BASE> <TERM> distinction du juge </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="197" loglike="1022.228" freq="1">
+	<CAND old_ident="198">
+	<NA freq="1">
+		<BASE> <TERM> fruit entier </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="205" loglike="1022.228" freq="1">
+	<CAND old_ident="206">
+	<NA freq="1">
+		<MODIF> <TERM> calcium puis ioniser </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="333" loglike="1022.228" freq="1">
+	<CAND old_ident="335">
+	<NPN freq="1">
+		<BASE> <TERM> oeil du consommateur </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="118" loglike="1022.228" freq="1">
+	<CAND old_ident="119">
+	<NPN freq="1">
+		<BASE> <TERM> genre lactobacillus </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="130" loglike="1022.228" freq="1">
+	<CAND old_ident="131">
+	<NPN freq="1">
+		<BASE> <TERM> cEE limite </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="104" loglike="1022.228" freq="1">
+	<CAND old_ident="105">
+	<NPN freq="1">
+		<BASE> <TERM> signal par gramme </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="301" loglike="1022.228" freq="1">
+	<CAND old_ident="303">
+	<NPN freq="1">
+		<BASE> <TERM> pectineméthylestérase de mandarine </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="88" loglike="1022.228" freq="1">
+	<CAND old_ident="89">
+	<NA freq="1">
+		<BASE> <TERM> variété canico </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="241" loglike="1022.228" freq="1">
+	<CAND old_ident="242">
+	<NPN freq="1">
+		<BASE> <TERM> loi en puissance </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="480" loglike="1022.228" freq="1">
+	<CAND old_ident="483">
+	<NPN freq="1">
+		<BASE> <TERM> pâte en présence </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="103" loglike="1022.228" freq="1">
+	<CAND old_ident="104">
+	<NPN freq="1">
+		<BASE> <TERM> amplitude du signal </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="15" loglike="1022.228" freq="1">
+	<CAND old_ident="15">
+	<NPN freq="1">
+		<BASE> <TERM> norme de distribution </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="476" loglike="1022.228" freq="1">
+	<CAND old_ident="479">
+	<NPN freq="1">
+		<BASE> <TERM> différence d' extensibilité </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="171" loglike="1022.228" freq="1">
+	<CAND old_ident="172">
+	<NA freq="1">
+		<BASE> <TERM> approche mono-dimensionnel </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="46" loglike="1022.228" freq="1">
+	<CAND old_ident="47">
+	<NA freq="1">
+		<ATTR> <TERM> pêche être:3g déterminant </TERM>
+		</ATTR>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="437" loglike="1022.228" freq="1">
+	<CAND old_ident="440">
+	<NPN freq="1">
+		<BASE> <TERM> taille du particule </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="229" loglike="1022.228" freq="1">
+	<CAND old_ident="230">
+	<NPN freq="1">
+		<BASE> <TERM> modalité d' un conservation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="119" loglike="1022.228" freq="1">
+	<CAND old_ident="120">
+	<NA freq="1">
+		<BASE> <TERM> espèce identifier </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="325" loglike="1022.228" freq="1">
+	<CAND old_ident="327">
+	<NPN freq="1">
+		<BASE> <TERM> compte-tenu du spécificité </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="388" loglike="1022.228" freq="1">
+	<CAND old_ident="390">
+	<NA freq="1">
+		<BASE> <TERM> façon significatif </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="159" loglike="1022.228" freq="1">
+	<CAND old_ident="160">
+	<NA freq="1">
+		<BASE> <TERM> industrie sucrier </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="278" loglike="1022.228" freq="1">
+	<CAND old_ident="280">
+	<NPN freq="1">
+		<COORD> <TERM> fonction du pays et de le importance </TERM>
+		</COORD>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="304" loglike="1022.228" freq="1">
+	<CAND old_ident="306">
+	<NPN freq="1">
+		<BASE> <TERM> tampon borate </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="406" loglike="1022.228" freq="1">
+	<CAND old_ident="409">
+	<NPN freq="1">
+		<BASE> <TERM> contribution à le étude </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="212" loglike="1022.228" freq="1">
+	<CAND old_ident="213">
+	<NA freq="1">
+		<BASE> <TERM> pectine soluble </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="14" loglike="1022.228" freq="1">
+	<CAND old_ident="14">
+	<NA freq="1">
+		<BASE> <TERM> place nécessaire </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="359" loglike="1022.228" freq="1">
+	<CAND old_ident="361">
+	<NA freq="1">
+		<MODIF> <TERM> recherche plus général </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="312" loglike="1022.228" freq="1">
+	<CAND old_ident="314">
+	<NPN freq="1">
+		<BASE> <TERM> électrophorèse sur gel </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="451" loglike="1022.228" freq="1">
+	<CAND old_ident="454">
+	<NPN freq="1">
+		<BASE> <TERM> couplage du transfert </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="427" loglike="1022.228" freq="1">
+	<CAND old_ident="430">
+	<NA freq="1">
+		<BASE> <TERM> fluidisé contenant </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="281" loglike="1022.228" freq="1">
+	<CAND old_ident="283">
+	<NA freq="1">
+		<BASE> <TERM> coopérative agricole </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="458" loglike="1022.228" freq="1">
+	<CAND old_ident="461">
+	<NA freq="1">
+		<BASE> <TERM> blé tendre </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="373" loglike="1022.228" freq="1">
+	<CAND old_ident="375">
+	<NA freq="1">
+		<BASE> <TERM> odeur caractéristique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="399" loglike="1022.228" freq="1">
+	<CAND old_ident="402">
+	<NPN freq="1">
+		<BASE> <TERM> reproductibilité de le méthodologie </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="187" loglike="1022.228" freq="1">
+	<CAND old_ident="188">
+	<NPN freq="1">
+		<BASE> <TERM> ordre de grandeur </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="267" loglike="1022.228" freq="1">
+	<CAND old_ident="269">
+	<NA freq="1">
+		<BASE> <TERM> ion ferrique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="454" loglike="1022.228" freq="1">
+	<CAND old_ident="457">
+	<NPN freq="1">
+		<BASE> <TERM> compte du phénomène </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="44" loglike="1022.228" freq="1">
+	<CAND old_ident="44">
+	<NPNA freq="1">
+		<BASE> <TERM> denrée d' origine végétal </TERM>
+		</BASE>
+	</NPNA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="163" loglike="1022.228" freq="1">
+	<CAND old_ident="164">
+	<NPN freq="1">
+		<BASE> <TERM> détermination d' un ensemble </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="188" loglike="1022.228" freq="1">
+	<CAND old_ident="189">
+	<NPN freq="1">
+		<BASE> <TERM> grandeur de le erreur </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="295" loglike="1022.228" freq="1">
+	<CAND old_ident="297">
+	<NA freq="1">
+		<BASE> <TERM> mélange suivant </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="296" loglike="1022.228" freq="1">
+	<CAND old_ident="298">
+	<NPN freq="1">
+		<BASE> <TERM> leuconostoc mesenteroide </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="150" loglike="1022.228" freq="1">
+	<CAND old_ident="151">
+	<NPN freq="1">
+		<BASE> <TERM> longueur d' onde </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="176" loglike="1022.228" freq="1">
+	<CAND old_ident="177">
+	<NA freq="1">
+		<BASE> <TERM> variable multiple </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="93" loglike="1022.228" freq="1">
+	<CAND old_ident="94">
+	<NPN freq="1">
+		<BASE> <TERM> abricot dans un solution </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="298" loglike="1022.228" freq="1">
+	<CAND old_ident="300">
+	<NA freq="1">
+		<BASE> <TERM> liaison osidique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="335" loglike="1022.228" freq="1">
+	<CAND old_ident="337">
+	<NA freq="1">
+		<BASE> <TERM> lieu social </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="273" loglike="1022.228" freq="1">
+	<CAND old_ident="275">
+	<NA freq="1">
+		<BASE> <TERM> europe occidental </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="521" loglike="1022.228" freq="1">
+	<CAND old_ident="524">
+	<NPN freq="1">
+		<BASE> <TERM> témoin dans le cas </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="468" loglike="1022.228" freq="1">
+	<CAND old_ident="471">
+	<NA freq="1">
+		<BASE> <TERM> amidon endommager </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="342" loglike="1022.228" freq="1">
+	<CAND old_ident="344">
+	<NPN freq="1">
+		<BASE> <TERM> respect de procédure </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="35" loglike="1022.228" freq="1">
+	<CAND old_ident="35">
+	<NA freq="1">
+		<BASE> <TERM> colophane cationique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="317" loglike="1022.228" freq="1">
+	<CAND old_ident="319">
+	<NPN freq="1">
+		<BASE> <TERM> fumage du poisson </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="310" loglike="1022.228" freq="1">
+	<CAND old_ident="312">
+	<NA freq="1">
+		<BASE> <TERM> point isoélectrique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="31" loglike="1022.228" freq="1">
+	<CAND old_ident="31">
+	<NPN freq="1">
+		<BASE> <TERM> carton pour emballage </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="13" loglike="1022.228" freq="1">
+	<CAND old_ident="13">
+	<NA freq="1">
+		<BASE> <TERM> nouvelle contraindre </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="345" loglike="1022.228" freq="1">
+	<CAND old_ident="347">
+	<NPN freq="1">
+		<BASE> <TERM> pratique dans un douzaine </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="302" loglike="1022.228" freq="1">
+	<CAND old_ident="304">
+	<NPN freq="1">
+		<BASE> <TERM> citrus nobilis </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="237" loglike="1022.228" freq="1">
+	<CAND old_ident="238">
+	<NA freq="1">
+		<BASE> <TERM> cylindre coaxial </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="260" loglike="1022.228" freq="1">
+	<CAND old_ident="262">
+	<NPN freq="1">
+		<BASE> <TERM> sérum albumine </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="318" loglike="1022.228" freq="1">
+	<CAND old_ident="320">
+	<NPN freq="1">
+		<BASE> <TERM> description du phase </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="329" loglike="1022.228" freq="1">
+	<CAND old_ident="331">
+	<NPN freq="1">
+		<BASE> <TERM> biais de le réglementation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="327" loglike="1022.228" freq="1">
+	<CAND old_ident="329">
+	<NA freq="1">
+		<BASE> <TERM> enjeu européen </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="210" loglike="1022.228" freq="1">
+	<CAND old_ident="211">
+	<NPN freq="1">
+		<BASE> <TERM> protopectine au profit </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="303" loglike="1022.228" freq="1">
+	<CAND old_ident="305">
+	<NPN freq="1">
+		<BASE> <TERM> nobilis lour </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="336" loglike="1022.228" freq="1">
+	<CAND old_ident="338">
+	<NPN freq="1">
+		<BASE> <TERM> attente du salariés-citoyen </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="236" loglike="1022.228" freq="1">
+	<CAND old_ident="237">
+	<NPN freq="1">
+		<BASE> <TERM> viscomètre à cylindre </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="262" loglike="1022.228" freq="1">
+	<CAND old_ident="264">
+	<NPN freq="1">
+		<BASE> <TERM> taux d' estérification </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="362" loglike="1022.228" freq="1">
+	<CAND old_ident="364">
+	<NPNA freq="1">
+		<BASE> <TERM> céréalier par voie microbien </TERM>
+		</BASE>
+	</NPNA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="522" loglike="1022.228" freq="1">
+	<CAND old_ident="525">
+	<NA freq="1">
+		<BASE> <TERM> cas contraire </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="45" loglike="1022.228" freq="1">
+	<CAND old_ident="46">
+	<NPN freq="1">
+		<BASE> <TERM> site de pêche </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="350" loglike="1022.228" freq="1">
+	<CAND old_ident="352">
+	<NA freq="1">
+		<BASE> <TERM> action mener </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="459" loglike="1022.228" freq="1">
+	<CAND old_ident="462">
+	<NPN freq="1">
+		<BASE> <TERM> comparaison du comportement </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="25" loglike="1022.228" freq="1">
+	<CAND old_ident="25">
+	<NPN freq="1">
+		<BASE> <TERM> jour du sujet </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="235" loglike="1022.228" freq="1">
+	<CAND old_ident="236">
+	<NPN freq="1">
+		<BASE> <TERM> concentré de tomate </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="151" loglike="1022.228" freq="1">
+	<CAND old_ident="152">
+	<NPN freq="1">
+		<BASE> <TERM> sensibilité du système </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="219" loglike="1022.228" freq="1">
+	<CAND old_ident="220">
+	<NPNA freq="1">
+		<BASE> <TERM> moisissure d' origine fromager </TERM>
+		</BASE>
+	</NPNA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="334" loglike="1022.228" freq="1">
+	<CAND old_ident="336">
+	<NPN freq="1">
+		<BASE> <TERM> centre du dispositif </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="483" loglike="1022.228" freq="1">
+	<CAND old_ident="486">
+	<NPN freq="1">
+		<BASE> <TERM> nature du interaction </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="347" loglike="1022.228" freq="1">
+	<CAND old_ident="349">
+	<NA freq="1">
+		<BASE> <TERM> entreprise vendéen </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="290" loglike="1020.841" freq="1">
+	<CAND old_ident="292">
+	<NPN freq="1">
+		<MODIF> <TERM> simulation numérique du performance </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="287" loglike="1020.841" freq="1">
+	<CAND old_ident="289">
+	<NPN freq="1">
+		<BASE> <TERM> perte d' énergie </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="4" loglike="1020.841" freq="1">
+	<CAND old_ident="4">
+	<NPN freq="1">
+		<BASE> <TERM> possibilité d' optimisation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="233" loglike="1020.841" freq="1">
+	<CAND old_ident="234">
+	<NPN freq="1">
+		<MODIF> <TERM> comportement rhéologique du ketchup </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="322" loglike="1020.841" freq="1">
+	<CAND old_ident="324">
+	<NPN freq="1">
+		<BASE> <TERM> atelier de fabrication </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="129" loglike="1020.841" freq="1">
+	<CAND old_ident="130">
+	<NA freq="1">
+		<BASE> <TERM> réglementation actuel </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="364" loglike="1020.841" freq="1">
+	<CAND old_ident="366">
+	<NV freq="1">
+		<BASE> <TERM> levure à produire </TERM>
+		</BASE>
+	</NV>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="453" loglike="1020.841" freq="1">
+	<CAND old_ident="456">
+	<NPN freq="1">
+		<BASE> <TERM> transfert de chaleur </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="191" loglike="1020.841" freq="1">
+	<CAND old_ident="192">
+	<NPN freq="1">
+		<BASE> <TERM> assimilation du résultat </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="348" loglike="1020.841" freq="1">
+	<CAND old_ident="350">
+	<NPN freq="1">
+		<MODIF> <TERM> volet technique de le démarche </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="519" loglike="1020.841" freq="1">
+	<CAND old_ident="522">
+	<NA freq="1">
+		<BASE> <TERM> digestibilité apparent </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="422" loglike="1020.841" freq="1">
+	<CAND old_ident="425">
+	<NA freq="1">
+		<BASE> <TERM> caractéristique hydrodynamique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="84" loglike="1020.841" freq="1">
+	<CAND old_ident="85">
+	<NA freq="1">
+		<BASE> <TERM> séchoir expérimental </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="189" loglike="1020.841" freq="1">
+	<CAND old_ident="190">
+	<NPN freq="1">
+		<MODIF> <TERM> erreur devoir à le assimilation </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="274" loglike="1020.841" freq="1">
+	<CAND old_ident="276">
+	<NPN freq="1">
+		<BASE> <TERM> tiers de le production </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="123" loglike="1020.841" freq="1">
+	<CAND old_ident="124">
+	<NPN freq="1">
+		<BASE> <TERM> répartition du genre </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="383" loglike="1020.841" freq="1">
+	<CAND old_ident="385">
+	<NA freq="1">
+		<COORD> <TERM> voie anabolique ou catabolique </TERM>
+		</COORD>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="91" loglike="1020.841" freq="1">
+	<CAND old_ident="92">
+	<NPN freq="1">
+		<BASE> <TERM> durée du trempage </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="421" loglike="1020.841" freq="1">
+	<CAND old_ident="424">
+	<NPN freq="1">
+		<MODIF> <TERM> caractéristique hydrodynamique de le fluidisation </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="95" loglike="1020.841" freq="1">
+	<CAND old_ident="96">
+	<NPN freq="1">
+		<BASE> <TERM> durée du blanchiment </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="10" loglike="1020.841" freq="1">
+	<CAND old_ident="10">
+	<NPN freq="1">
+		<BASE> <TERM> ensemble de le installation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="168" loglike="1020.841" freq="1">
+	<CAND old_ident="169">
+	<NA freq="1">
+		<BASE> <TERM> définition raisonner </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="291" loglike="1020.841" freq="1">
+	<CAND old_ident="293">
+	<NA freq="1">
+		<BASE> <TERM> simulation numérique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="83" loglike="1020.841" freq="1">
+	<CAND old_ident="84">
+	<NPN freq="1">
+		<MODIF> <TERM> séchoir expérimental de laboratoire </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="18" loglike="1020.841" freq="1">
+	<CAND old_ident="18">
+	<NA freq="1">
+		<BASE> <TERM> chimie analytique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="43" loglike="1020.841" freq="1">
+	<CAND old_ident="43">
+	<NA freq="1">
+		<BASE> <TERM> opération technologique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="358" loglike="1020.841" freq="1">
+	<CAND old_ident="360">
+	<NPN freq="1">
+		<BASE> <TERM> cadre de recherche </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="144" loglike="1020.841" freq="1">
+	<CAND old_ident="145">
+	<NA freq="1">
+		<BASE> <TERM> exemple choisir </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="508" loglike="1020.841" freq="1">
+	<CAND old_ident="511">
+	<NA freq="1">
+		<BASE> <TERM> transformation souhaiter </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="501" loglike="1020.841" freq="1">
+	<CAND old_ident="504">
+	<NPN freq="1">
+		<BASE> <TERM> échelle d' intensité </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="180" loglike="1020.841" freq="1">
+	<CAND old_ident="181">
+	<NPN freq="1">
+		<BASE> <TERM> hétérogénéité du parenchyme </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="256" loglike="1020.841" freq="1">
+	<CAND old_ident="258">
+	<NA freq="1">
+		<BASE> <TERM> pousse étioler </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="309" loglike="1020.841" freq="1">
+	<CAND old_ident="311">
+	<NPN freq="1">
+		<BASE> <TERM> bande à un point </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="17" loglike="1020.841" freq="1">
+	<CAND old_ident="17">
+	<NA freq="1">
+		<BASE> <TERM> progrès réaliser </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="346" loglike="1020.841" freq="1">
+	<CAND old_ident="348">
+	<NPN freq="1">
+		<BASE> <TERM> douzaine d' entreprise </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="105" loglike="1020.841" freq="1">
+	<CAND old_ident="106">
+	<NPN freq="1">
+		<BASE> <TERM> gramme d' échantillon </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="255" loglike="1020.841" freq="1">
+	<CAND old_ident="257">
+	<NA freq="1">
+		<ENUM> <TERM> pousse étioler , croire ou blanchir </TERM>
+		</ENUM>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="101" loglike="1020.841" freq="1">
+	<CAND old_ident="102">
+	<NA freq="1">
+		<BASE> <TERM> relaxation longitudinal </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="430" loglike="1020.841" freq="1">
+	<CAND old_ident="433">
+	<NPN freq="1">
+		<BASE> <TERM> interprétation du résultat </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="331" loglike="1020.841" freq="1">
+	<CAND old_ident="333">
+	<NPN freq="1">
+		<MODIF> <TERM> contrainte naître de le environnement </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="319" loglike="1020.841" freq="1">
+	<CAND old_ident="321">
+	<NPN freq="1">
+		<BASE> <TERM> phase de fabrication </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="384" loglike="1020.841" freq="1">
+	<CAND old_ident="386">
+	<NA freq="1">
+		<BASE> <TERM> voie anabolique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="183" loglike="1020.841" freq="1">
+	<CAND old_ident="184">
+	<NA freq="1">
+		<BASE> <TERM> gradient radial </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="57" loglike="1020.841" freq="1">
+	<CAND old_ident="58">
+	<NA freq="1">
+		<MODIF> <TERM> jus limpide destiner </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="142" loglike="1020.841" freq="1">
+	<CAND old_ident="143">
+	<NA freq="1">
+		<BASE> <TERM> transformation classique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="270" loglike="1020.841" freq="1">
+	<CAND old_ident="272">
+	<NA freq="1">
+		<BASE> <TERM> couleur rouge-pourpre </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="529" loglike="1020.841" freq="1">
+	<CAND old_ident="532">
+	<NPN freq="1">
+		<COORD> <TERM> sévérité de le extrusion et de le agglomération </TERM>
+		</COORD>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="277" loglike="1020.841" freq="1">
+	<CAND old_ident="279">
+	<NA freq="1">
+		<BASE> <TERM> diversification vertical </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="68" loglike="1020.841" freq="1">
+	<CAND old_ident="69">
+	<NPN freq="1">
+		<BASE> <TERM> effet de le addition </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="258" loglike="1020.841" freq="1">
+	<CAND old_ident="260">
+	<NA freq="1">
+		<BASE> <TERM> chou chinois </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="246" loglike="1020.841" freq="1">
+	<CAND old_ident="247">
+	<NPN freq="1">
+		<BASE> <TERM> coefficient de consistance </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="288" loglike="1020.841" freq="1">
+	<CAND old_ident="290">
+	<NPN freq="1">
+		<BASE> <TERM> possibilité de maîtrise </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="167" loglike="1020.841" freq="1">
+	<CAND old_ident="168">
+	<NPN freq="1">
+		<MODIF> <TERM> définition raisonner d' un plan </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="306" loglike="1020.841" freq="1">
+	<CAND old_ident="308">
+	<NA freq="1">
+		<BASE> <TERM> précipitation fractionner </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="59" loglike="1020.841" freq="1">
+	<CAND old_ident="60">
+	<NPN freq="1">
+		<BASE> <TERM> élaboration de boisson </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="209" loglike="1020.841" freq="1">
+	<CAND old_ident="210">
+	<NA freq="1">
+		<BASE> <TERM> hydrolyse partiel </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="297" loglike="1020.841" freq="1">
+	<CAND old_ident="299">
+	<NPN freq="1">
+		<BASE> <TERM> synthèse de le alternane </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="34" loglike="1020.841" freq="1">
+	<CAND old_ident="34">
+	<NPN freq="1">
+		<BASE> <TERM> système combine </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="367" loglike="1020.841" freq="1">
+	<CAND old_ident="369">
+	<NA freq="1">
+		<BASE> <TERM> été déterminer </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="444" loglike="1020.841" freq="1">
+	<CAND old_ident="447">
+	<NA freq="1">
+		<COORD> <TERM> le sirop et le air ambiant </TERM>
+		</COORD>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="332" loglike="1020.841" freq="1">
+	<CAND old_ident="334">
+	<NA freq="1">
+		<BASE> <TERM> contrainte naître </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="452" loglike="1020.841" freq="1">
+	<CAND old_ident="455">
+	<NPN freq="1">
+		<COORD> <TERM> transfert de chaleur et de matière </TERM>
+		</COORD>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="51" loglike="1020.841" freq="1">
+	<CAND old_ident="52">
+	<NA freq="1">
+		<BASE> <TERM> boisson fermenter </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="133" loglike="1020.841" freq="1">
+	<CAND old_ident="134">
+	<NA freq="1">
+		<BASE> <TERM> miel chauffer </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="283" loglike="1020.841" freq="1">
+	<CAND old_ident="285">
+	<NPN freq="1">
+		<BASE> <TERM> consommation d' énergie </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="215" loglike="1020.841" freq="1">
+	<CAND old_ident="216">
+	<NPN freq="1">
+		<BASE> <TERM> effet de le ionisation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="338" loglike="1020.841" freq="1">
+	<CAND old_ident="340">
+	<NPN freq="1">
+		<BASE> <TERM> fournisseur d' alimentation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="132" loglike="1020.841" freq="1">
+	<CAND old_ident="133">
+	<NPN freq="1">
+		<BASE> <TERM> vieillissement du miel </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="126" loglike="1020.841" freq="1">
+	<CAND old_ident="127">
+	<NPN freq="1">
+		<BASE> <TERM> miel par chromatographie </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="5" loglike="1020.841" freq="1">
+	<CAND old_ident="5">
+	<NPN freq="1">
+		<BASE> <TERM> réduction du besoin </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="190" loglike="1020.841" freq="1">
+	<CAND old_ident="191">
+	<NA freq="1">
+		<BASE> <TERM> erreur devoir </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="70" loglike="1020.841" freq="1">
+	<CAND old_ident="71">
+	<NPN freq="1">
+		<MODIF> <TERM> enzyme pectolytique au moût </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="131" loglike="1020.841" freq="1">
+	<CAND old_ident="132">
+	<NPN freq="1">
+		<BASE> <TERM> contenu du miel </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="375" loglike="1020.841" freq="1">
+	<CAND old_ident="377">
+	<NA freq="1">
+		<MODIF> <TERM> fermentation ne dépassant </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="372" loglike="1020.841" freq="1">
+	<CAND old_ident="374">
+	<NPN freq="1">
+		<BASE> <TERM> obtention d' un odeur </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="206" loglike="1020.841" freq="1">
+	<CAND old_ident="207">
+	<NPN freq="1">
+		<BASE> <TERM> lot témoin </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="0" loglike="1020.841" freq="1">
+	<CAND old_ident="0">
+	<NPN freq="1">
+		<BASE> <TERM> alternative d' un production </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="242" loglike="1020.841" freq="1">
+	<CAND old_ident="243">
+	<NPN freq="1">
+		<BASE> <TERM> coefficient de corrélation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="98" loglike="1020.841" freq="1">
+	<CAND old_ident="99">
+	<NPN freq="1">
+		<MODIF> <TERM> courbe représentatif du temps </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="416" loglike="1020.841" freq="1">
+	<CAND old_ident="419">
+	<NPN freq="1">
+		<BASE> <TERM> solubilité dans le humidité </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="8" loglike="1020.841" freq="1">
+	<CAND old_ident="8">
+	<NPN freq="1">
+		<BASE> <TERM> extension d' un sucrerie </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="194" loglike="1020.841" freq="1">
+	<CAND old_ident="195">
+	<NA freq="1">
+		<BASE> <TERM> mesure ponctuel </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="315" loglike="1020.841" freq="1">
+	<CAND old_ident="317">
+	<NA freq="1">
+		<BASE> <TERM> activité spécifique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="182" loglike="1020.841" freq="1">
+	<CAND old_ident="183">
+	<NA freq="1">
+		<COORD> <TERM> gradient radial et tangentiel </TERM>
+		</COORD>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="528" loglike="1020.841" freq="1">
+	<CAND old_ident="531">
+	<NPN freq="1">
+		<BASE> <TERM> performance d' élevage </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="97" loglike="1020.841" freq="1">
+	<CAND old_ident="98">
+	<NPN freq="1">
+		<BASE> <TERM> vapeur d' eau </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="497" loglike="1020.841" freq="1">
+	<CAND old_ident="500">
+	<NPN freq="1">
+		<BASE> <TERM> aliment du animal </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="147" loglike="1020.841" freq="1">
+	<CAND old_ident="148">
+	<NPN freq="1">
+		<BASE> <TERM> échelle de notation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="223" loglike="1020.841" freq="1">
+	<CAND old_ident="224">
+	<NPN freq="1">
+		<BASE> <TERM> processus de congélation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="250" loglike="1020.841" freq="1">
+	<CAND old_ident="252">
+	<NPN freq="1">
+		<BASE> <TERM> culture sur le modèle </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="115" loglike="1020.841" freq="1">
+	<CAND old_ident="116">
+	<NA freq="1">
+		<BASE> <TERM> région français </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="102" loglike="1020.841" freq="1">
+	<CAND old_ident="103">
+	<NA freq="1">
+		<BASE> <TERM> relaxation transversal </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="363" loglike="1020.841" freq="1">
+	<CAND old_ident="365">
+	<NPN freq="1">
+		<BASE> <TERM> exemple type </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="313" loglike="1020.841" freq="1">
+	<CAND old_ident="315">
+	<NPN freq="1">
+		<BASE> <TERM> sulfate de sodium </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="326" loglike="1020.841" freq="1">
+	<CAND old_ident="328">
+	<NPN freq="1">
+		<BASE> <TERM> spécificité de le alimentation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="385" loglike="1020.841" freq="1">
+	<CAND old_ident="387">
+	<NA freq="1">
+		<BASE> <TERM> fermentation alcoolique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="247" loglike="1020.841" freq="1">
+	<CAND old_ident="248">
+	<NPN freq="1">
+		<BASE> <TERM> indice d' écoulement </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="449" loglike="1020.841" freq="1">
+	<CAND old_ident="452">
+	<NPN freq="1">
+		<MODIF> <TERM> mathématique reposant sur le couplage </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="257" loglike="1020.841" freq="1">
+	<CAND old_ident="259">
+	<NPN freq="1">
+		<BASE> <TERM> chou cabus </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="71" loglike="1020.841" freq="1">
+	<CAND old_ident="72">
+	<NA freq="1">
+		<BASE> <TERM> enzyme pectolytique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="344" loglike="1020.841" freq="1">
+	<CAND old_ident="346">
+	<NPN freq="1">
+		<BASE> <TERM> observation du pratique </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="177" loglike="1020.841" freq="1">
+	<CAND old_ident="178">
+	<NA freq="1">
+		<BASE> <TERM> charge analytique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="208" loglike="1020.841" freq="1">
+	<CAND old_ident="209">
+	<NPN freq="1">
+		<MODIF> <TERM> hydrolyse partiel de le protopectine </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="323" loglike="1020.841" freq="1">
+	<CAND old_ident="325">
+	<NPN freq="1">
+		<BASE> <TERM> procédé de transformation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="26" loglike="1020.841" freq="1">
+	<CAND old_ident="26">
+	<NA freq="1">
+		<BASE> <TERM> application pratique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="305" loglike="1020.841" freq="1">
+	<CAND old_ident="307">
+	<NPN freq="1">
+		<MODIF> <TERM> précipitation fractionner au sulfate </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="369" loglike="1020.841" freq="1">
+	<CAND old_ident="371">
+	<NPN freq="1">
+		<BASE> <TERM> levure de boulangerie </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="505" loglike="1020.841" freq="1">
+	<CAND old_ident="508">
+	<NPN freq="1">
+		<MODIF> <TERM> conséquence nutritionnel chez le poulet </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="60" loglike="1020.841" freq="1">
+	<CAND old_ident="61">
+	<NA freq="1">
+		<BASE> <TERM> pulpe sec </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="530" loglike="1020.841" freq="1">
+	<CAND old_ident="533">
+	<NPN freq="1">
+		<BASE> <TERM> sévérité de le extrusion </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="75" loglike="1020.841" freq="1">
+	<CAND old_ident="76">
+	<NA freq="1">
+		<BASE> <TERM> clarification enzymatique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="193" loglike="1020.841" freq="1">
+	<CAND old_ident="194">
+	<NPN freq="1">
+		<MODIF> <TERM> mesure ponctuel à le valeur </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="467" loglike="1020.841" freq="1">
+	<CAND old_ident="470">
+	<NPN freq="1">
+		<BASE> <TERM> lipide en amidon </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="450" loglike="1020.841" freq="1">
+	<CAND old_ident="453">
+	<NA freq="1">
+		<BASE> <TERM> mathématique reposant </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="245" loglike="1020.841" freq="1">
+	<CAND old_ident="246">
+	<NPN freq="1">
+		<BASE> <TERM> seuil d' écoulement </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="16" loglike="1020.841" freq="1">
+	<CAND old_ident="16">
+	<NPN freq="1">
+		<MODIF> <TERM> progrès réaliser dans le chimie </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="518" loglike="1020.841" freq="1">
+	<CAND old_ident="521">
+	<NPN freq="1">
+		<MODIF> <TERM> digestibilité apparent de le azote </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="58" loglike="1020.841" freq="1">
+	<CAND old_ident="59">
+	<NA freq="1">
+		<BASE> <TERM> jus limpide </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="330" loglike="1020.841" freq="1">
+	<CAND old_ident="332">
+	<NPN freq="1">
+		<BASE> <TERM> cadre d' opportunité </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="397" loglike="1020.841" freq="1">
+	<CAND old_ident="400">
+	<NA freq="1">
+		<BASE> <TERM> pain français </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="299" loglike="1020.841" freq="1">
+	<CAND old_ident="301">
+	<NPN freq="1">
+		<BASE> <TERM> synthèse d' oligoalternane </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="307" loglike="1020.841" freq="1">
+	<CAND old_ident="309">
+	<NPN freq="1">
+		<BASE> <TERM> sulfate d' ammonium </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="343" loglike="1020.841" freq="1">
+	<CAND old_ident="345">
+	<NA freq="1">
+		<BASE> <TERM> procédure technique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="491" loglike="1020.318" freq="1">
+	<CAND old_ident="494">
+	<NA freq="1">
+		<BASE> <TERM> origine génétique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="200" loglike="1020.318" freq="1">
+	<CAND old_ident="201">
+	<NA freq="1">
+		<MODIF> <TERM> carotte râper prêt </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="314" loglike="1020.318" freq="1">
+	<CAND old_ident="316">
+	<NA freq="1">
+		<BASE> <TERM> propriété cinétique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="181" loglike="1020.318" freq="1">
+	<CAND old_ident="182">
+	<NPN freq="1">
+		<BASE> <TERM> parenchyme de fruit </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="473" loglike="1020.318" freq="1">
+	<CAND old_ident="476">
+	<NPN freq="1">
+		<BASE> <TERM> incorporation de fraction </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="279" loglike="1020.318" freq="1">
+	<CAND old_ident="281">
+	<NPN freq="1">
+		<COORD> <TERM> importance du société ou du coopérative </TERM>
+		</COORD>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="87" loglike="1020.318" freq="1">
+	<CAND old_ident="88">
+	<NPN freq="1">
+		<BASE> <TERM> oreillon d' abricot </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="524" loglike="1020.318" freq="1">
+	<CAND old_ident="527">
+	<NPN freq="1">
+		<MODIF> <TERM> composé chimique de le graine </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="489" loglike="1020.318" freq="1">
+	<CAND old_ident="492">
+	<NA freq="1">
+		<BASE> <TERM> capacité améliorant </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="440" loglike="1020.318" freq="1">
+	<CAND old_ident="443">
+	<NA freq="1">
+		<BASE> <TERM> influence prépondérant </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="271" loglike="1020.318" freq="1">
+	<CAND old_ident="273">
+	<NA freq="1">
+		<BASE> <TERM> résidu estérifier </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="404" loglike="1020.318" freq="1">
+	<CAND old_ident="407">
+	<NPN freq="1">
+		<BASE> <TERM> présence du alcool </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="155" loglike="1020.318" freq="1">
+	<CAND old_ident="156">
+	<NPN freq="1">
+		<BASE> <TERM> spectrométrie d' image </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="32" loglike="1020.318" freq="1">
+	<CAND old_ident="32">
+	<NPN freq="1">
+		<BASE> <TERM> emballage de liquide </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="300" loglike="1020.318" freq="1">
+	<CAND old_ident="302">
+	<NPN freq="1">
+		<BASE> <TERM> propriété du pectineméthylestérase </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="280" loglike="1020.318" freq="1">
+	<CAND old_ident="282">
+	<NPN freq="1">
+		<BASE> <TERM> importance du société </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="433" loglike="1020.318" freq="1">
+	<CAND old_ident="436">
+	<NPN freq="1">
+		<BASE> <TERM> influence du condition </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="145" loglike="1020.318" freq="1">
+	<CAND old_ident="146">
+	<NPN freq="1">
+		<BASE> <TERM> centrage du donnée </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="21" loglike="1020.318" freq="1">
+	<CAND old_ident="21">
+	<NA freq="1">
+		<BASE> <TERM> cation tel </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="92" loglike="1020.318" freq="1">
+	<CAND old_ident="93">
+	<NPN freq="1">
+		<BASE> <TERM> trempage du abricot </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="259" loglike="1020.318" freq="1">
+	<CAND old_ident="261">
+	<NPN freq="1">
+		<COORD> <TERM> le asperge et le chicorée de bruxelles </TERM>
+		</COORD>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="224" loglike="1020.318" freq="1">
+	<CAND old_ident="225">
+	<NA freq="1">
+		<BASE> <TERM> travail liminaire </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="400" loglike="1020.318" freq="1">
+	<CAND old_ident="403">
+	<NPN freq="1">
+		<BASE> <TERM> méthodologie mise </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="42" loglike="1020.318" freq="1">
+	<CAND old_ident="42">
+	<NA freq="1">
+		<BASE> <TERM> forme minéral </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="125" loglike="1020.318" freq="1">
+	<CAND old_ident="126">
+	<NA freq="1">
+		<BASE> <TERM> type ir </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="96" loglike="1020.318" freq="1">
+	<CAND old_ident="97">
+	<NPN freq="1">
+		<BASE> <TERM> blanchiment à le vapeur </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="165" loglike="1020.318" freq="1">
+	<CAND old_ident="166">
+	<NA freq="1">
+		<MODIF> <TERM> échantillonnage très complet </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="462" loglike="1020.318" freq="1">
+	<CAND old_ident="465">
+	<NPN freq="1">
+		<BASE> <TERM> faine de force </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="536" loglike="1020.318" freq="1">
+	<CAND old_ident="539">
+	<NPN freq="1">
+		<BASE> <TERM> modification de le état </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="311" loglike="1020.318" freq="1">
+	<CAND old_ident="313">
+	<NA freq="1">
+		<BASE> <TERM> masse moléculaire </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="377" loglike="1020.318" freq="1">
+	<CAND old_ident="379">
+	<NA freq="1">
+		<BASE> <TERM> composé aromatique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="40" loglike="1020.318" freq="1">
+	<CAND old_ident="40">
+	<NPN freq="1">
+		<BASE> <TERM> solubilisation du forme </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="41" loglike="1020.318" freq="1">
+	<CAND old_ident="41">
+	<NPN freq="1">
+		<MODIF> <TERM> forme minéral du sol </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="434" loglike="1020.318" freq="1">
+	<CAND old_ident="437">
+	<NA freq="1">
+		<BASE> <TERM> condition opératoire </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="441" loglike="1020.318" freq="1">
+	<CAND old_ident="444">
+	<NA freq="1">
+		<BASE> <TERM> condition retenir </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="249" loglike="1020.318" freq="1">
+	<CAND old_ident="250">
+	<NA freq="1">
+		<MODIF> <TERM> information plus complet </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="539" loglike="1020.318" freq="1">
+	<CAND old_ident="542">
+	<NPN freq="1">
+		<BASE> <TERM> amélioration de le efficacité </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="308" loglike="1020.318" freq="1">
+	<CAND old_ident="310">
+	<NPN freq="1">
+		<BASE> <TERM> chromatographie sur colonne </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="428" loglike="1019.978" freq="1">
+	<CAND old_ident="431">
+	<NA freq="1">
+		<MODIF> <TERM> particule inerte chaud </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="466" loglike="1019.978" freq="1">
+	<CAND old_ident="469">
+	<NPN freq="1">
+		<BASE> <TERM> teneur en lipide </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="140" loglike="1019.978" freq="1">
+	<CAND old_ident="141">
+	<NPN freq="1">
+		<BASE> <TERM> apport du centrage </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="417" loglike="1019.978" freq="1">
+	<CAND old_ident="420">
+	<NPN freq="1">
+		<BASE> <TERM> humidité de sorte </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="238" loglike="1019.978" freq="1">
+	<CAND old_ident="239">
+	<NPN freq="1">
+		<BASE> <TERM> vitesse de cisaillement </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="294" loglike="1019.978" freq="1">
+	<CAND old_ident="296">
+	<NA freq="1">
+		<BASE> <TERM> installation frigorifique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="11" loglike="1019.978" freq="1">
+	<CAND old_ident="11">
+	<NPN freq="1">
+		<MODIF> <TERM> installation électrique au nouvelle </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="265" loglike="1019.978" freq="1">
+	<CAND old_ident="267">
+	<NPN freq="1">
+		<BASE> <TERM> hydroxylamine en milieu </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="386" loglike="1019.978" freq="1">
+	<CAND old_ident="388">
+	<NPN freq="1">
+		<BASE> <TERM> aération du milieu </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="503" loglike="1019.978" freq="1">
+	<CAND old_ident="506">
+	<NPN freq="1">
+		<MODIF> <TERM> critère propre à le opération </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="139" loglike="1019.978" freq="1">
+	<CAND old_ident="140">
+	<NPN freq="1">
+		<COORD> <TERM> apport du centrage et de le réduction </TERM>
+		</COORD>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="28" loglike="1019.978" freq="1">
+	<CAND old_ident="28">
+	<NPN freq="1">
+		<BASE> <TERM> collage en milieu </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="184" loglike="1019.978" freq="1">
+	<CAND old_ident="185">
+	<NPN freq="1">
+		<BASE> <TERM> critère de fermeté </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="352" loglike="1019.978" freq="1">
+	<CAND old_ident="354">
+	<NPN freq="1">
+		<MODIF> <TERM> potentialité aromatisant de le souche </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="353" loglike="1019.978" freq="1">
+	<CAND old_ident="355">
+	<NA freq="1">
+		<BASE> <TERM> potentialité aromatisant </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="360" loglike="1019.978" freq="1">
+	<CAND old_ident="362">
+	<NPN freq="1">
+		<BASE> <TERM> potentialité d' aromatisation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="53" loglike="1019.978" freq="1">
+	<CAND old_ident="54">
+	<NPN freq="1">
+		<MODIF> <TERM> polysaccharide pariétal de le prune </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="293" loglike="1019.978" freq="1">
+	<CAND old_ident="295">
+	<NPN freq="1">
+		<MODIF> <TERM> installation frigorifique à absorption </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="63" loglike="1019.978" freq="1">
+	<CAND old_ident="64">
+	<NPN freq="1">
+		<BASE> <TERM> proportion d' acide </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="426" loglike="1019.978" freq="1">
+	<CAND old_ident="429">
+	<NA freq="1">
+		<BASE> <TERM> particule humide </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="504" loglike="1019.978" freq="1">
+	<CAND old_ident="507">
+	<NA freq="1">
+		<BASE> <TERM> critère propre </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="12" loglike="1019.978" freq="1">
+	<CAND old_ident="12">
+	<NA freq="1">
+		<BASE> <TERM> installation électrique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="268" loglike="1019.978" freq="1">
+	<CAND old_ident="270">
+	<NPN freq="1">
+		<BASE> <TERM> groupement d' acide </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="117" loglike="1019.978" freq="1">
+	<CAND old_ident="118">
+	<NA freq="1">
+		<BASE> <TERM> bactérie lactique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="442" loglike="1019.978" freq="1">
+	<CAND old_ident="445">
+	<NA freq="1">
+		<MODIF> <TERM> vitesse initial élever </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="479" loglike="1019.726" freq="1">
+	<CAND old_ident="482">
+	<NPN freq="1">
+		<BASE> <TERM> extractibilité du protéine </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="376" loglike="1019.726" freq="1">
+	<CAND old_ident="378">
+	<NPN freq="1">
+		<BASE> <TERM> paramètre sur le biosynthèse </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="391" loglike="1019.726" freq="1">
+	<CAND old_ident="393">
+	<NA freq="1">
+		<BASE> <TERM> acide aminer </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="158" loglike="1019.726" freq="1">
+	<CAND old_ident="159">
+	<NPN freq="1">
+		<BASE> <TERM> valeur de référence </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="24" loglike="1019.726" freq="1">
+	<CAND old_ident="24">
+	<NPN freq="1">
+		<BASE> <TERM> mise à jour </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="192" loglike="1019.726" freq="1">
+	<CAND old_ident="193">
+	<NPN freq="1">
+		<BASE> <TERM> résultat d' un mesure </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="392" loglike="1019.726" freq="1">
+	<CAND old_ident="395">
+	<NPN freq="1">
+		<BASE> <TERM> cellule de levure </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="65" loglike="1019.726" freq="1">
+	<CAND old_ident="66">
+	<NA freq="1">
+		<BASE> <TERM> acide galacturonique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="401" loglike="1019.726" freq="1">
+	<CAND old_ident="404">
+	<NPN freq="1">
+		<BASE> <TERM> mise en oeuvre </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="531" loglike="1019.726" freq="1">
+	<CAND old_ident="534">
+	<NPN freq="1">
+		<BASE> <TERM> résultat de bilan </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="395" loglike="1019.726" freq="1">
+	<CAND old_ident="398">
+	<NA freq="1">
+		<BASE> <TERM> constituant volatil </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="185" loglike="1019.726" freq="1">
+	<CAND old_ident="186">
+	<NPN freq="1">
+		<MODIF> <TERM> paramètre biochimique de le avocat </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="1" loglike="1019.726" freq="1">
+	<CAND old_ident="1">
+	<NPN freq="1">
+		<COORD> <TERM> production économique de vapeur et de courant </TERM>
+		</COORD>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="52" loglike="1019.726" freq="1">
+	<CAND old_ident="53">
+	<NA freq="1">
+		<BASE> <TERM> sucre raffiner </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="535" loglike="1019.726" freq="1">
+	<CAND old_ident="538">
+	<NPN freq="1">
+		<BASE> <TERM> paramètre de commande </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="389" loglike="1019.726" freq="1">
+	<CAND old_ident="391">
+	<NV freq="1">
+		<BASE> <TERM> constituant à partir </TERM>
+		</BASE>
+	</NV>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="365" loglike="1019.726" freq="1">
+	<CAND old_ident="367">
+	<NA freq="1">
+		<BASE> <TERM> constituant odorant </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="109" loglike="1019.726" freq="1">
+	<CAND old_ident="110">
+	<NA freq="1">
+		<BASE> <TERM> séchage industriel </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="408" loglike="1019.726" freq="1">
+	<CAND old_ident="411">
+	<NPN freq="1">
+		<BASE> <TERM> séchage en discontinu </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="196" loglike="1019.726" freq="1">
+	<CAND old_ident="197">
+	<NA freq="1">
+		<BASE> <TERM> valeur moyen </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="269" loglike="1019.726" freq="1">
+	<CAND old_ident="271">
+	<NA freq="1">
+		<BASE> <TERM> acide hydroxamique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="390" loglike="1019.726" freq="1">
+	<CAND old_ident="392">
+	<NA freq="1">
+		<MODIF> <TERM> acide aminer correspondant </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="86" loglike="1019.726" freq="1">
+	<CAND old_ident="87">
+	<NPN freq="1">
+		<BASE> <TERM> séchage d' oreillon </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="517" loglike="1019.524" freq="1">
+	<CAND old_ident="520">
+	<NA freq="1">
+		<BASE> <TERM> énergie métabolisable </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="478" loglike="1019.524" freq="1">
+	<CAND old_ident="481">
+	<NPN freq="1">
+		<BASE> <TERM> étude de le extractibilité </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="526" loglike="1019.524" freq="1">
+	<CAND old_ident="529">
+	<NA freq="1">
+		<MODIF> <TERM> énergie thermique apporter </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="316" loglike="1019.524" freq="1">
+	<CAND old_ident="318">
+	<NPN freq="1">
+		<BASE> <TERM> énergie d' activation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="456" loglike="1019.524" freq="1">
+	<CAND old_ident="459">
+	<NPN freq="1">
+		<BASE> <TERM> eau du sucre </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="419" loglike="1019.524" freq="1">
+	<CAND old_ident="422">
+	<NPN freq="1">
+		<BASE> <TERM> cristal de sucre </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="527" loglike="1019.524" freq="1">
+	<CAND old_ident="530">
+	<NA freq="1">
+		<BASE> <TERM> énergie thermique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="379" loglike="1019.524" freq="1">
+	<CAND old_ident="381">
+	<NA freq="1">
+		<MODIF> <TERM> composition plus complexe </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="513" loglike="1019.524" freq="1">
+	<CAND old_ident="516">
+	<NA freq="1">
+		<MODIF> <TERM> énergie mécanique fournir </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="393" loglike="1019.524" freq="1">
+	<CAND old_ident="396">
+	<NPN freq="1">
+		<BASE> <TERM> étude du constituant </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="514" loglike="1019.524" freq="1">
+	<CAND old_ident="517">
+	<NA freq="1">
+		<BASE> <TERM> énergie mécanique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="220" loglike="1019.524" freq="1">
+	<CAND old_ident="221">
+	<NA freq="1">
+		<BASE> <TERM> étude bibliographique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="254" loglike="1019.524" freq="1">
+	<CAND old_ident="256">
+	<NPN freq="1">
+		<MODIF> <TERM> composition nutritionnel du pousse </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="153" loglike="1019.524" freq="1">
+	<CAND old_ident="154">
+	<NPN freq="1">
+		<BASE> <TERM> étude du bruit </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="423" loglike="1019.524" freq="1">
+	<CAND old_ident="426">
+	<NPN freq="1">
+		<BASE> <TERM> fluidisation du sucre </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="354" loglike="1019.524" freq="1">
+	<CAND old_ident="356">
+	<NPN freq="1">
+		<BASE> <TERM> souche saccharomyces_cerevisiae </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="409" loglike="1019.524" freq="1">
+	<CAND old_ident="412">
+	<NPN freq="1">
+		<BASE> <TERM> discontinu de sucre </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="179" loglike="1019.524" freq="1">
+	<CAND old_ident="180">
+	<NPN freq="1">
+		<BASE> <TERM> étude de le hétérogénéité </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="116" loglike="1019.524" freq="1">
+	<CAND old_ident="117">
+	<NPN freq="1">
+		<BASE> <TERM> souche de bactérie </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="160" loglike="1019.457" freq="1">
+	<CAND old_ident="161">
+	<NA freq="1">
+		<COORD> <TERM> dépréciation économique et technologique </TERM>
+		</COORD>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="234" loglike="1019.457" freq="1">
+	<CAND old_ident="235">
+	<NA freq="1">
+		<BASE> <TERM> comportement rhéologique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="76" loglike="1019.457" freq="1">
+	<CAND old_ident="77">
+	<NPN freq="1">
+		<BASE> <TERM> couleur du cidre </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="538" loglike="1019.457" freq="1">
+	<CAND old_ident="541">
+	<NA freq="1">
+		<BASE> <TERM> état physicochimique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="55" loglike="1019.457" freq="1">
+	<CAND old_ident="56">
+	<NPN freq="1">
+		<BASE> <TERM> clarification du jus </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="537" loglike="1019.457" freq="1">
+	<CAND old_ident="540">
+	<NPN freq="1">
+		<MODIF> <TERM> état physicochimique de le amidon </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="349" loglike="1019.457" freq="1">
+	<CAND old_ident="351">
+	<NA freq="1">
+		<BASE> <TERM> volet technique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="276" loglike="1019.457" freq="1">
+	<CAND old_ident="278">
+	<NA freq="1">
+		<ENUM> <TERM> diversification vertical , horizontal et latéral </TERM>
+		</ENUM>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="446" loglike="1019.457" freq="1">
+	<CAND old_ident="449">
+	<NPN freq="1">
+		<MODIF> <TERM> élimination complet de le humidité </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="161" loglike="1019.457" freq="1">
+	<CAND old_ident="162">
+	<NA freq="1">
+		<BASE> <TERM> dépréciation économique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="99" loglike="1019.457" freq="1">
+	<CAND old_ident="100">
+	<NA freq="1">
+		<BASE> <TERM> courbe représentatif </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="56" loglike="1019.457" freq="1">
+	<CAND old_ident="57">
+	<NPN freq="1">
+		<BASE> <TERM> obtention du jus </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="217" loglike="1019.457" freq="1">
+	<CAND old_ident="218">
+	<NPN freq="1">
+		<COORD> <TERM> congélation de levure et de moisissure </TERM>
+		</COORD>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="128" loglike="1019.457" freq="1">
+	<CAND old_ident="129">
+	<NPN freq="1">
+		<MODIF> <TERM> réglementation actuel de le cEE </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="7" loglike="1019.457" freq="1">
+	<CAND old_ident="7">
+	<NA freq="1">
+		<BASE> <TERM> besoin spécifique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="107" loglike="1019.457" freq="1">
+	<CAND old_ident="108">
+	<NPN freq="1">
+		<BASE> <TERM> élaboration d' un méthode </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="272" loglike="1019.457" freq="1">
+	<CAND old_ident="274">
+	<NPN freq="1">
+		<BASE> <TERM> concentration du entreprise </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="67" loglike="1019.457" freq="1">
+	<CAND old_ident="68">
+	<NA freq="1">
+		<BASE> <TERM> chaîne latéral </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="292" loglike="1019.457" freq="1">
+	<CAND old_ident="294">
+	<NPN freq="1">
+		<BASE> <TERM> performance d' installation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="351" loglike="1019.357" freq="1">
+	<CAND old_ident="353">
+	<NPN freq="1">
+		<BASE> <TERM> etude du potentialité </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="122" loglike="1019.357" freq="1">
+	<CAND old_ident="123">
+	<NA freq="1">
+		<MODIF> <TERM> flore lactique total </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="111" loglike="1019.357" freq="1">
+	<CAND old_ident="112">
+	<NPN freq="1">
+		<MODIF> <TERM> flore lactique de levain </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="227" loglike="1019.357" freq="1">
+	<CAND old_ident="228">
+	<NPN freq="1">
+		<MODIF> <TERM> flore fongique du fromage </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="540" loglike="1019.357" freq="1">
+	<CAND old_ident="543">
+	<NA freq="1">
+		<BASE> <TERM> efficacité alimentaire </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="251" loglike="1019.357" freq="1">
+	<CAND old_ident="253">
+	<NPN freq="1">
+		<BASE> <TERM> modèle de le chicorée </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="231" loglike="1019.357" freq="1">
+	<CAND old_ident="232">
+	<NPN freq="1">
+		<MODIF> <TERM> etude comparatif de le rhéologie </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="286" loglike="1019.357" freq="1">
+	<CAND old_ident="288">
+	<NA freq="1">
+		<BASE> <TERM> modèle empirique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="448" loglike="1019.357" freq="1">
+	<CAND old_ident="451">
+	<NPN freq="1">
+		<BASE> <TERM> modèle mathématique </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="33" loglike="1019.357" freq="1">
+	<CAND old_ident="33">
+	<NA freq="1">
+		<BASE> <TERM> liquide alimentaire </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="337" loglike="1019.357" freq="1">
+	<CAND old_ident="339">
+	<NPN freq="1">
+		<BASE> <TERM> qualité de fabricant </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="321" loglike="1019.357" freq="1">
+	<CAND old_ident="323">
+	<NPN freq="1">
+		<BASE> <TERM> etude d' un atelier </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="243" loglike="1019.357" freq="1">
+	<CAND old_ident="244">
+	<NA freq="1">
+		<BASE> <TERM> modèle rhéologlque </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="228" loglike="1019.357" freq="1">
+	<CAND old_ident="229">
+	<NA freq="1">
+		<BASE> <TERM> flore fongique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="289" loglike="1019.357" freq="1">
+	<CAND old_ident="291">
+	<NPN freq="1">
+		<MODIF> <TERM> etude comparatif par simulation </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="264" loglike="1019.213" freq="1">
+	<CAND old_ident="266">
+	<NPN freq="1">
+		<BASE> <TERM> traitement à le hydroxylamine </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="137" loglike="1019.213" freq="1">
+	<CAND old_ident="138">
+	<NPN freq="1">
+		<BASE> <TERM> analyse factorielle </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="424" loglike="1019.213" freq="1">
+	<CAND old_ident="427">
+	<NPN freq="1">
+		<BASE> <TERM> expérience de séchage </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="78" loglike="1019.213" freq="1">
+	<CAND old_ident="79">
+	<NPN freq="1">
+		<BASE> <TERM> donnée sur le séchage </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="523" loglike="1019.213" freq="1">
+	<CAND old_ident="526">
+	<NA freq="1">
+		<BASE> <TERM> traitement modérer </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="520" loglike="1019.213" freq="1">
+	<CAND old_ident="523">
+	<NA freq="1">
+		<ATTR> <TERM> traitement être:3g peu sévère </TERM>
+		</ATTR>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="492" loglike="1019.213" freq="1">
+	<CAND old_ident="495">
+	<NA freq="1">
+		<BASE> <TERM> farine turboséparer </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="202" loglike="1019.213" freq="1">
+	<CAND old_ident="203">
+	<NA freq="1">
+		<BASE> <TERM> traitement ionisant </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="19" loglike="1019.213" freq="1">
+	<CAND old_ident="19">
+	<NA freq="1">
+		<COORD> <TERM> analyse rapide et plutôt simple </TERM>
+		</COORD>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="500" loglike="1019.213" freq="1">
+	<CAND old_ident="503">
+	<NA freq="1">
+		<BASE> <TERM> traitement hydrothermique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="481" loglike="1019.213" freq="1">
+	<CAND old_ident="484">
+	<NA freq="1">
+		<MODIF> <TERM> farine améliorer considérer </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="510" loglike="1019.213" freq="1">
+	<CAND old_ident="513">
+	<NA freq="1">
+		<BASE> <TERM> traitement drastique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="328" loglike="1019.213" freq="1">
+	<CAND old_ident="330">
+	<NPN freq="1">
+		<BASE> <TERM> impératif de le qualité </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="282" loglike="1019.213" freq="1">
+	<CAND old_ident="284">
+	<NPN freq="1">
+		<BASE> <TERM> analyse de le consommation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="482" loglike="1019.213" freq="1">
+	<CAND old_ident="485">
+	<NA freq="1">
+		<BASE> <TERM> farine améliorer </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="472" loglike="1019.213" freq="1">
+	<CAND old_ident="475">
+	<NPN freq="1">
+		<BASE> <TERM> farine par incorporation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="471" loglike="1019.213" freq="1">
+	<CAND old_ident="474">
+	<NPN freq="1">
+		<BASE> <TERM> boulangère d' un farine </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="461" loglike="1019.088" freq="1">
+	<CAND old_ident="464">
+	<NPN freq="1">
+		<BASE> <TERM> protéine du gluten </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="488" loglike="1019.088" freq="1">
+	<CAND old_ident="491">
+	<NA freq="1">
+		<BASE> <TERM> protéine endogène </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="266" loglike="1019.088" freq="1">
+	<CAND old_ident="268">
+	<NA freq="1">
+		<BASE> <TERM> milieu alcalin </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="22" loglike="1019.088" freq="1">
+	<CAND old_ident="22">
+	<NPN freq="1">
+		<BASE> <TERM> méthode de routine </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="320" loglike="1019.088" freq="1">
+	<CAND old_ident="322">
+	<NPN freq="1">
+		<BASE> <TERM> méthode de préparation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="173" loglike="1019.088" freq="1">
+	<CAND old_ident="174">
+	<NA freq="1">
+		<MODIF> <TERM> méthode statistique non paramétrique </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="30" loglike="1019.088" freq="1">
+	<CAND old_ident="30">
+	<NA freq="1">
+		<BASE> <TERM> milieu basique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="493" loglike="1019.088" freq="1">
+	<CAND old_ident="496">
+	<NPN freq="1">
+		<BASE> <TERM> méthode d' évaluation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="29" loglike="1019.088" freq="1">
+	<CAND old_ident="29">
+	<NPN freq="1">
+		<MODIF> <TERM> milieu basique du carton </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="361" loglike="1018.977" freq="1">
+	<CAND old_ident="363">
+	<NPN freq="1">
+		<BASE> <TERM> aromatisation du produit </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="214" loglike="1018.977" freq="1">
+	<CAND old_ident="215">
+	<NA freq="1">
+		<BASE> <TERM> fraction polysaccharidique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="61" loglike="1018.977" freq="1">
+	<CAND old_ident="62">
+	<NPN freq="1">
+		<MODIF> <TERM> fraction pectique de le pulpe </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="486" loglike="1018.977" freq="1">
+	<CAND old_ident="489">
+	<NPN freq="1">
+		<MODIF> <TERM> fraction améliorant par rapport </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="48" loglike="1018.977" freq="1">
+	<CAND old_ident="49">
+	<NA freq="1">
+		<BASE> <TERM> produit aquatique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="50" loglike="1018.977" freq="1">
+	<CAND old_ident="51">
+	<NA freq="1">
+		<BASE> <TERM> produit carné </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="207" loglike="1018.977" freq="1">
+	<CAND old_ident="208">
+	<NA freq="1">
+		<MODIF> <TERM> fraction pectique insoluble </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="431" loglike="1018.977" freq="1">
+	<CAND old_ident="434">
+	<NPN freq="1">
+		<BASE> <TERM> choix du produit </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="81" loglike="1018.977" freq="1">
+	<CAND old_ident="82">
+	<NA freq="1">
+		<BASE> <TERM> produit sécher </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="398" loglike="1018.935" freq="1">
+	<CAND old_ident="401">
+	<NPN freq="1">
+		<BASE> <TERM> procédé de panification </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="221" loglike="1018.935" freq="1">
+	<CAND old_ident="222">
+	<NPN freq="1">
+		<COORD> <TERM> conservation de levure et de moisissure </TERM>
+		</COORD>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="420" loglike="1018.935" freq="1">
+	<CAND old_ident="423">
+	<NA freq="1">
+		<BASE> <TERM> propriété physicochimique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="198" loglike="1018.935" freq="1">
+	<CAND old_ident="199">
+	<NPN freq="1">
+		<MODIF> <TERM> polysasccharide pariétal de carotte </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="178" loglike="1018.935" freq="1">
+	<CAND old_ident="179">
+	<NPN freq="1">
+		<BASE> <TERM> hétérogénéité du fruit </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="447" loglike="1018.935" freq="1">
+	<CAND old_ident="450">
+	<NA freq="1">
+		<BASE> <TERM> élimination complet </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="285" loglike="1018.935" freq="1">
+	<CAND old_ident="287">
+	<NPN freq="1">
+		<BASE> <TERM> utilisation d' un modèle </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="136" loglike="1018.935" freq="1">
+	<CAND old_ident="137">
+	<NPN freq="1">
+		<BASE> <TERM> aliment par analyse </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="124" loglike="1018.935" freq="1">
+	<CAND old_ident="125">
+	<NA freq="1">
+		<ATTR> <TERM> type ir être:3g très variable </TERM>
+		</ATTR>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="525" loglike="1018.935" freq="1">
+	<CAND old_ident="528">
+	<NA freq="1">
+		<BASE> <TERM> composé chimique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="216" loglike="1018.935" freq="1">
+	<CAND old_ident="217">
+	<NPN freq="1">
+		<BASE> <TERM> conservation par congélation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="534" loglike="1018.935" freq="1">
+	<CAND old_ident="537">
+	<NA freq="1">
+		<BASE> <TERM> modification physico-chimique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="141" loglike="1018.935" freq="1">
+	<CAND old_ident="142">
+	<NPN freq="1">
+		<BASE> <TERM> réduction du donnée </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="6" loglike="1018.935" freq="1">
+	<CAND old_ident="6">
+	<NPN freq="1">
+		<MODIF> <TERM> besoin spécifique en vapeur </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="106" loglike="1018.935" freq="1">
+	<CAND old_ident="107">
+	<NPN freq="1">
+		<BASE> <TERM> lot de carotte </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="148" loglike="1018.935" freq="1">
+	<CAND old_ident="149">
+	<NPN freq="1">
+		<BASE> <TERM> système d' analyse </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="445" loglike="1018.935" freq="1">
+	<CAND old_ident="448">
+	<NA freq="1">
+		<BASE> <TERM> air ambiant </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="66" loglike="1018.935" freq="1">
+	<CAND old_ident="67">
+	<NA freq="1">
+		<MODIF> <TERM> chaîne latéral pectique </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="172" loglike="1018.935" freq="1">
+	<CAND old_ident="173">
+	<NPN freq="1">
+		<BASE> <TERM> utilisation d' un méthode </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="213" loglike="1018.935" freq="1">
+	<CAND old_ident="214">
+	<NPN freq="1">
+		<BASE> <TERM> répartition du fraction </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="199" loglike="1018.935" freq="1">
+	<CAND old_ident="200">
+	<NA freq="1">
+		<BASE> <TERM> polysasccharide pariétal </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="135" loglike="1018.597" freq="1">
+	<CAND old_ident="136">
+	<NA freq="1">
+		<BASE> <TERM> caractérisation sensoriel </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="506" loglike="1018.597" freq="1">
+	<CAND old_ident="509">
+	<NA freq="1">
+		<BASE> <TERM> conséquence nutritionnel </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="455" loglike="1018.597" freq="1">
+	<CAND old_ident="458">
+	<NPN freq="1">
+		<BASE> <TERM> teneur en eau </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="366" loglike="1018.597" freq="1">
+	<CAND old_ident="368">
+	<NPN freq="1">
+		<MODIF> <TERM> été déterminer dans du milieu </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="429" loglike="1018.597" freq="1">
+	<CAND old_ident="432">
+	<NA freq="1">
+		<BASE> <TERM> particule inerte </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="370" loglike="1018.597" freq="1">
+	<CAND old_ident="372">
+	<NA freq="1">
+		<BASE> <TERM> potentialité effectif </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="403" loglike="1018.597" freq="1">
+	<CAND old_ident="406">
+	<NA freq="1">
+		<BASE> <TERM> apport effectif </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="469" loglike="1018.415" freq="1">
+	<CAND old_ident="472">
+	<NPN freq="1">
+		<BASE> <TERM> amélioration de le force </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="143" loglike="1018.415" freq="1">
+	<CAND old_ident="144">
+	<NPN freq="1">
+		<BASE> <TERM> utilisation du donnée </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="496" loglike="1018.415" freq="1">
+	<CAND old_ident="499">
+	<NPN freq="1">
+		<BASE> <TERM> forme du aliment </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="121" loglike="1018.415" freq="1">
+	<CAND old_ident="122">
+	<NPN freq="1">
+		<BASE> <TERM> importance de le flore </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="169" loglike="1018.415" freq="1">
+	<CAND old_ident="170">
+	<NPN freq="1">
+		<BASE> <TERM> plan de contrôle </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="38" loglike="1018.415" freq="1">
+	<CAND old_ident="38">
+	<NPN freq="1">
+		<BASE> <TERM> origine du chrome </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="439" loglike="1018.415" freq="1">
+	<CAND old_ident="442">
+	<NA freq="1">
+		<BASE> <TERM> masse initial </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="515" loglike="1018.346" freq="1">
+	<CAND old_ident="518">
+	<NPN freq="1">
+		<BASE> <TERM> rapport à le féverole </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="394" loglike="1018.346" freq="1">
+	<CAND old_ident="397">
+	<NPN freq="1">
+		<MODIF> <TERM> constituant volatil de mie </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="544" loglike="1018.346" freq="1">
+	<CAND old_ident="547">
+	<NA freq="1">
+		<BASE> <TERM> résultat physico-chimique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="541" loglike="1018.346" freq="1">
+	<CAND old_ident="544">
+	<NPN freq="1">
+		<MODIF> <TERM> valeur nutritionnel du échantillon </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="341" loglike="1018.346" freq="1">
+	<CAND old_ident="343">
+	<NPN freq="1">
+		<BASE> <TERM> mise au point </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="275" loglike="1018.346" freq="1">
+	<CAND old_ident="277">
+	<NPN freq="1">
+		<BASE> <TERM> production de le cEE </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="186" loglike="1018.346" freq="1">
+	<CAND old_ident="187">
+	<NA freq="1">
+		<BASE> <TERM> paramètre biochimique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="152" loglike="1018.346" freq="1">
+	<CAND old_ident="153">
+	<NA freq="1">
+		<BASE> <TERM> constituant biochimique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="3" loglike="1018.346" freq="1">
+	<CAND old_ident="3">
+	<NA freq="1">
+		<BASE> <TERM> production économique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="487" loglike="1018.346" freq="1">
+	<CAND old_ident="490">
+	<NPN freq="1">
+		<BASE> <TERM> rapport au protéine </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="218" loglike="1018.346" freq="1">
+	<CAND old_ident="219">
+	<NPN freq="1">
+		<BASE> <TERM> congélation de levure </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="512" loglike="1018.146" freq="1">
+	<CAND old_ident="515">
+	<NA freq="1">
+		<BASE> <TERM> composition chimique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="226" loglike="1018.146" freq="1">
+	<CAND old_ident="227">
+	<NA freq="1">
+		<BASE> <TERM> souche représentatif </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="371" loglike="1018.146" freq="1">
+	<CAND old_ident="373">
+	<NA freq="1">
+		<MODIF> <TERM> concentration bien supérieur </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="443" loglike="1018.079" freq="1">
+	<CAND old_ident="446">
+	<NA freq="1">
+		<BASE> <TERM> vitesse initial </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="89" loglike="1018.079" freq="1">
+	<CAND old_ident="90">
+	<NPN freq="1">
+		<BASE> <TERM> vitesse de le air </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="425" loglike="1018.079" freq="1">
+	<CAND old_ident="428">
+	<NPN freq="1">
+		<MODIF> <TERM> particule humide dans un lit </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="203" loglike="1018.079" freq="1">
+	<CAND old_ident="204">
+	<NPN freq="1">
+		<MODIF> <TERM> polysaccharide pariétal de carotte </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="381" loglike="1018.079" freq="1">
+	<CAND old_ident="383">
+	<NPN freq="1">
+		<BASE> <TERM> condition de fermentation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="436" loglike="1018.079" freq="1">
+	<CAND old_ident="439">
+	<NA freq="1">
+		<BASE> <TERM> humidité initial </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="374" loglike="1018.079" freq="1">
+	<CAND old_ident="376">
+	<NPN freq="1">
+		<BASE> <TERM> temps de fermentation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="73" loglike="1018.079" freq="1">
+	<CAND old_ident="74">
+	<NPN freq="1">
+		<BASE> <TERM> évolution de le fermentation </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="77" loglike="1017.98" freq="1">
+	<CAND old_ident="78">
+	<NA freq="1">
+		<BASE> <TERM> qualité sensoriel </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="74" loglike="1017.98" freq="1">
+	<CAND old_ident="75">
+	<NPN freq="1">
+		<BASE> <TERM> qualité du cidre </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="405" loglike="1017.98" freq="1">
+	<CAND old_ident="408">
+	<NPN freq="1">
+		<MODIF> <TERM> alcool supérieur dans le mie </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="240" loglike="1017.98" freq="1">
+	<CAND old_ident="241">
+	<NA freq="1">
+		<BASE> <TERM> modèle rhéologique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="20" loglike="1017.839" freq="1">
+	<CAND old_ident="20">
+	<NA freq="1">
+		<BASE> <TERM> analyse rapide </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="253" loglike="1017.839" freq="1">
+	<CAND old_ident="255">
+	<NPN freq="1">
+		<BASE> <TERM> analyse de le composition </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="465" loglike="1017.839" freq="1">
+	<CAND old_ident="468">
+	<NPNA freq="1">
+		<BASE> <TERM> farine par voie sec </TERM>
+		</BASE>
+	</NPNA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="195" loglike="1017.829" freq="1">
+	<CAND old_ident="196">
+	<NPN freq="1">
+		<MODIF> <TERM> valeur moyen du fruit </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="484" loglike="1017.829" freq="1">
+	<CAND old_ident="487">
+	<NPN freq="1">
+		<BASE> <TERM> influence du protéine </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="355" loglike="1017.829" freq="1">
+	<CAND old_ident="357">
+	<NPN freq="1">
+		<BASE> <TERM> production d' alcool </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="244" loglike="1017.829" freq="1">
+	<CAND old_ident="245">
+	<NA freq="1">
+		<BASE> <TERM> paramètre tel </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="2" loglike="1017.829" freq="1">
+	<CAND old_ident="2">
+	<NPN freq="1">
+		<MODIF> <TERM> production économique de vapeur </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="79" loglike="1017.829" freq="1">
+	<CAND old_ident="80">
+	<NPN freq="1">
+		<BASE> <TERM> séchage de le abricot </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="222" loglike="1017.829" freq="1">
+	<CAND old_ident="223">
+	<NPN freq="1">
+		<BASE> <TERM> conservation de levure </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="533" loglike="1017.829" freq="1">
+	<CAND old_ident="536">
+	<NPN freq="1">
+		<MODIF> <TERM> modification physico-chimique de féverole </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="64" loglike="1017.829" freq="1">
+	<CAND old_ident="65">
+	<NA freq="1">
+		<MODIF> <TERM> acide galacturonique hautement estérifier </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="402" loglike="1017.744" freq="1">
+	<CAND old_ident="405">
+	<NPN freq="1">
+		<MODIF> <TERM> apport effectif de le fermentation </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="378" loglike="1017.715" freq="1">
+	<CAND old_ident="380">
+	<NPN freq="1">
+		<BASE> <TERM> milieu de composition </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="175" loglike="1017.715" freq="1">
+	<CAND old_ident="176">
+	<NPN freq="1">
+		<MODIF> <TERM> méthode statistique à variable </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="387" loglike="1017.715" freq="1">
+	<CAND old_ident="389">
+	<NA freq="1">
+		<BASE> <TERM> milieu fermenter </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="108" loglike="1017.715" freq="1">
+	<CAND old_ident="109">
+	<NA freq="1">
+		<BASE> <TERM> méthode rapide </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="225" loglike="1017.631" freq="1">
+	<CAND old_ident="226">
+	<NPN freq="1">
+		<MODIF> <TERM> souche représentatif de le flore </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="438" loglike="1017.631" freq="1">
+	<CAND old_ident="441">
+	<NPN freq="1">
+		<MODIF> <TERM> masse initial du sucre </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="432" loglike="1017.605" freq="1">
+	<CAND old_ident="435">
+	<NA freq="1">
+		<BASE> <TERM> produit inerte </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="170" loglike="1017.605" freq="1">
+	<CAND old_ident="171">
+	<NPN freq="1">
+		<BASE> <TERM> produit de sucrerie </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="542" loglike="1017.496" freq="1">
+	<CAND old_ident="545">
+	<NA freq="1">
+		<BASE> <TERM> valeur nutritionnel </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="239" loglike="1017.467" freq="1">
+	<CAND old_ident="240">
+	<NA freq="1">
+		<MODIF> <TERM> modèle rhéologique tel </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="110" loglike="1017.467" freq="1">
+	<CAND old_ident="111">
+	<NPN freq="1">
+		<BASE> <TERM> etude de le flore </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="339" loglike="1017.327" freq="1">
+	<CAND old_ident="341">
+	<NPN freq="1">
+		<BASE> <TERM> amélioration de le qualité </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="475" loglike="1017.327" freq="1">
+	<CAND old_ident="478">
+	<NPN freq="1">
+		<BASE> <TERM> farine de force </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="490" loglike="1017.327" freq="1">
+	<CAND old_ident="493">
+	<NPN freq="1">
+		<MODIF> <TERM> origine génétique de le farine </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="263" loglike="1017.205" freq="1">
+	<CAND old_ident="265">
+	<NA freq="1">
+		<BASE> <TERM> protéine estérifier </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="162" loglike="1017.205" freq="1">
+	<CAND old_ident="163">
+	<NPN freq="1">
+		<BASE> <TERM> méthode d' analyse </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="485" loglike="1017.205" freq="1">
+	<CAND old_ident="488">
+	<NPN freq="1">
+		<BASE> <TERM> protéine du fraction </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="415" loglike="1017.097" freq="1">
+	<CAND old_ident="418">
+	<NPN freq="1">
+		<BASE> <TERM> type de produit </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="511" loglike="1017.055" freq="1">
+	<CAND old_ident="514">
+	<NPN freq="1">
+		<MODIF> <TERM> composition chimique de le féverole </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="414" loglike="1017.055" freq="1">
+	<CAND old_ident="417">
+	<NPN freq="1">
+		<BASE> <TERM> séchage de sucre </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="457" loglike="1016.999" freq="1">
+	<CAND old_ident="460">
+	<NPN freq="1">
+		<BASE> <TERM> caractérisation de farine </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="502" loglike="1016.772" freq="1">
+	<CAND old_ident="505">
+	<NPN freq="1">
+		<COORD> <TERM> critère propre à le opération et au produit </TERM>
+		</COORD>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="407" loglike="1016.568" freq="1">
+	<CAND old_ident="410">
+	<NPN freq="1">
+		<BASE> <TERM> étude du séchage </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="166" loglike="1016.413" freq="1">
+	<CAND old_ident="167">
+	<NPN freq="1">
+		<BASE> <TERM> modèle de qualité </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="413" loglike="1016.281" freq="1">
+	<CAND old_ident="416">
+	<NPN freq="1">
+		<BASE> <TERM> analyse du séchage </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+</LISTCAND>

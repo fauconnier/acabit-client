@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LISTCAND>
+<SETCAND new_ident="2" loglike="1018.835" freq="2">
+	<CAND old_ident="2">
+	<NA freq="2">
+		<BASE> <TERM> gaz volcanique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="5" loglike="1012.594" freq="1">
+	<CAND old_ident="5">
+	<NA freq="1">
+		<BASE> <TERM> type éruptif </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="12" loglike="1012.594" freq="1">
+	<CAND old_ident="12">
+	<NPN freq="1">
+		<BASE> <TERM> vapeur de eau </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="9" loglike="1012.594" freq="1">
+	<CAND old_ident="9">
+	<NPN freq="1">
+		<BASE> <TERM> éruption en présence </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="24" loglike="1012.594" freq="1">
+	<CAND old_ident="24">
+	<NPN freq="1">
+		<BASE> <TERM> fumerolle autour </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="18" loglike="1012.594" freq="1">
+	<CAND old_ident="18">
+	<NA freq="1">
+		<BASE> <TERM> élément volatil </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="3" loglike="1011.207" freq="1">
+	<CAND old_ident="3">
+	<NPN freq="1">
+		<MODIF> <TERM> phénomène déterminant dans le déclenchement </TERM>
+		</MODIF>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="22" loglike="1011.207" freq="1">
+	<CAND old_ident="22">
+	<NPN freq="1">
+		<BASE> <TERM> magma en profondeur </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="23" loglike="1011.207" freq="1">
+	<CAND old_ident="23">
+	<NPN freq="1">
+		<BASE> <TERM> présence de fumerolle </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="20" loglike="1011.207" freq="1">
+	<CAND old_ident="20">
+	<NPN freq="1">
+		<BASE> <TERM> chlorure de hydrogène </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="10" loglike="1011.207" freq="1">
+	<CAND old_ident="10">
+	<NPN freq="1">
+		<BASE> <TERM> présence de un magma </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="7" loglike="1011.207" freq="1">
+	<CAND old_ident="7">
+	<NA freq="1">
+		<COORD> <TERM> caractère explosif et violent </TERM>
+		</COORD>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="21" loglike="1011.207" freq="1">
+	<CAND old_ident="21">
+	<NPN freq="1">
+		<BASE> <TERM> sulfure de hydrogène </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="4" loglike="1011.207" freq="1">
+	<CAND old_ident="4">
+	<NA freq="1">
+		<BASE> <TERM> phénomène déterminant </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="11" loglike="1011.207" freq="1">
+	<CAND old_ident="11">
+	<NA freq="1">
+		<BASE> <TERM> magma visqueux.Les </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="19" loglike="1011.207" freq="1">
+	<CAND old_ident="19">
+	<NPN freq="1">
+		<BASE> <TERM> monoxyde de carbone </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="8" loglike="1011.207" freq="1">
+	<CAND old_ident="8">
+	<NA freq="1">
+		<BASE> <TERM> caractère explosif </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="16" loglike="1011.207" freq="1">
+	<CAND old_ident="16">
+	<NPN freq="1">
+		<BASE> <TERM> dioxyde de soufre </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="17" loglike="1010.684" freq="1">
+	<CAND old_ident="17">
+	<NPN freq="1">
+		<BASE> <TERM> soufre à teneur </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="6" loglike="1010.684" freq="1">
+	<CAND old_ident="6">
+	<NA freq="1">
+		<BASE> <TERM> cheminée volcanique </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="13" loglike="1010.684" freq="1">
+	<CAND old_ident="13">
+	<NPN freq="1">
+		<BASE> <TERM> eau à teneur </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="15" loglike="1010.684" freq="1">
+	<CAND old_ident="15">
+	<NPN freq="1">
+		<BASE> <TERM> carbone à teneur </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="0" loglike="1010.344" freq="1">
+	<CAND old_ident="0">
+	<NA freq="1">
+		<BASE> <TERM> gaz volcaniquesLes </TERM>
+		</BASE>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="1" loglike="1010.344" freq="1">
+	<CAND old_ident="1">
+	<NA freq="1">
+		<MODIF> <TERM> gaz volcanique dissoudre </TERM>
+		</MODIF>
+	</NA>
+	</CAND>
+</SETCAND>
+
+<SETCAND new_ident="14" loglike="1009.867" freq="1">
+	<CAND old_ident="14">
+	<NPN freq="1">
+		<BASE> <TERM> dioxyde de carbone </TERM>
+		</BASE>
+	</NPN>
+	</CAND>
+</SETCAND>
+
+</LISTCAND>
